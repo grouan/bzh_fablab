@@ -1,0 +1,406 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MakerSpace56",
+        "structure": "MakerSpace",
+	 "adresse": "VIPE",
+	 "cp": "56000",
+        "ville": "Vannes",
+        "web": "http://makerspace56.org",
+        "twitter": "@makerspace56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7541303,
+          47.6424637
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FabLabVannes",
+        "structure": "Fab Lab MIT",
+	 "adresse": "VIPE",
+	 "cp": "56000",
+        "ville": "Vannes",
+        "web": "",
+        "twitter": "@fablabvannes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7540,
+          47.6424637
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CreaFab",
+        "structure": "MakerSpace",
+	 "adresse": "Espace Créa Parc Technologique de Soye – Rue Galilée",
+	 "cp": "56270",
+        "ville": "Ploemeur",
+        "web": "http://www.crepp.org",
+        "twitter": "@CREAFABLorient"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.40837,
+          47.74043
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FabriKerné",
+        "structure": "MakerSpace",
+	 "adresse": "MJC de Kerfeunteun – 4, rue Teilhard de Chardin",
+	 "cp": "29000",
+        "ville": "Quimper",
+        "web": "http://fabrikerne.fr",
+        "twitter": "@FabriKerne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0940971,
+          48.0027842
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SiliconKerné",
+        "structure": "Cantine numérique",
+	 "adresse": "2 rue François Briant de Laubrière",
+	 "cp": "29000",
+        "ville": "Quimper",
+        "web": "http://www.silicon-kerne.net",
+        "twitter": "@SiliconKerne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0374755859375,
+          47.98256841921402
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TyFab",
+        "structure": "FabLab MIT",
+	 "adresse": "40 rue Jules Lesven",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://tyfab.fr",
+        "twitter": "@TyFabBrest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480659,
+	   48.4085982
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Fabriques du Ponant",
+        "structure": "Tiers-Lieu",
+	 "adresse": "40, rue Jules Lesven",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.lesfabriquesduponant.net",
+        "twitter": "@FabDuPonant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4805,
+	   48.4085982
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TéléFab Brest",
+        "structure": "FabLab",
+	 "adresse": "Télécom Bretagne – Technopôle Brest-Iroise",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://telefab.fr",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -4.5675242,
+	     48.3584389
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FabLab Lannion KerNEL",
+        "structure": "FabLab MIT",
+	 "adresse": "14, rue de Beauchamp",
+	 "cp": "22300",
+        "ville": "Lannion",
+        "web": "http://www.fablab-lannion.org",
+        "twitter": "@fablablannion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -3.4509774,
+	     48.7319268
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Matrice",
+        "structure": "Cantine numérique",
+	 "adresse": "21, bd Clémenceau",
+	 "cp": "22000",
+        "ville": "Saint-Brieuc",
+        "web": "http://lamatrice.org",
+        "twitter": "@LaMatrice_SB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7598532,
+	   48.5091313
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TéléFab Rennes",
+        "structure": "FabLab",
+	 "adresse": "Télécom Bretagne – 2 Rue de la Châtaigneraie",
+	 "cp": "35510",
+        "ville": "Cesson",
+        "web": "http://telefab.fr",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6290429,
+	   48.1202251
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LabFab EESAB",
+        "structure": "Fab Lab MIT",
+	 "adresse": "34 rue, Hoche",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://labfab.fr",
+        "twitter": "@LabFabfr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6763995,
+	   48.114335
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breizh-Entropy",
+        "structure": "HackerSpace",
+	 "adresse": "48, bd Villebois Mareuil",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://breizh-entropy.org/",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6510436,
+	   48.1067505
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bug",
+        "structure": "Usages numériques",
+	 "adresse": "6 cours des Alliés",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://www.asso-bug.org",
+        "twitter": "@assobug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6765335202217102,
+          48.10476968234334
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La French Tech Rennes Saint-Malo",
+        "structure": "FrenchTech",
+	 "adresse": "20 rue d'Isly",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://lafrenchtech-rennes.fr",
+        "twitter": "@LaFTRennes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.677609086036682,
+          48.10689030135254
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Grenier numérique",
+        "structure": "FrenchTech",
+	 "adresse": "Place de la ferronnerie",
+	 "cp": "56200",
+        "ville": "La Gacilly",
+        "web": "http://www.legreniernumerique.fr",
+        "twitter": "@grenier_numeriq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1291160583496094,
+          47.76193086576956
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurserie numérique",
+        "structure": "FrenchTech",
+	 "adresse": "Place de l'étoile",
+	 "cp": "56910",
+        "ville": "Carentoir",
+        "web": "",
+        "twitter": "@NnumCarentoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1348077058792114,
+          47.816875743505456
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurserie numérique",
+        "structure": "FrenchTech",
+	 "adresse": "Place du Docteur Jean Queinnec",
+	 "cp": "56140",
+        "ville": "Malestroit",
+        "web": "http://www.lanurserienumerique.com/",
+        "twitter": "@NNumerique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0374755859375,
+          47.98256841921402
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp'TIC",
+        "structure": "Usages numériques",
+	 "adresse": "31 rue Duguay-Trouin",
+	 "cp": "56100",
+        "ville": "Lorient",
+        "web": "http://www.camptic.fr",
+        "twitter": "@CampTIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3655151724815364,
+          47.74300658709913
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Cantine Numérique brestoise – An Daol Vras",
+        "structure": "Cantine numérique",
+	 "adresse": "20 rue Duquesne",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.lacantine-brest.net",
+        "twitter": "@AnDaolVras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4878427,
+	   48.3919666
+        ]
+      }
+    }
+    
+  ]
+}
