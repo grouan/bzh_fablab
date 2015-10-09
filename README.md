@@ -1,2 +1,7 @@
 # bzh_fablab
-Map des FabLab et autres lieux des usages numériques en Bretagne (hors EPN)
+Liste GeoJSON des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usages numériques (...) de Bretagne.
+Les EPN (Espaces Publics Numériques) ne sont pas pris en compte.
+
+Ces datas sont accessibles en Open Data sous MIT Licence.
+
+Plus d'informations http://guillaume-rouan.net/blog/
