@@ -488,16 +488,76 @@
         "name": "Lab Bro Pondi",
         "structure": "FabLab MIT",
 	 "adresse": "",
-	 "cp": "56",
+	 "cp": "56300",
         "ville": "Pontivy",
         "web": "http://labbropondi.fr",
-        "twitter": "@labbropondi"
+        "twitter": "@LabBroPondi"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743314266204834,
-          48.10527477014653
+          -2.9683685302734375,
+          48.06847276507187
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Brieuc Factory",
+        "structure": "FabLab MIT",
+	 "adresse": "Carré Rosengart Quai Armez",
+	 "cp": "22000",
+        "ville": "Saint-Brieuc",
+        "web": "http://www.saint-brieuc-factory.fr",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7490835,
+	   48.5232504
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kreizenn Dafar",
+        "structure": "Usages numériques",
+	 "adresse": "La Matrice",
+	 "cp": "22000",
+        "ville": "Saint-Brieuc",
+        "web": "http://www.kreizenn-dafar.org",
+        "twitter": "@KreizennDafar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.759740948677063,
+          48.50904746652217
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atelier de la Flibuste",
+        "structure": "FabLab",
+	 "adresse": "",
+	 "cp": "35280",
+        "ville": "Saint-Malo",
+        "web": "http://atelierdelaflibuste.fr",
+        "twitter": "@fablabsaintmalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0260655879974365,
+          48.64887382705131
         ]
       }
     }
