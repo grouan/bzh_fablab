@@ -207,7 +207,7 @@
       "properties": {
         "name": "TéléFab Rennes",
         "structure": "FabLab",
-	 "adresse": "Télécom Bretagne – 2 Rue de la Châtaigneraie",
+	 "adresse": "Télécom Bretagne – 2, rue de la Châtaigneraie",
 	 "cp": "35510",
         "ville": "Cesson",
         "web": "http://telefab.fr",
@@ -227,7 +227,7 @@
       "properties": {
         "name": "LabFab EESAB",
         "structure": "Fab Lab MIT",
-	 "adresse": "34 rue, Hoche",
+	 "adresse": "34, rue Hoche",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://labfab.fr",
@@ -250,7 +250,7 @@
 	 "adresse": "48, bd Villebois Mareuil",
 	 "cp": "35000",
         "ville": "Rennes",
-        "web": "http://breizh-entropy.org/",
+        "web": "http://breizh-entropy.org",
         "twitter": ""
       },
       "geometry": {
@@ -258,6 +258,26 @@
         "coordinates": [
           -1.6510436,
 	   48.1067505
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La CamBuzz",
+        "structure": "Cantine",
+	 "adresse": "Pôle La Grande Passerelle — Rue Théodore Monod",
+	 "cp": "35288",
+        "ville": "Saint-Malo",
+        "web": "http://digital-saint-malo.com",
+        "twitter": "@LaCamBuzz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0070433616638184,
+          48.64692097935483
         ]
       }
     },
