@@ -400,6 +400,106 @@
 	   48.3919666
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Biome",
+        "structure": "FaLab",
+	 "adresse": "",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://lebiomefablab.wix.com/lebiome",
+        "twitter": "@Le_biome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6792774200439453,
+          48.111270965232336
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilt",
+        "structure": "Tiers Lieu",
+	 "adresse": "",
+	 "cp": "56450",
+        "ville": "Theix",
+        "web": "",
+        "twitter": "@tilt_theix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.64920711517334,
+          47.62876324543288
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museomix Ouest",
+        "structure": "Usages numériques",
+	 "adresse": "Musée de la Bretagne — 10 cours des Alliés",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://www.museomix.org ",
+        "twitter": "@MuseomixOuest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674259006977081,
+          48.10509387047545
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biblio Remix",
+        "structure": "Usages numériques",
+	 "adresse": "Les Champs Libres — 10 cours des Alliés",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://biblioremix.wordpress.com",
+        "twitter": "@BiblioRemix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743314266204834,
+          48.10527477014653
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lab Bro Pondi",
+        "structure": "FabLab MIT",
+	 "adresse": "",
+	 "cp": "56",
+        "ville": "Pontivy",
+        "web": "http://labbropondi.fr",
+        "twitter": "@labbropondi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743314266204834,
+          48.10527477014653
+        ]
+      }
     }
     
   ]
