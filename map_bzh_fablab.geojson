@@ -580,6 +580,46 @@
           48.64887382705131
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Factory",
+        "structure": "FabLab",
+	 "adresse": "Université Bretagne Ouest — 3, rue des Archives",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.497463703155518,
+          48.39860784596984
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POC Girafe",
+        "structure": "FabLab",
+	 "adresse": "Université Bretagne Ouest — 3, rue des Archives",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.poclagirafe.bzh",
+        "twitter": "@collectif_poc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480866193771362,
+          48.4085813395762
+        ]
+      }
     }
     
   ]
