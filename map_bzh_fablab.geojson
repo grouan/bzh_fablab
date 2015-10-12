@@ -620,6 +620,106 @@
           48.4085813395762
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bibliothèque de Brest",
+        "structure": "Usages numériques",
+	 "adresse": "Espace Multimédia — 16, bis rue traverse",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.atelier-multimedia-brest.fr",
+        "twitter": "@bibliobrest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4888529,
+	   48.3846115
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Médiathèque de Baud",
+        "structure": "Usages numériques",
+	 "adresse": "3, avenue Jean Moulin",
+	 "cp": "56150",
+        "ville": "Baud",
+        "web": "http://baud.c3rb.org",
+        "twitter": "@MediadeBaud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0173322558403015,
+          47.87392873628959
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Médiathèque de Pontivy",
+        "structure": "Usages numériques",
+	 "adresse": "34, bis rue du Général de Gaulle",
+	 "cp": "56300",
+        "ville": "Pontivy",
+        "web": "http://www.espace-kenere.fr",
+        "twitter": "@espacekenere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9637175798416138,
+          48.07207529213718
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Médiathèque d'Allaire",
+        "structure": "Usages numériques",
+	 "adresse": "10, place de l'Église",
+	 "cp": "56350",
+        "ville": "Allaire",
+        "web": "http://www.allaire.fr/?page=lmediatheque",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.165132761001587,
+          47.63686981649663
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Médiathèque de Locminé",
+        "structure": "Usages numériques",
+	 "adresse": "Place Anne de Bretagne",
+	 "cp": "56500",
+        "ville": "Locminé",
+        "web": "http://mediatheque.mairie-locmine.fr",
+        "twitter": "@bibliolocmine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.833029627799988,
+          47.883054917498285
+        ]
+      }
     }
     
   ]
