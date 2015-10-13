@@ -720,6 +720,66 @@
           47.883054917498285
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouillants",
+        "structure": "Usages numériques",
+	 "adresse": "Lieu-dit Les Bouillants",
+	 "cp": "35770",
+        "ville": "Vern-sur-Seiche",
+        "web": "http://www.bouillants.fr",
+        "twitter": "@bouillants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.616138219833374,
+          48.04359948853352
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4C",
+        "structure": "Usages numériques",
+	 "adresse": "Les Champs Libres — 10, cours des Alliés",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://leschampslibres.tumblr.com",
+        "twitter": "@LesChampsLibres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6746988892555237,
+          48.10535357772494
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cybercentre Guérande",
+        "structure": "Usages numériques",
+	 "adresse": "22, faubourg Saint-Michel",
+	 "cp": "44350",
+        "ville": "Guérande",
+        "web": "http://www.cybercentre-guerande.fr",
+        "twitter": "@cyberguerande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.423413395881653,
+          47.32585776687383
+        ]
+      }
     }
     
   ]
