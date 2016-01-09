@@ -34,7 +34,7 @@
        
        <!-- Paramétrages de la couche Mapbox + légende de la carte -->
        <script>
-		ACCESS_TOKEN = 'pk.eyJ1IjoiZ3JvdWFuIiwiYSI6ImNpZmptMmNsczAwenlzeGx4Ym1zOGM5ZzkifQ.uLnuOKagy0bJgfUSPY9hCw'; /* Voir http://www.mapbox.com pour en créer un */
+		ACCESS_TOKEN = 'XXX'; /* Voir http://www.mapbox.com pour en créer un */
 		
 		CM_ATTR = 'Donn&eacute;es carte &copy; contributeurs <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
 			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -67,7 +67,7 @@
 	var map = L.map('map').setView([48.145, -3.00], 8); /* zoom = 8 */
 	
 /* === ID MAPBOX === */
-	L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'grouan.nlhkfa0j'}).addTo(map);
+	L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY'}).addTo(map);
 	
 /* === PARAMETRAGE DES MARKERS === */
 	var 	LeafIcon = L.Icon.extend({ options: { iconSize: [35, 35]} });
