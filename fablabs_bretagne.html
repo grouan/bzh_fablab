@@ -9,7 +9,7 @@
        =============================================================================
        	Auteur : Guillaume ROUAN | http://guillaume-rouan.net | @grouan
        -----------------------------------------------------------------------------
-       	Licence : CC BY-NC-SA
+       	Licence : CC BY
               Création : Octobre 2015
               Technos : OpenStreetMap + Mapbox + Leaflet
               Thématiques : FabLab, MakerSpace, HackerSpace, FrenchTech,
@@ -34,7 +34,7 @@
        
        <!-- Paramétrages de la couche Mapbox + légende de la carte -->
        <script>
-		ACCESS_TOKEN = 'XXX'; /* Voir http://www.mapbox.com pour en créer un */
+		ACCESS_TOKEN = 'pk.eyJ1IjoiZ3JvdWFuIiwiYSI6ImNpZmptMmNsczAwenlzeGx4Ym1zOGM5ZzkifQ.uLnuOKagy0bJgfUSPY9hCw'; /* Voir http://www.mapbox.com pour en créer un */
 		
 		CM_ATTR = 'Donn&eacute;es carte &copy; contributeurs <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
 			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -44,7 +44,7 @@
 		
 		MB_ATTR = '<a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> + ' +
 			'<a href="http://mapbox.com" target="_blank">Mapbox</a> | ' +
-			'<a href="http://guillaume-rouan.net" target="_blank">Guillaume Rouan</a> <a href="http://creativecommons.fr/licences/" target="_blank">CC BY-NC-SA</a>';
+			'<a href="http://guillaume-rouan.net" target="_blank">Guillaume Rouan</a> <a href="http://creativecommons.fr/licences/" target="_blank">CC BY</a>';
 		
 		MB_URL = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + ACCESS_TOKEN;
 		
@@ -67,7 +67,7 @@
 	var map = L.map('map').setView([48.145, -3.00], 8); /* zoom = 8 */
 	
 /* === ID MAPBOX === */
-	L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'XXX'}).addTo(map);
+	L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'grouan.nlhkfa0j'}).addTo(map);
 	
 /* === PARAMETRAGE DES MARKERS === */
 	var 	LeafIcon = L.Icon.extend({ options: { iconSize: [35, 35]} });
@@ -92,7 +92,7 @@
 	L.marker([48.64887382705131,-2.0260655879974365], {icon: fablab_Icon}).bindPopup("<b>Atelier de la Flibuste</b><br />35280 SAINT-MALO<br /><a href='http://atelierdelaflibuste.fr' target='_blank'>atelierdelaflibuste.fr</a> | <a href='http://twitter.com/fablabsaintmalo' target='_blank'>@fablabsaintmalo</a>").addTo(map);
 	L.marker([48.39860784596984,-4.497463703155518], {icon: fablab_Icon}).bindPopup("<b>Open Factory</b><br />Universit&eacute; Bretagne Ouest<br />3, rue des Archives<br />29200 BREST").addTo(map);
 	L.marker([48.4085813395762,-4.480866193771362], {icon: fablab_Icon}).bindPopup("<b>POC Girafe</b><br />TyFab<br />Rue Jules Lesven<br />29200 BREST<br /><a href='http://www.poclagirafe.bzh' target='_blank'>poclagirafe.bzh</a> | <a href='http://twitter.com/collectif_poc' target='_blank'>@collectif_poc</a>").addTo(map);
-	
+	L.marker([47.666769,-2.9856916], {icon: fablab_Icon}).bindPopup("<b>La Fabrique du Loch</b><br />56400 AURAY<br /><a href='http://twitter.com/fabriqueduloch' target='_blank'>@fabriqueduloch</a>").addTo(map);
 	
 	/* --- MakerSpace --- */
 	L.marker([47.74043, -3.40837], {icon: makerspace_Icon}).bindPopup("<b>Cr&eacute;aFab</b><br />Espace Cr&eacute;a Parc Technologique de Soye<br />Rue Galil&eacute;e<br />56270 PL&OElig;MEUR<br /><a href='http://www.crepp.org' target='_blank'>crepp.org</a> | <a href='http://twitter.com/CREAFABLorient' target='_blank'>@CREAFABLorient</a>").addTo(map);
