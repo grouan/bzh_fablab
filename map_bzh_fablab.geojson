@@ -780,6 +780,26 @@
           47.32585776687383
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Fabrique du Loch",
+        "structure": "FabLab",
+	 "adresse": "",
+	 "cp": "56400",
+        "ville": "Auray",
+        "web": "m",
+        "twitter": "@fabriqueduloch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9856916,
+	   47.666769
+        ]
+      }
     }
     
   ]
