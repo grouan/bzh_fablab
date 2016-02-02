@@ -9,6 +9,8 @@ Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peu
 ## v.2 : fablabs_bretagne.php
 Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 
+Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+
 ## v.1 : fablabs_bretagne.html
 Carte HTML en plein écran, pour intégration au sein de votre CMS en iframe (fonctionnel pour Wordpress). Cette carte comprend les librairies importées, ainsi que les paramétrages de la carte et l'affichage.
 Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
