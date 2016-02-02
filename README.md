@@ -1,4 +1,4 @@
-# Projet de carte des FabLabs de Bretagne en OpenSource
+# Carte OpenSource des FabLabs & autres lieux de dissémination des usages numériques de Bretagne
 
 ## map_bzh_fablab.geojson
 Données <b>GeoJSON</b> des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usages numériques (...) de Bretagne.
