@@ -22,6 +22,10 @@ Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 - Map plein écran : <a href="http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php" target="_blank">http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php</a>
 - Intégration Wordpress : <a href="http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/" target="_blank">http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/</a>
 
+## Développements
+- Cluster : en fonction du zoom, regrouper les marqueurs pour plus de lisibilité
+- Sidebar : en plein écran, ajout d'une sidebar avec éléments de légende
+
 ## Licence & crédits
 Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.
 
