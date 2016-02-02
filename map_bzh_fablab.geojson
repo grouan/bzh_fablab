@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "name": "MakerSpace56",
-        "structure": "MakerSpace",
+        "structure": "makerspace",
 	 "adresse": "VIPE",
 	 "cp": "56000",
         "ville": "Vannes",
@@ -25,8 +25,28 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Tilt",
+        "structure": "tierslieu",
+	 "adresse": "",
+	 "cp": "56450",
+        "ville": "Theix",
+        "web": "",
+        "twitter": "@tilt_theix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.64920711517334,
+          47.62876324543288
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
         "name": "FabLabVannes",
-        "structure": "Fab Lab MIT",
+        "structure": "fablabMIT",
 	 "adresse": "VIPE",
 	 "cp": "56000",
         "ville": "Vannes",
@@ -46,11 +66,11 @@
       "type": "Feature",
       "properties": {
         "name": "CréaFab",
-        "structure": "MakerSpace",
-	 "adresse": "Espace Créa Parc Technologique de Soye – Rue Galilée",
+        "structure": "makerspace",
+	 "adresse": "Espace Créa — Parc Technologique de Soye<br />15, rue Galilée",
 	 "cp": "56270",
         "ville": "Ploemeur",
-        "web": "http://www.crepp.org",
+        "web": "http://www.creafab-lorient.com",
         "twitter": "@CREAFABLorient"
       },
       "geometry": {
@@ -66,8 +86,8 @@
       "type": "Feature",
       "properties": {
         "name": "FabriKerné",
-        "structure": "MakerSpace",
-	 "adresse": "MJC de Kerfeunteun – 4, rue Teilhard de Chardin",
+        "structure": "makerspace",
+	 "adresse": "MJC de Kerfeunteun<br />4, rue Teilhard de Chardin",
 	 "cp": "29000",
         "ville": "Quimper",
         "web": "http://fabrikerne.fr",
@@ -86,7 +106,7 @@
       "type": "Feature",
       "properties": {
         "name": "SiliconKerné",
-        "structure": "Cantine numérique",
+        "structure": "cantine",
 	 "adresse": "2, rue François Briant de Laubrière",
 	 "cp": "29000",
         "ville": "Quimper",
@@ -105,19 +125,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "TyFab",
-        "structure": "FabLab MIT",
-	 "adresse": "40, rue Jules Lesven",
+        "name": "POC Girafe",
+        "structure": "fablab",
+	 "adresse": "TyFab — Rue Jules Lesven",
 	 "cp": "29200",
         "ville": "Brest",
-        "web": "http://tyfab.fr",
-        "twitter": "@TyFabBrest"
+        "web": "http://www.poclagirafe.bzh",
+        "twitter": "@collectif_poc"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480659,
-	   48.4085982
+          -4.480866193771362,
+          48.4085813395762
         ]
       }
     },
@@ -126,7 +146,7 @@
       "type": "Feature",
       "properties": {
         "name": "Les Fabriques du Ponant",
-        "structure": "Tiers-Lieu",
+        "structure": "tierslieu",
 	 "adresse": "40, rue Jules Lesven",
 	 "cp": "29200",
         "ville": "Brest",
@@ -145,9 +165,29 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "TyFab",
+        "structure": "fablabMIT",
+	 "adresse": "40, rue Jules Lesven",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://tyfab.fr",
+        "twitter": "@TyFabBrest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480659,
+	   48.4085982
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
         "name": "TéléFab Brest",
-        "structure": "FabLab",
-	 "adresse": "Télécom Bretagne – Technopôle Brest-Iroise",
+        "structure": "fablab",
+	 "adresse": "Télécom Bretagne<br />Technopôle Brest-Iroise",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://telefab.fr",
@@ -166,7 +206,7 @@
       "type": "Feature",
       "properties": {
         "name": "FabLab Lannion KerNEL",
-        "structure": "FabLab MIT",
+        "structure": "fablabMIT",
 	 "adresse": "14, rue de Beauchamp",
 	 "cp": "22300",
         "ville": "Lannion",
@@ -186,7 +226,7 @@
       "type": "Feature",
       "properties": {
         "name": "La Matrice",
-        "structure": "Cantine numérique",
+        "structure": "cantine",
 	 "adresse": "21, bd Clémenceau",
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
@@ -206,8 +246,8 @@
       "type": "Feature",
       "properties": {
         "name": "TéléFab Rennes",
-        "structure": "FabLab",
-	 "adresse": "Télécom Bretagne – 2, rue de la Châtaigneraie",
+        "structure": "fablab",
+	 "adresse": "Télécom Bretagne<br />2, rue de la Châtaigneraie",
 	 "cp": "35510",
         "ville": "Cesson",
         "web": "http://telefab.fr",
@@ -226,7 +266,7 @@
       "type": "Feature",
       "properties": {
         "name": "LabFab EESAB",
-        "structure": "Fab Lab MIT",
+        "structure": "fablabMIT",
 	 "adresse": "34, rue Hoche",
 	 "cp": "35000",
         "ville": "Rennes",
@@ -246,7 +286,7 @@
       "type": "Feature",
       "properties": {
         "name": "Breizh-Entropy",
-        "structure": "HackerSpace",
+        "structure": "hakerspace",
 	 "adresse": "48, bd Villebois Mareuil",
 	 "cp": "35000",
         "ville": "Rennes",
@@ -266,8 +306,8 @@
       "type": "Feature",
       "properties": {
         "name": "La CamBuzz",
-        "structure": "Cantine",
-	 "adresse": "Pôle La Grande Passerelle — Rue Théodore Monod",
+        "structure": "cantine",
+	 "adresse": "Pôle La Grande Passerelle<br />Rue Théodore Monod",
 	 "cp": "35288",
         "ville": "Saint-Malo",
         "web": "http://digital-saint-malo.com",
@@ -286,7 +326,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bug",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "6, cours des Alliés",
 	 "cp": "35000",
         "ville": "Rennes",
@@ -306,8 +346,8 @@
       "type": "Feature",
       "properties": {
         "name": "La French Tech Rennes Saint-Malo",
-        "structure": "FrenchTech",
-	 "adresse": "20, rue d'Isly",
+        "structure": "frenchtech",
+	 "adresse": "2, rue de la Mabilais",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://lafrenchtech-rennes.fr",
@@ -326,7 +366,7 @@
       "type": "Feature",
       "properties": {
         "name": "Le Grenier numérique",
-        "structure": "FrenchTech",
+        "structure": "frenchtech",
 	 "adresse": "Place de la Ferronnerie",
 	 "cp": "56200",
         "ville": "La Gacilly",
@@ -346,7 +386,7 @@
       "type": "Feature",
       "properties": {
         "name": "Nurserie numérique",
-        "structure": "FrenchTech",
+        "structure": "frenchtech",
 	 "adresse": "Place de l'étoile",
 	 "cp": "56910",
         "ville": "Carentoir",
@@ -366,7 +406,7 @@
       "type": "Feature",
       "properties": {
         "name": "Nurserie numérique",
-        "structure": "FrenchTech",
+        "structure": "frenchtech",
 	 "adresse": "Place du Docteur Jean Queinnec",
 	 "cp": "56140",
         "ville": "Malestroit",
@@ -386,7 +426,7 @@
       "type": "Feature",
       "properties": {
         "name": "Camp'TIC",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "31, rue Duguay-Trouin",
 	 "cp": "56100",
         "ville": "Lorient",
@@ -406,7 +446,7 @@
       "type": "Feature",
       "properties": {
         "name": "La Cantine Numérique brestoise – An Daol Vras",
-        "structure": "Cantine numérique",
+        "structure": "cantine",
 	 "adresse": "20, rue Duquesne",
 	 "cp": "29200",
         "ville": "Brest",
@@ -426,7 +466,7 @@
       "type": "Feature",
       "properties": {
         "name": "Le Biome",
-        "structure": "FabLab",
+        "structure": "fablab",
 	 "adresse": "",
 	 "cp": "35000",
         "ville": "Rennes",
@@ -445,29 +485,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tilt",
-        "structure": "Tiers Lieu",
-	 "adresse": "",
-	 "cp": "56450",
-        "ville": "Theix",
-        "web": "",
-        "twitter": "@tilt_theix"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.64920711517334,
-          47.62876324543288
-        ]
-      }
-    },
-    
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Muséomix Ouest",
-        "structure": "Usages numériques",
-	 "adresse": "Musée de la Bretagne — 10, cours des Alliés",
+        "structure": "usages",
+	 "adresse": "Musée de la Bretagne<br />10, cours des Alliés",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://www.museomix.org",
@@ -486,8 +506,8 @@
       "type": "Feature",
       "properties": {
         "name": "Biblio Remix",
-        "structure": "Usages numériques",
-	 "adresse": "Les Champs Libres — 10, cours des Alliés",
+        "structure": "usages",
+	 "adresse": "Les Champs Libres<br />10, cours des Alliés",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://biblioremix.wordpress.com",
@@ -506,7 +526,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lab Bro Pondi",
-        "structure": "FabLab MIT",
+        "structure": "fablabMIT",
 	 "adresse": "",
 	 "cp": "56300",
         "ville": "Pontivy",
@@ -526,7 +546,7 @@
       "type": "Feature",
       "properties": {
         "name": "Saint-Brieuc Factory",
-        "structure": "FabLab MIT",
+        "structure": "fablabMIT",
 	 "adresse": "Carré Rosengart Quai Armez",
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
@@ -546,7 +566,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kreizenn Dafar",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "La Matrice",
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
@@ -566,7 +586,7 @@
       "type": "Feature",
       "properties": {
         "name": "Atelier de la Flibuste",
-        "structure": "FabLab MIT",
+        "structure": "fablabMIT",
 	 "adresse": "",
 	 "cp": "35280",
         "ville": "Saint-Malo",
@@ -586,8 +606,8 @@
       "type": "Feature",
       "properties": {
         "name": "Open Factory",
-        "structure": "FabLab",
-	 "adresse": "Université Bretagne Ouest — 3, rue des Archives",
+        "structure": "fablab",
+	 "adresse": "Université Bretagne Ouest<br />3, rue des Archives",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "",
@@ -605,29 +625,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "POC Girafe",
-        "structure": "FabLab",
-	 "adresse": "TyFab — Rue Jules Lesven",
-	 "cp": "29200",
-        "ville": "Brest",
-        "web": "http://www.poclagirafe.bzh",
-        "twitter": "@collectif_poc"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.480866193771362,
-          48.4085813395762
-        ]
-      }
-    },
-    
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Bibliothèque de Brest",
-        "structure": "Usages numériques",
-	 "adresse": "Espace Multimédia — 16, bis rue traverse",
+        "structure": "usages",
+	 "adresse": "Espace Multimédia<br />16, bis rue traverse",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.atelier-multimedia-brest.fr",
@@ -646,7 +646,7 @@
       "type": "Feature",
       "properties": {
         "name": "Médiathèque de Baud",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "3, avenue Jean Moulin",
 	 "cp": "56150",
         "ville": "Baud",
@@ -666,7 +666,7 @@
       "type": "Feature",
       "properties": {
         "name": "Médiathèque de Pontivy",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "34, bis rue du Général de Gaulle",
 	 "cp": "56300",
         "ville": "Pontivy",
@@ -686,7 +686,7 @@
       "type": "Feature",
       "properties": {
         "name": "Médiathèque d'Allaire",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "10, place de l'Église",
 	 "cp": "56350",
         "ville": "Allaire",
@@ -706,7 +706,7 @@
       "type": "Feature",
       "properties": {
         "name": "Médiathèque de Locminé",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "Place Anne de Bretagne",
 	 "cp": "56500",
         "ville": "Locminé",
@@ -726,7 +726,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bouillants",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "Lieu-dit Les Bouillants",
 	 "cp": "35770",
         "ville": "Vern-sur-Seiche",
@@ -746,8 +746,8 @@
       "type": "Feature",
       "properties": {
         "name": "4C",
-        "structure": "Usages numériques",
-	 "adresse": "Les Champs Libres — 10, cours des Alliés",
+        "structure": "usages",
+	 "adresse": "Les Champs Libres<br />10, cours des Alliés",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://leschampslibres.tumblr.com",
@@ -766,7 +766,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cybercentre Guérande",
-        "structure": "Usages numériques",
+        "structure": "usages",
 	 "adresse": "22, faubourg Saint-Michel",
 	 "cp": "44350",
         "ville": "Guérande",
@@ -786,11 +786,11 @@
       "type": "Feature",
       "properties": {
         "name": "La Fabrique du Loch",
-        "structure": "FabLab",
+        "structure": "fablab",
 	 "adresse": "",
 	 "cp": "56400",
         "ville": "Auray",
-        "web": "m",
+        "web": "",
         "twitter": "@fabriqueduloch"
       },
       "geometry": {
@@ -798,6 +798,286 @@
         "coordinates": [
           -2.9856916,
 	   47.666769
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Hôtel à Projets",
+        "structure": "tierslieu",
+	 "adresse": "2, place Pasteur",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6738266,
+	   48.1104494
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diplôme d'Université Impression 3D",
+        "structure": "usages",
+	 "adresse": "UBS<br />2, rue Le Coat Saint-Haouen",
+	 "cp": "56100",
+        "ville": "Lorient",
+        "web": "http://bit.ly/20kkepK",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.393220,
+	   47.747180
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantic 2.0",
+        "structure": "cantine",
+	 "adresse": "11, impasse Juton",
+	 "cp": "44000",
+        "ville": "Nantes",
+        "web": "http://cantine.atlantic2.org",
+        "twitter": "@atlantic2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551015,
+	   47.211933
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PiNG",
+        "structure": "fablabMIT",
+	 "adresse": "Pôle associatif du 38 Breil<br />38, rue du Breil",
+	 "cp": "44000",
+        "ville": "Nantes",
+        "web": "http://www.pingbase.net",
+        "twitter": "@AssoPiNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.584640,
+	   47.228873
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plateforme C",
+        "structure": "fablab",
+	 "adresse": "Hangar 30<br />Quai des Antilles",
+	 "cp": "44000",
+        "ville": "Nantes",
+        "web": "http://www.plateforme-c.org",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.573370,
+	   47.200666
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NantesTech",
+        "structure": "frenchtech",
+	 "adresse": "Quartier de la Création<br />Les Halles",
+	 "cp": "44000",
+        "ville": "Nantes",
+        "web": "http://www.nantestech.com",
+        "twitter": "@NantesTech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.561777,
+	   47.206804
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FabMake",
+        "structure": "fablab",
+	 "adresse": "Chemin du Chaffault",
+	 "cp": "44340",
+        "ville": "Bouguenais",
+        "web": "http://www.fabmake.fr",
+        "twitter": "@FabMake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.587310,
+	   47.165119
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Défis",
+        "structure": "usages",
+	 "adresse": "8 rue du Général Leclerc",
+	 "cp": "56600",
+        "ville": "Lanester",
+        "web": "http://www.defis.info",
+        "twitter": "@AssoDefis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.349946,
+	   47.762661
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Collporterre",
+        "structure": "usages",
+	 "adresse": "135 chemin du Hildy",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.collporterre.org",
+        "twitter": "@Collporterre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.535498,
+	   48.368525
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GIS Marsouin",
+        "structure": "usages",
+	 "adresse": "Technopôle Brest Iroise",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.marsouin.org",
+        "twitter": "@gis_marsouin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.548559,
+	   48.365885
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Human Kit",
+        "structure": "fablab",
+	 "adresse": "84, boulevard de Verdun",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "http://myhumankit.org",
+        "twitter": "@myhumankit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.688253,
+	   48.118954
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Vilaine Bidouille",
+        "structure": "fablab",
+	 "adresse": "Château de Caslou",
+	 "cp": "35600",
+        "ville": "Redon",
+        "web": "http://www.fablabredon.org",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.089212,
+	   47.650473
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Passerelle Numérique",
+        "structure": "fablab",
+	 "adresse": "12, route des Fougerays",
+	 "cp": "44110",
+        "ville": "Chateaubriant",
+        "web": "http://passerelle-numerique.org",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.360794,
+	   47.712988
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Labo du Nautilus",
+        "structure": "tierslieu",
+	 "adresse": "Quiniac - Route d'Elven",
+	 "cp": "56250",
+        "ville": "Saint-Nolff",
+        "web": "http://labodunautilus.org",
+        "twitter": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.623148,
+	   47.701939
         ]
       }
     }
