@@ -14,8 +14,8 @@ Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 - <code>L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY' }).addTo(map);</code> : remplacer YYY par l'identifiant du fond de carte Mapbox que vous souhaitez utiliser.
 
 ## Démo
-Map plein écran : http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php
-Intégration Wordpress : http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/
+- Map plein écran : http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php
+- Intégration Wordpress : http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/
 
 ## Licence & crédits
 Ces datas sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.
