@@ -1,13 +1,14 @@
 <?PHP
-	// Ouverture du fichier geoJSON
-	$fichier = 'adresses_fablab_bzh.geojson';
+	// Ouverture du fichier GEOjson depuis Github
+	$fichier = 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/map_bzh_fablab.geojson';
 	$fp = fopen ($fichier, "r");
-    	$contenu_du_fichier = fread ($fp, filesize($fichier));
-    	fclose ($fp);
+    	$contenu_du_fichier = stream_get_contents($fp); // en cas de fichier source local, utiliser : fread ($fp, filesize($fichier));
+	fclose ($fp);
 	
 	// Décodage
 	$json = json_decode ($contenu_du_fichier, true);
 ?>
+
 <html>
 <head>
 
@@ -19,7 +20,7 @@
        	Auteur : Guillaume ROUAN | http://guillaume-rouan.net | @grouan
        -----------------------------------------------------------------------------
        	Licence : CC BY
-              Création : Octobre 2015
+              Création : Octobre 2015 v.3
               Technos : OpenStreetMap + Mapbox + Leaflet
               Thématiques : FabLab, MakerSpace, HackerSpace, FrenchTech,
               		Cantine numérique, Tiers Lieux, Usages numériques
@@ -74,21 +75,21 @@
   <script>
 	
 /* === CENTRAGE DE LA CARTE SUR LA BRETAGNE === */
-	var map = L.map('map').setView([48.145, -3.00], 8); /* zoom = 8 */
+	var map = L.map('map').setView([48.05, -3.00], 8); /* zoom = 8 */
 	
 /* === ID MAPBOX === */
 	L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY'}).addTo(map);
 	
 /* === PARAMETRAGE DES MARKERS === */
 	var 	LeafIcon = L.Icon.extend({ options: { iconSize: [35, 35]} });
-	var 	hakerspace_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_hakerspace.png'}), /* HackerSpace */
-		makerspace_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_makerspace.png'}), /* MakerSpace */
-		tierslieu_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_tierslieu.png'}); /* TiersLieu */
-		usages_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_usages.png'}); /* Usages */
-		frenchtech_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_frenchtech.png'}); /* FrenchTech */
-		fablabMIT_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_fablabMIT.png'}); /* FabLab MIT */
-		fablab_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_fablab.png'}); /* FabLab */
-		cantine_Icon = new LeafIcon({iconUrl: 'http://guillaume-rouan.net/blog/wp-content/uploads/2015/10/osm_marker_cantine.png'}); /* Cantine */
+	var 	hakerspace_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_hakerspace.png'}), /* HackerSpace */
+		makerspace_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_makerspace.png'}), /* MakerSpace */
+		tierslieu_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_tierslieu.png'}); /* TiersLieu */
+		usages_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_usages.png'}); /* Usages */
+		frenchtech_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_frenchtech.png'}); /* FrenchTech */
+		fablabMIT_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png'}); /* FabLab MIT */
+		fablab_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablab.png'}); /* FabLab */
+		cantine_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png'}); /* Cantine */
 	
 	
 /* === AFFICHAGE DES MARQUEURS GEOLOCALISÉS === */
@@ -100,8 +101,8 @@
 		// Paramétrage
 		$longitude = $data['geometry']['coordinates'][0];
 		$latitude = $data['geometry']['coordinates'][1];
-		if ($data['properties']['web'] != "") { $web = '<a href=\''.$data['properties']['web'].'\' target=\'_blank\'><img src=\'http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/ico_30x30px_WEB.png\' title=\'Visitez '.$data['properties']['web'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $web = ''; }
-		if ($data['properties']['twitter'] != "") { $twitter = '<a href=\'http://twitter.com/'.$data['properties']['twitter'].'\' target=\'_blank\'><img src=\'http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/ico_30x30px_TW.png\' title=\'Suivez '.$data['properties']['twitter'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $twitter = ''; }
+		if ($data['properties']['web'] != "") { $web = '<a href=\''.$data['properties']['web'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_WEB.png\' title=\'Visitez '.$data['properties']['web'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $web = ''; }
+		if ($data['properties']['twitter'] != "") { $twitter = '<a href=\'http://twitter.com/'.$data['properties']['twitter'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_TW.png\' title=\'Suivez '.$data['properties']['twitter'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $twitter = ''; }
 		
 		// Création des marqueurs
 		echo 'L.marker(['.$latitude.','.$longitude.'], {icon: '.$data['properties']['structure'].'_Icon}).bindPopup("<b style=\'font-size:1.2em;text-transform:uppercase;\'>'.$data['properties']['name'].'</b><br />'.$data['properties']['adresse'].'<br />'.$data['properties']['cp'].' '.$data['properties']['ville'].'<br />'.$web.' '.$twitter.'").addTo(map);';
@@ -113,7 +114,7 @@
 	
 	</script>
        
-<?PHP /* Pour affichage => <iframe src="fablabzh_map.php" style="border:0px;width:100%;height:400px;border-radius:5px;"></iframe> */	?>
+<?PHP       //<iframe src="fablabzh_map.php" style="border:0px;width:100%;height:400px;border-radius:5px;"></iframe>	?>
 
 </body>
 </html>
