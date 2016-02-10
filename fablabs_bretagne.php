@@ -20,7 +20,7 @@
        	Auteur : Guillaume ROUAN | http://guillaume-rouan.net | @grouan
        -----------------------------------------------------------------------------
        	Licence : CC BY
-              Création : Octobre 2015 v.3
+              Création : Octobre 2015 | v.3
               Technos : OpenStreetMap + Mapbox + Leaflet
               Thématiques : FabLab, MakerSpace, HackerSpace, FrenchTech,
               		Cantine numérique, Tiers Lieux, Usages numériques
