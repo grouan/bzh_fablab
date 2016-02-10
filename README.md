@@ -7,12 +7,15 @@ Ce projet comprend à la fois le fichier source GeoJSON des lieux géolocalisés
 Données <b>GeoJSON</b> des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usages numériques (...) de Bretagne.
 Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peut être utilisé notamment dans le cadre de l'élaboration d'une cartographie OpenStreetMap de ces lieux.
 
+## v.3 : fablabs_bretagne.php
++ Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
+
++ Package <code>img</code> comprenant les images PNG (24px/24px) des différents marqueurs.
+
 ## v.2 : fablabs_bretagne.php
 + Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 
 + Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
-
-+ Package <code>img</code> comprenant les images PNG (24px/24px) des différents marqueurs.
 
 ## v.1 : fablabs_bretagne.html
 Carte HTML en plein écran, pour intégration au sein de votre CMS en iframe (fonctionnel pour Wordpress). Cette carte comprend les librairies importées, ainsi que les paramétrages de la carte et l'affichage.
