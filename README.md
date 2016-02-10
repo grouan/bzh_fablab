@@ -8,9 +8,9 @@ Données <b>GeoJSON</b> des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usa
 Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peut être utilisé notamment dans le cadre de l'élaboration d'une cartographie OpenStreetMap de ces lieux.
 
 ## v.2 : fablabs_bretagne.php
-Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
++ Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 
-Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
++ Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
 
 + Package <code>img</code> comprenant les images PNG (24px/24px) des différents marqueurs.
 
