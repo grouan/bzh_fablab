@@ -11,7 +11,8 @@
 	 "cp": "56000",
         "ville": "Vannes",
         "web": "http://makerspace56.org",
-        "twitter": "@makerspace56"
+        "twitter": "@makerspace56",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +32,8 @@
 	 "cp": "56450",
         "ville": "Theix",
         "web": "",
-        "twitter": "@tilt_theix"
+        "twitter": "@tilt_theix",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +53,8 @@
 	 "cp": "56000",
         "ville": "Vannes",
         "web": "",
-        "twitter": "@fablabvannes"
+        "twitter": "@fablabvannes",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +74,8 @@
 	 "cp": "56270",
         "ville": "Ploemeur",
         "web": "http://www.creafab-lorient.com",
-        "twitter": "@CREAFABLorient"
+        "twitter": "@CREAFABLorient",
+	 "facebook": "pages/Creafab-Lorient/309015802619837"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +95,8 @@
 	 "cp": "29000",
         "ville": "Quimper",
         "web": "http://fabrikerne.fr",
-        "twitter": "@FabriKerne"
+        "twitter": "@FabriKerne",
+	 "facebook": "fabrikerne"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +116,8 @@
 	 "cp": "29000",
         "ville": "Quimper",
         "web": "http://www.silicon-kerne.net",
-        "twitter": "@SiliconKerne"
+        "twitter": "@SiliconKerne",
+	 "facebook": "siliconkerne"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +137,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.poclagirafe.bzh",
-        "twitter": "@collectif_poc"
+        "twitter": "@collectif_poc",
+	 "facebook": "pages/Collectif-POC/896056633767041"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +158,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.lesfabriquesduponant.net",
-        "twitter": "@FabDuPonant"
+        "twitter": "@FabDuPonant",
+	 "facebook": "fabriquesduponant"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +179,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://tyfab.fr",
-        "twitter": "@TyFabBrest"
+        "twitter": "@TyFabBrest",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -191,7 +200,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://telefab.fr",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -211,7 +221,8 @@
 	 "cp": "22300",
         "ville": "Lannion",
         "web": "http://www.fablab-lannion.org",
-        "twitter": "@fablablannion"
+        "twitter": "@fablablannion",
+	 "facebook": "fablablannion"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +242,8 @@
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
         "web": "http://lamatrice.org",
-        "twitter": "@LaMatrice_SB"
+        "twitter": "@LaMatrice_SB",
+	 "facebook": "groups/273273166125036"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +263,8 @@
 	 "cp": "35510",
         "ville": "Cesson",
         "web": "http://telefab.fr",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +284,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://labfab.fr",
-        "twitter": "@LabFabfr"
+        "twitter": "@LabFabfr",
+	 "facebook": "labfabfr"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +305,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://breizh-entropy.org",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +326,8 @@
 	 "cp": "35288",
         "ville": "Saint-Malo",
         "web": "http://digital-saint-malo.com",
-        "twitter": "@LaCamBuzz"
+        "twitter": "@LaCamBuzz",
+	 "facebook": "DigitalStMalo"
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +347,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://www.asso-bug.org",
-        "twitter": "@assobug"
+        "twitter": "@assobug",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +368,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://lafrenchtech-rennes.fr",
-        "twitter": "@LaFTRennes"
+        "twitter": "@LaFTRennes",
+	 "facebook": "La.french.tech.rennes.stmalo"
       },
       "geometry": {
         "type": "Point",
@@ -371,7 +389,8 @@
 	 "cp": "56200",
         "ville": "La Gacilly",
         "web": "http://www.legreniernumerique.fr",
-        "twitter": "@grenier_numeriq"
+        "twitter": "@grenier_numeriq",
+	 "facebook": "legreniernumerique"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +410,8 @@
 	 "cp": "56910",
         "ville": "Carentoir",
         "web": "",
-        "twitter": "@NnumCarentoir"
+        "twitter": "@NnumCarentoir",
+	 "facebook": "La-Nurserie-Numérique-de-Carentoir-897660853656516"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +431,8 @@
 	 "cp": "56140",
         "ville": "Malestroit",
         "web": "http://www.lanurserienumerique.com",
-        "twitter": "@NNumerique"
+        "twitter": "@NNumerique",
+	 "facebook": "lanurserienumerique"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +452,8 @@
 	 "cp": "56100",
         "ville": "Lorient",
         "web": "http://www.camptic.fr",
-        "twitter": "@CampTIC"
+        "twitter": "@CampTIC",
+	 "facebook": "Association-CampTIC-408882922510637"
       },
       "geometry": {
         "type": "Point",
@@ -451,7 +473,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.lacantine-brest.net",
-        "twitter": "@AnDaolVras"
+        "twitter": "@AnDaolVras",
+	 "facebook": "AnDaolVras"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +494,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://lebiomefablab.wix.com/lebiome",
-        "twitter": "@Le_biome"
+        "twitter": "@Le_biome",
+	 "facebook": "biomefrance"
       },
       "geometry": {
         "type": "Point",
@@ -491,7 +515,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://www.museomix.org",
-        "twitter": "@MuseomixOuest"
+        "twitter": "@MuseomixOuest",
+	 "facebook": "MuseomixOuest"
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +536,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://biblioremix.wordpress.com",
-        "twitter": "@BiblioRemix"
+        "twitter": "@BiblioRemix",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +557,8 @@
 	 "cp": "56300",
         "ville": "Pontivy",
         "web": "http://labbropondi.fr",
-        "twitter": "@LabBroPondi"
+        "twitter": "@LabBroPondi",
+	 "facebook": "LabBroPondi"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +578,8 @@
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
         "web": "http://www.saint-brieuc-factory.fr",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -571,7 +599,8 @@
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
         "web": "http://www.kreizenn-dafar.org",
-        "twitter": "@KreizennDafar"
+        "twitter": "@KreizennDafar",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +620,8 @@
 	 "cp": "35280",
         "ville": "Saint-Malo",
         "web": "http://atelierdelaflibuste.fr",
-        "twitter": "@fablabsaintmalo"
+        "twitter": "@fablabsaintmalo",
+	 "facebook": "Atelier-de-la-Flibuste-1542719262685041"
       },
       "geometry": {
         "type": "Point",
@@ -611,7 +641,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -631,7 +662,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.atelier-multimedia-brest.fr",
-        "twitter": "@bibliobrest"
+        "twitter": "@bibliobrest",
+	 "facebook": "ecm.brest"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +683,8 @@
 	 "cp": "56150",
         "ville": "Baud",
         "web": "http://baud.c3rb.org",
-        "twitter": "@MediadeBaud"
+        "twitter": "@MediadeBaud",
+	 "facebook": "mediathequedebaud"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +704,8 @@
 	 "cp": "56300",
         "ville": "Pontivy",
         "web": "http://www.espace-kenere.fr",
-        "twitter": "@espacekenere"
+        "twitter": "@espacekenere",
+	 "facebook": "pages/Espace-Kenere/1612731772337700"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +725,8 @@
 	 "cp": "56350",
         "ville": "Allaire",
         "web": "http://www.allaire.fr/?page=lmediatheque",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": "mediallaire"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +746,8 @@
 	 "cp": "56500",
         "ville": "Locminé",
         "web": "http://mediatheque.mairie-locmine.fr",
-        "twitter": "@bibliolocmine"
+        "twitter": "@bibliolocmine",
+	 "facebook": "mediatheque.de.locmine"
       },
       "geometry": {
         "type": "Point",
@@ -731,7 +767,8 @@
 	 "cp": "35770",
         "ville": "Vern-sur-Seiche",
         "web": "http://www.bouillants.fr",
-        "twitter": "@bouillants"
+        "twitter": "@bouillants",
+	 "facebook": "BouillantsArtNumeriqueMultimediaCitoyennete"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +788,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://leschampslibres.tumblr.com",
-        "twitter": "@LesChampsLibres"
+        "twitter": "@LesChampsLibres",
+	 "facebook": "LesChampsLibres"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +809,8 @@
 	 "cp": "44350",
         "ville": "Guérande",
         "web": "http://www.cybercentre-guerande.fr",
-        "twitter": "@cyberguerande"
+        "twitter": "@cyberguerande",
+	 "facebook": "pages/Cybercentre-municipal-Ville-de-Guérande-officiel/476719612364046"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +830,8 @@
 	 "cp": "56400",
         "ville": "Auray",
         "web": "",
-        "twitter": "@fabriqueduloch"
+        "twitter": "@fabriqueduloch",
+	 "facebook": "lafabriqueduloch"
       },
       "geometry": {
         "type": "Point",
@@ -811,7 +851,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -826,12 +867,13 @@
       "type": "Feature",
       "properties": {
         "name": "Diplôme d'Université Impression 3D",
-        "structure": "usages",
+        "structure": "formation",
 	 "adresse": "UBS<br />2, rue Le Coat Saint-Haouen",
 	 "cp": "56100",
         "ville": "Lorient",
         "web": "http://bit.ly/20kkepK",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -851,7 +893,8 @@
 	 "cp": "44000",
         "ville": "Nantes",
         "web": "http://cantine.atlantic2.org",
-        "twitter": "@atlantic2"
+        "twitter": "@atlantic2",
+	 "facebook": "lacantineparatlantic2"
       },
       "geometry": {
         "type": "Point",
@@ -871,7 +914,8 @@
 	 "cp": "44000",
         "ville": "Nantes",
         "web": "http://www.pingbase.net",
-        "twitter": "@AssoPiNG"
+        "twitter": "@AssoPiNG",
+	 "facebook": "AssociationPiNG"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +935,8 @@
 	 "cp": "44000",
         "ville": "Nantes",
         "web": "http://www.plateforme-c.org",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -911,7 +956,8 @@
 	 "cp": "44000",
         "ville": "Nantes",
         "web": "http://www.nantestech.com",
-        "twitter": "@NantesTech"
+        "twitter": "@NantesTech",
+	 "facebook": "nantestech"
       },
       "geometry": {
         "type": "Point",
@@ -931,7 +977,8 @@
 	 "cp": "44340",
         "ville": "Bouguenais",
         "web": "http://www.fabmake.fr",
-        "twitter": "@FabMake"
+        "twitter": "@FabMake",
+	 "facebook": "FabMake-1430440200565943"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +998,8 @@
 	 "cp": "56600",
         "ville": "Lanester",
         "web": "http://www.defis.info",
-        "twitter": "@AssoDefis"
+        "twitter": "@AssoDefis",
+	 "facebook": "Association-Défis-164695790210111"
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +1019,8 @@
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.collporterre.org",
-        "twitter": "@Collporterre"
+        "twitter": "@Collporterre",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -986,12 +1035,13 @@
       "type": "Feature",
       "properties": {
         "name": "GIS Marsouin",
-        "structure": "usages",
+        "structure": "formation",
 	 "adresse": "Technopôle Brest Iroise",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.marsouin.org",
-        "twitter": "@gis_marsouin"
+        "twitter": "@gis_marsouin",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1061,8 @@
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://myhumankit.org",
-        "twitter": "@myhumankit"
+        "twitter": "@myhumankit",
+	 "facebook": "MyHumanKit"
       },
       "geometry": {
         "type": "Point",
@@ -1031,7 +1082,8 @@
 	 "cp": "35600",
         "ville": "Redon",
         "web": "http://www.fablabredon.org",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": ""
       },
       "geometry": {
         "type": "Point",
@@ -1051,7 +1103,8 @@
 	 "cp": "44110",
         "ville": "Chateaubriant",
         "web": "http://passerelle-numerique.org",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": "Fablab-La-passerelle-numérique-924247814286763"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1124,8 @@
 	 "cp": "56250",
         "ville": "Saint-Nolff",
         "web": "http://labodunautilus.org",
-        "twitter": ""
+        "twitter": "",
+	 "facebook": "labodunautilus"
       },
       "geometry": {
         "type": "Point",
