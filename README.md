@@ -10,7 +10,7 @@ Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peu
 ## v.3 : fablabs_bretagne.php
 + Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
 
-+ Package <code>img</code> comprenant les images PNG (24px/24px) des différents marqueurs.
++ Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
 
 ## v.2 : fablabs_bretagne.php
 + Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
