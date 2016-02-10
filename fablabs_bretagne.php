@@ -90,7 +90,7 @@
 		fablabMIT_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png'}); /* FabLab MIT */
 		fablab_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablab.png'}); /* FabLab */
 		cantine_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png'}); /* Cantine */
-	
+		formation_Icon = new LeafIcon({iconUrl: 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_formation.png'}); /* Formation / Recherche
 	
 /* === AFFICHAGE DES MARQUEURS GEOLOCALISÉS === */
 	
@@ -102,6 +102,7 @@
 		$longitude = $data['geometry']['coordinates'][0];
 		$latitude = $data['geometry']['coordinates'][1];
 		if ($data['properties']['web'] != "") { $web = '<a href=\''.$data['properties']['web'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_WEB.png\' title=\'Visitez '.$data['properties']['web'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $web = ''; }
+		if ($data['properties']['facebook'] != "") { $facebook = '<a href=\'http://facebook.com/'.$data['properties']['facebook'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_FB.png\' title=\'Suivez '.$data['properties']['facebook'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $facebook = ''; }
 		if ($data['properties']['twitter'] != "") { $twitter = '<a href=\'http://twitter.com/'.$data['properties']['twitter'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_TW.png\' title=\'Suivez '.$data['properties']['twitter'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $twitter = ''; }
 		
 		// Création des marqueurs
