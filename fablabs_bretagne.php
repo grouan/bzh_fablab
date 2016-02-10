@@ -106,7 +106,7 @@
 		if ($data['properties']['twitter'] != "") { $twitter = '<a href=\'http://twitter.com/'.$data['properties']['twitter'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_TW.png\' title=\'Suivez '.$data['properties']['twitter'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $twitter = ''; }
 		
 		// Création des marqueurs
-		echo 'L.marker(['.$latitude.','.$longitude.'], {icon: '.$data['properties']['structure'].'_Icon}).bindPopup("<b style=\'font-size:1.2em;text-transform:uppercase;\'>'.$data['properties']['name'].'</b><br />'.$data['properties']['adresse'].'<br />'.$data['properties']['cp'].' '.$data['properties']['ville'].'<br />'.$web.' '.$twitter.'").addTo(map);';
+		echo 'L.marker(['.$latitude.','.$longitude.'], {icon: '.$data['properties']['structure'].'_Icon}).bindPopup("<b style=\'font-size:1.2em;text-transform:uppercase;\'>'.$data['properties']['name'].'</b><br />'.$data['properties']['adresse'].'<br />'.$data['properties']['cp'].' '.$data['properties']['ville'].'<br />'.$web.' '.$facebook.' '.$twitter.'").addTo(map);';
 		echo "\n";
 		
 	}
