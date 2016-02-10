@@ -1,4 +1,4 @@
-# Carte OpenSource des FabLabs & autres lieux de dissémination des usages numériques de Bretagne
+# Carte OpenSource des FabLabs & autres lieux de dissémination des usages numériques en Bretagne
 <img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/fablabzh_map.png" />
 
 Ce projet comprend à la fois le fichier source GeoJSON des lieux géolocalisés + les fichiers de récupération et d'affichage (v.2 PHP). Naturellement ces fichiers peuvent être utilisés indépendamment.
@@ -11,6 +11,8 @@ Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peu
 Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 
 Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+
++ Package <code>img</code> comprenant les images PNG (24px/24px) des différents marqueurs.
 
 ## v.1 : fablabs_bretagne.html
 Carte HTML en plein écran, pour intégration au sein de votre CMS en iframe (fonctionnel pour Wordpress). Cette carte comprend les librairies importées, ainsi que les paramétrages de la carte et l'affichage.
