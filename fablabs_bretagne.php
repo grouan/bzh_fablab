@@ -23,7 +23,8 @@
               Création : Octobre 2015 | v.3
               Technos : OpenStreetMap + Mapbox + Leaflet
               Thématiques : FabLab, MakerSpace, HackerSpace, FrenchTech,
-              		Cantine numérique, Tiers Lieux, Usages numériques
+              		Cantine numérique, Tiers Lieux, Usages numériques,
+              		Formation / Recherche
        -----------------------------------------------------------------------------
        
        -->
