@@ -12,6 +12,8 @@ Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peu
 
 + Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
 
++ Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+
 ## v.2 : fablabs_bretagne.php
 + Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 
