@@ -133,7 +133,7 @@
       "properties": {
         "name": "POC Girafe",
         "structure": "fablab",
-	 "adresse": "TyFab — Rue Jules Lesven",
+	 "adresse": "Rue Jules Lesven",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.poclagirafe.bzh",
@@ -175,7 +175,7 @@
       "properties": {
         "name": "TyFab",
         "structure": "fablabMIT",
-	 "adresse": "40, rue Jules Lesven",
+	 "adresse": "214, rue Jean Jaurès",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://tyfab.fr",
@@ -185,8 +185,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480659,
-	   48.4085982
+          -4.472309,
+	   48.399449
         ]
       }
     },
@@ -1132,6 +1132,111 @@
         "coordinates": [
           -2.623148,
 	   47.701939
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAPIfab – Médiathèque des Capucins",
+        "structure": "usages",
+	 "adresse": "[Projet en cours]<br />Rue de Pontaniou",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "bit.ly/1Xrt9kd",
+        "twitter": "",
+	 "facebook": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.498627,
+	   48.389288
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAPIfab – Médiathèque de Lambézellec",
+        "structure": "usages",
+	 "adresse": "8, rue Pierre Corre",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "bit.ly/212wJDn",
+        "twitter": "@bibliobrest",
+	 "facebook": "bibliobrest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492814,
+	   48.413985
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAPIfab – Patronage Laïque de la cavale blanche",
+        "structure": "usages",
+	 "adresse": "10, rue Hegel",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.plmcb.infini.fr/spip.php?rubrique197",
+        "twitter": "@PLMCavale",
+	 "facebook": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.517399,
+	   48.392426
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAPIfab – MJC de l'Harteloire",
+        "structure": "usages",
+	 "adresse": "39, avenue Clémenceau",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.mjc-harteloire.fr",
+        "twitter": "@mjcharteloire",
+	 "facebook": "mjcharteloire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.491048,
+	   48.392885
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAPIfab – Patronage Laïque Guérin",
+        "structure": "usages",
+	 "adresse": "1, rue Alexandre Ribot",
+	 "cp": "29200",
+        "ville": "Brest",
+        "web": "http://www.plguerin.fr",
+        "twitter": "",
+	 "facebook": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484290,
+	   48.397823
         ]
       }
     }
