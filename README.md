@@ -43,6 +43,8 @@ Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 ## Licence & crédits
 Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.
 
+Cette carte est référencée sur <a href="https://www.data.gouv.fr/fr/datasets/carte-open-source-des-fablabs-de-bretagne/" target="_blank">Data.Gouv</a>, la plateforme ouverte des données publiques françaises.
+
 Sources : &copy; Contributeurs de <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> pour les données cartographiques de base + <a href="http://www.mapbox.com" target="_blank">Mapbox</a> pour le fond de carte + <a href="http://leafletjs.com/" target="_blank">Leaflet</a> pour rendre le tout interactif + <a href="http://arsenicpaca.fr/iconotheque-mediation-numerique/" target="_blank">ARSENIC</a> et <a href="http://www.fabfoundation.org" target="_blank">Fab Foundation</a> pour les images des icones.
 
 ## + d'informations
