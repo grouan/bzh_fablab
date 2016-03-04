@@ -133,7 +133,7 @@
       "properties": {
         "name": "POC Girafe",
         "structure": "fablab",
-	 "adresse": "Rue Jules Lesven",
+	 "adresse": "214, rue Jean Jaurès",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.poclagirafe.bzh",
@@ -143,8 +143,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480866193771362,
-          48.4085813395762
+          -4.4721566,
+          48.3993805
         ]
       }
     },
