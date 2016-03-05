@@ -215,6 +215,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Coworking Wigwam",
+        "structure": "cantine",
+	 "adresse": "FabLab — Lycée Félix Le Dantec<br />Rue des Cordiers",
+	 "cp": "22000",
+        "ville": "Lannion",
+        "web": "http://www.coworking-lannion.org",
+        "twitter": "CoworkingWigwam",
+	 "facebook": "https://www.facebook.com/groups/wigwam.lannion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.447693,
+	   48.7312357
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
         "name": "FabLab Lannion KerNEL",
         "structure": "fablabMIT",
 	 "adresse": "14, rue de Beauchamp",
@@ -1237,27 +1258,6 @@
         "coordinates": [
           -4.484290,
 	   48.397823
-        ]
-      }
-    },
-    
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Coworking Wigwam",
-        "structure": "cantine",
-	 "adresse": "FabLab — Lycée Félix Le Dantec<br />Rue des Cordiers",
-	 "cp": "22000",
-        "ville": "Lannion",
-        "web": "http://www.coworking-lannion.org",
-        "twitter": "CoworkingWigwam",
-	 "facebook": "https://www.facebook.com/groups/wigwam.lannion"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.447693,
-	   48.7312357
         ]
       }
     }
