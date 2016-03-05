@@ -1245,7 +1245,7 @@
       "type": "Feature",
       "properties": {
         "name": "Coworking Wigwam",
-        "structure": "usages",
+        "structure": "cantine",
 	 "adresse": "FabLab — Lycée Félix Le Dantec<br />Rue des Cordiers",
 	 "cp": "22000",
         "ville": "Lannion",
