@@ -1260,6 +1260,27 @@
 	   48.397823
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Fab'rique",
+        "structure": "fablab",
+	 "adresse": "1, rue Jacques de Corbière",
+	 "cp": "35150",
+        "ville": "Amanlis",
+        "web": "https://lafabriqueccprf.wordpress.com",
+        "twitter": "",
+	 "facebook": "lafabriqueccprf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4750927,
+          48.003654
+        ]
+      }
     }
     
   ]
