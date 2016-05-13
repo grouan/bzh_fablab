@@ -868,7 +868,7 @@
       "properties": {
         "name": "La Fabrique du Loch",
         "structure": "fablab",
-	 "adresse": "",
+	 "adresse": "8 rue Georges Clémenceau",
 	 "cp": "56400",
         "ville": "Auray",
         "web": "http://www.lafabriqueduloch.org",
@@ -878,8 +878,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9856916,
-	   47.666769
+          -2.985981,
+	   47.668403
         ]
       }
     },
