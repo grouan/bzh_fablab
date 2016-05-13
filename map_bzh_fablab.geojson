@@ -531,7 +531,7 @@
       "type": "Feature",
       "properties": {
         "name": "Le Biome",
-        "structure": "fablab",
+        "structure": "hakerspace",
 	 "adresse": "",
 	 "cp": "35000",
         "ville": "Rennes",
