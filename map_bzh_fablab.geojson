@@ -47,6 +47,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CréaTech",
+        "structure": "tierslieu",
+	 "adresse": "Espace associatif d’Arvor<br />Place d’ Armorique",
+	 "cp": "56890",
+        "ville": "Plescop",
+        "web": "",
+        "twitter": "@CreaTech56",
+	 "facebook": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.806178,
+          47.697023
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
         "name": "FabLabVannes",
         "structure": "fablabMIT",
 	 "adresse": "VIPE",
