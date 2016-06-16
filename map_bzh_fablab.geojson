@@ -111,7 +111,7 @@
       "type": "Feature",
       "properties": {
         "name": "FabriKerné",
-        "structure": "makerspace",
+        "structure": "fablab",
 	 "adresse": "MJC de Kerfeunteun<br />4, rue Teilhard de Chardin",
 	 "cp": "29000",
         "ville": "Quimper",
