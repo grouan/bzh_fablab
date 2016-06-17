@@ -5,6 +5,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "1",
         "name": "MakerSpace56",
         "structure": "makerspace",
 	 "adresse": "VIPE",
@@ -26,6 +27,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "2",
         "name": "Tilt",
         "structure": "tierslieu",
 	 "adresse": "",
@@ -47,9 +49,10 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "3",
         "name": "CréaTech",
         "structure": "tierslieu",
-	 "adresse": "Espace associatif d’Arvor<br />Place d’ Armorique",
+	 "adresse": "Espace associatif d’Arvor<br />Place d’Armorique",
 	 "cp": "56890",
         "ville": "Plescop",
         "web": "",
@@ -68,6 +71,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "4",
         "name": "FabLabVannes",
         "structure": "fablabMIT",
 	 "adresse": "VIPE",
@@ -89,6 +93,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "5",
         "name": "CréaFab",
         "structure": "makerspace",
 	 "adresse": "Espace Créa — Parc Technologique de Soye<br />15, rue Galilée",
@@ -110,6 +115,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "6",
         "name": "FabriKerné",
         "structure": "fablab",
 	 "adresse": "MJC de Kerfeunteun<br />4, rue Teilhard de Chardin",
@@ -131,6 +137,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "7",
         "name": "SiliconKerné",
         "structure": "cantine",
 	 "adresse": "2, rue François Briant de Laubrière",
@@ -152,6 +159,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "8",
         "name": "POC Girafe",
         "structure": "fablab",
 	 "adresse": "214, rue Jean Jaurès",
@@ -173,6 +181,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "9",
         "name": "Les Fabriques du Ponant",
         "structure": "tierslieu",
 	 "adresse": "40, rue Jules Lesven",
@@ -194,6 +203,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "10",
         "name": "TyFab",
         "structure": "fablabMIT",
 	 "adresse": "214, rue Jean Jaurès",
@@ -215,6 +225,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "11",
         "name": "TéléFab Brest",
         "structure": "fablab",
 	 "adresse": "Télécom Bretagne<br />Technopôle Brest-Iroise",
@@ -236,6 +247,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "12",
         "name": "Coworking Wigwam",
         "structure": "cantine",
 	 "adresse": "FabLab — Lycée Félix Le Dantec<br />Rue des Cordiers",
@@ -257,6 +269,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "13",
         "name": "FabLab Lannion KerNEL",
         "structure": "fablabMIT",
 	 "adresse": "14, rue de Beauchamp",
@@ -278,6 +291,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "14",
         "name": "La Matrice",
         "structure": "cantine",
 	 "adresse": "21, bd Clémenceau",
@@ -299,6 +313,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "15",
         "name": "TéléFab Rennes",
         "structure": "fablab",
 	 "adresse": "Télécom Bretagne<br />2, rue de la Châtaigneraie",
@@ -320,6 +335,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "16",
         "name": "LabFab EESAB",
         "structure": "fablabMIT",
 	 "adresse": "34, rue Hoche",
@@ -341,6 +357,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "17",
         "name": "Breizh-Entropy",
         "structure": "hakerspace",
 	 "adresse": "48, bd Villebois Mareuil",
@@ -362,6 +379,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "18",
         "name": "La CamBuzz",
         "structure": "cantine",
 	 "adresse": "Pôle La Grande Passerelle<br />Rue Théodore Monod",
@@ -383,6 +401,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "19",
         "name": "Bug",
         "structure": "usages",
 	 "adresse": "6, cours des Alliés",
@@ -404,6 +423,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "20",
         "name": "La French Tech Rennes Saint-Malo",
         "structure": "frenchtech",
 	 "adresse": "2, rue de la Mabilais",
@@ -425,6 +445,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "21",
         "name": "Le Grenier numérique",
         "structure": "frenchtech",
 	 "adresse": "Place de la Ferronnerie",
@@ -446,6 +467,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "22",
         "name": "Nurserie numérique",
         "structure": "frenchtech",
 	 "adresse": "Place de l'étoile",
@@ -467,6 +489,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "23",
         "name": "Nurserie numérique",
         "structure": "frenchtech",
 	 "adresse": "Place du Docteur Jean Queinnec",
@@ -488,6 +511,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "24",
         "name": "Camp'TIC",
         "structure": "usages",
 	 "adresse": "31, rue Duguay-Trouin",
@@ -509,6 +533,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "25",
         "name": "La Cantine Numérique brestoise – An Daol Vras",
         "structure": "cantine",
 	 "adresse": "20, rue Duquesne",
@@ -530,6 +555,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "26",
         "name": "Le Biome",
         "structure": "hakerspace",
 	 "adresse": "",
@@ -551,6 +577,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "27",
         "name": "Muséomix Ouest",
         "structure": "usages",
 	 "adresse": "Musée de la Bretagne<br />10, cours des Alliés",
@@ -572,6 +599,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "28",
         "name": "Biblio Remix",
         "structure": "usages",
 	 "adresse": "Les Champs Libres<br />10, cours des Alliés",
@@ -593,6 +621,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "29",
         "name": "Lab Bro Pondi",
         "structure": "fablabMIT",
 	 "adresse": "",
@@ -614,6 +643,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "30",
         "name": "Saint-Brieuc Factory",
         "structure": "fablabMIT",
 	 "adresse": "Carré Rosengart Quai Armez",
@@ -635,6 +665,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "31",
         "name": "Kreizenn Dafar",
         "structure": "usages",
 	 "adresse": "La Matrice",
@@ -656,6 +687,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "32",
         "name": "Atelier de la Flibuste",
         "structure": "fablabMIT",
 	 "adresse": "",
@@ -677,6 +709,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "33",
         "name": "Open Factory",
         "structure": "fablab",
 	 "adresse": "Université Bretagne Ouest<br />3, rue des Archives",
@@ -698,6 +731,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "34",
         "name": "Bibliothèque de Brest",
         "structure": "usages",
 	 "adresse": "Espace Multimédia<br />16, bis rue traverse",
@@ -719,6 +753,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "35",
         "name": "Médiathèque de Baud",
         "structure": "usages",
 	 "adresse": "3, avenue Jean Moulin",
@@ -740,6 +775,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "36",
         "name": "Médiathèque de Pontivy",
         "structure": "usages",
 	 "adresse": "34, bis rue du Général de Gaulle",
@@ -761,6 +797,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "37",
         "name": "Médiathèque d'Allaire",
         "structure": "usages",
 	 "adresse": "10, place de l'Église",
@@ -782,6 +819,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "38",
         "name": "Médiathèque de Locminé",
         "structure": "usages",
 	 "adresse": "Place Anne de Bretagne",
@@ -803,6 +841,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "39",
         "name": "Bouillants",
         "structure": "usages",
 	 "adresse": "Lieu-dit Les Bouillants",
@@ -824,6 +863,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "40",
         "name": "4C",
         "structure": "usages",
 	 "adresse": "Les Champs Libres<br />10, cours des Alliés",
@@ -845,6 +885,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "41",
         "name": "Cybercentre Guérande",
         "structure": "usages",
 	 "adresse": "22, faubourg Saint-Michel",
@@ -866,6 +907,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "42",
         "name": "La Fabrique du Loch",
         "structure": "fablab",
 	 "adresse": "8 rue Georges Clémenceau",
@@ -887,6 +929,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "43",
         "name": "L'Hôtel à Projets",
         "structure": "tierslieu",
 	 "adresse": "2, place Pasteur",
@@ -908,6 +951,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "44",
         "name": "Diplôme d'Université Impression 3D",
         "structure": "formation",
 	 "adresse": "UBS<br />2, rue Le Coat Saint-Haouen",
@@ -929,6 +973,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "45",
         "name": "Atlantic 2.0",
         "structure": "cantine",
 	 "adresse": "11, impasse Juton",
@@ -950,6 +995,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "46",
         "name": "PiNG",
         "structure": "fablabMIT",
 	 "adresse": "Pôle associatif du 38 Breil<br />38, rue du Breil",
@@ -971,6 +1017,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "47",
         "name": "Plateforme C",
         "structure": "fablab",
 	 "adresse": "Hangar 30<br />Quai des Antilles",
@@ -992,6 +1039,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "48",
         "name": "NantesTech",
         "structure": "frenchtech",
 	 "adresse": "Quartier de la Création<br />Les Halles",
@@ -1013,6 +1061,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "49",
         "name": "FabMake",
         "structure": "fablab",
 	 "adresse": "Chemin du Chaffault",
@@ -1034,6 +1083,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "50",
         "name": "Défis",
         "structure": "usages",
 	 "adresse": "8 rue du Général Leclerc",
@@ -1055,6 +1105,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "51",
         "name": "Collporterre",
         "structure": "usages",
 	 "adresse": "135 chemin du Hildy",
@@ -1076,6 +1127,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "52",
         "name": "GIS Marsouin",
         "structure": "formation",
 	 "adresse": "Technopôle Brest Iroise",
@@ -1097,6 +1149,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "53",
         "name": "My Human Kit",
         "structure": "fablab",
 	 "adresse": "84, boulevard de Verdun",
@@ -1118,6 +1171,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "54",
         "name": "La Vilaine Bidouille",
         "structure": "fablab",
 	 "adresse": "Château de Caslou",
@@ -1139,6 +1193,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "55",
         "name": "La Passerelle Numérique",
         "structure": "fablab",
 	 "adresse": "12, route des Fougerays",
@@ -1160,6 +1215,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "56",
         "name": "Le Labo du Nautilus",
         "structure": "tierslieu",
 	 "adresse": "Quiniac - Route d'Elven",
@@ -1181,6 +1237,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "57",
         "name": "PAPIfab – Médiathèque des Capucins",
         "structure": "usages",
 	 "adresse": "[Projet en cours]<br />Rue de Pontaniou",
@@ -1202,6 +1259,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "58",
         "name": "PAPIfab – Médiathèque de Lambézellec",
         "structure": "usages",
 	 "adresse": "8, rue Pierre Corre",
@@ -1223,6 +1281,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "59",
         "name": "PAPIfab – Patronage Laïque de la cavale blanche",
         "structure": "usages",
 	 "adresse": "10, rue Hegel",
@@ -1244,6 +1303,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "60",
         "name": "PAPIfab – MJC de l'Harteloire",
         "structure": "usages",
 	 "adresse": "39, avenue Clémenceau",
@@ -1265,6 +1325,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "61",
         "name": "PAPIfab – Patronage Laïque Guérin",
         "structure": "usages",
 	 "adresse": "1, rue Alexandre Ribot",
@@ -1286,6 +1347,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "62",
         "name": "La Fab'rique",
         "structure": "fablab",
 	 "adresse": "1, rue Jacques de Corbière",
