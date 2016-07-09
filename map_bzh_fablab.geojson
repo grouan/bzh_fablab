@@ -1372,7 +1372,7 @@
         "id": "63",
         "name": "Chaplab",
         "structure": "fablab",
-	 "adresse": "Lycée Chaptal, 6 allée Chaptal",
+	 "adresse": "Lycée Chaptal<br />6 allée Chaptal",
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
         "web": "http://chaplab.info",
