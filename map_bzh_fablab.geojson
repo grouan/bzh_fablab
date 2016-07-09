@@ -1372,7 +1372,7 @@
         "id": "63",
         "name": "Chaplab",
         "structure": "fablab",
-	 "adresse": "Lycée Chaptal<br />6 allée Chaptal",
+	 "adresse": "Lycée Chaptal<br />6, allée Chaptal",
 	 "cp": "22000",
         "ville": "Saint-Brieuc",
         "web": "http://chaplab.info",
@@ -1384,6 +1384,28 @@
         "coordinates": [
           -2.736596,
           48.512256
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "Le Plan D",
+        "structure": "tierslieu",
+	 "adresse": "14, rue Jean Coquelin",
+	 "cp": "22000",
+        "ville": "Saint-Brieuc",
+        "web": "http://assopland.wix.com/siteofficiel",
+        "twitter": "",
+	 "facebook": "association.lepland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.780254,
+          48.508031
         ]
       }
     }
