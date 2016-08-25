@@ -1407,6 +1407,27 @@
           -2.780254,
           48.508031
         ]
+      },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "Espace multimédia",
+        "structure": "usages",
+	 "adresse": "Médiathèque Germaine Tillion<br />1, rue des Droits de l'Homme",
+	 "cp": "56890",
+        "ville": "Saint-Avé",
+        "web": "http://www.saint-ave.fr/presentation_espace_multimedia.html",
+        "twitter": "",
+	 "facebook": "/pages/Médiathèque-Germaine-Tillion-à-Saint-Avé/225881757552744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.739510,
+          47.690907
+        ]
       }
     }
     
