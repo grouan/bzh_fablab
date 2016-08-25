@@ -1,4 +1,15 @@
 <?PHP
+	/*	La carte des FabLabs & autres lieux de dissémination des usages numériques en Bretagne
+		======================================================================================
+		Auteur : Guillaume Rouan | @grouan
+		Blog : http://guillaume-rouan.net
+		--------------------------------------------------------------------------------------
+		=> La carte des FabLabs de Bretagne : http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/
+		=> La liste des FabLabs de Bretagne : http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bzh_liste.php
+		=> Sources : https://github.com/grouan/bzh_fablab
+		--------------------------------------------------------------------------------------
+	*/
+
 	// Ouverture du fichier GEOjson depuis Github
 	$fichier = 'https://raw.githubusercontent.com/grouan/bzh_fablab/master/map_bzh_fablab.geojson';
 	$fp = fopen ($fichier, "r");
