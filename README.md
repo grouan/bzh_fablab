@@ -3,6 +3,9 @@
 
 Ce projet comprend à la fois le fichier source GeoJSON des lieux géolocalisés + les fichiers de récupération et d'affichage (v.2 PHP). Naturellement ces fichiers peuvent être utilisés indépendamment.
 
+## fablabs_bzh_liste.php
+Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de trier les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
+
 ## Encapsulation (Embed Code)
 Pour intégrer cette carte à votre site web, copiez-collez ce code directement dans votre page : 
 ```html
@@ -10,9 +13,6 @@ Pour intégrer cette carte à votre site web, copiez-collez ce code directement 
 ```
 
 Si vous êtes sur un CMS (Wordpress, Joomla, Drupal...), pensez à bien vous placer en mode HTML lors de l'ajout de ce code au sein de votre article, et non en mode visuel (ou aperçu). L'affichage optimal est de 800 x 600 pixels, ce qui vous permet de voir l'ensemble de la zone. Vous pouvez néanmoins paramétrer à votre goût : <code>width="100%"</code> pour un affichage en pleine largeur, complétez l'argument <code>style=""</code> pour modifier le rendu visuel (CSS)...
-
-## fablabs_bzh_liste.php
-Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de trier les différents éléments (par noms, par ville, par type...).
 
 ## map_bzh_fablab.geojson
 Données <b>GeoJSON</b> des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usages numériques (...) de Bretagne.
