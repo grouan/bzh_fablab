@@ -4,7 +4,7 @@
 Ce projet comprend à la fois le fichier source GeoJSON des lieux géolocalisés + les fichiers de récupération et d'affichage (v.2 PHP). Naturellement ces fichiers peuvent être utilisés indépendamment.
 
 ## fablabs_bzh_liste.php
-Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de trier les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
+Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de <b>trier</b> les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
 
 ## Encapsulation (Embed Code)
 Pour intégrer cette carte à votre site web, copiez-collez ce code directement dans votre page : 
