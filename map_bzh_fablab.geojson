@@ -1414,9 +1414,9 @@
       "type": "Feature",
       "properties": {
         "id": "65",
-        "name": "Espace multimédia",
+        "name": "Médiathèque Germaine Tillion",
         "structure": "usages",
-	 "adresse": "Médiathèque Germaine Tillion<br />1, rue des Droits de l'Homme",
+	 "adresse": "Espace multimédia<br />1, rue des Droits de l'Homme",
 	 "cp": "56890",
         "ville": "Saint-Avé",
         "web": "http://www.saint-ave.fr/presentation_espace_multimedia.html",
