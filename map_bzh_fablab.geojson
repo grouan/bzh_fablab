@@ -1656,6 +1656,29 @@
           48.115168
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "73",
+        "name": "MOOC Fabrication numérique",
+        "structure": "formation",
+	 "adresse": "[online]",
+	 "cp": "35000",
+        "ville": "Rennes",
+        "web": "https://www.fun-mooc.fr/news/la-fabrication-numerique-de-lidee-au-prototype-en-/",
+        "twitter": "",
+	 "facebook": "",
+	 "email": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.628798,
+          48.120150
+        ]
+      }
     }
     
   ]
