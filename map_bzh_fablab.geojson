@@ -1583,8 +1583,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.597787,
-          48.129748
+          -1.598981,
+          48.129526
         ]
       }
     },
@@ -1618,7 +1618,7 @@
         "id": "71",
         "name": "LabFab UTICE",
         "structure": "fablab",
-	 "adresse": "Université Rennes 1<br />PNRB — Bat.9B",
+	 "adresse": "Université Rennes 1<br />Campus Beaulieu — PNRB — Bat.9B",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "https://www.univ-rennes1.fr/actualites/08012016/utice-une-universite-pour-renover-la-pedagogie",
@@ -1639,12 +1639,12 @@
       "type": "Feature",
       "properties": {
         "id": "72",
-        "name": "LabFab ISTIC",
+        "name": "LabFab UR1",
         "structure": "fablab",
-	 "adresse": "Université Rennes 1<br />ISTIC — Bat. 12D",
+	 "adresse": "Université Rennes 1<br />Campus Beaulieu — Bat.11C",
 	 "cp": "35000",
         "ville": "Rennes",
-        "web": "http://fablab.istic.univ-rennes1.fr",
+        "web": "https://camposv-labfab-ur1.ietr.fr",
         "twitter": "",
 	 "facebook": "",
 	 "email": ""
@@ -1652,8 +1652,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.638543,
-          48.115168
+          -1.640909,
+          48.117220
         ]
       }
     },
