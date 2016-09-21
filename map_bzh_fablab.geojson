@@ -1679,6 +1679,52 @@
           48.120150
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "74",
+        "name": "La Colloc",
+        "structure": "cantine",
+	 "adresse": "42, avenue de la Perrière",
+	 "cp": "56100",
+        "ville": "Lorient",
+        "web": "https://www.la-colloc.com",
+        "twitter": "@la_colloc",
+	 "facebook": "LeCollectifLaColloc",
+	 "email": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.364037,
+          47.733141
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75",
+        "name": "Médiathèque de Quiberon",
+        "structure": "usages",
+	 "adresse": "16 rue Michelet",
+	 "cp": "56170",
+        "ville": "Quiberon",
+        "web": "http://ville-quiberon.fr/vie-locale/culture/mediatheque",
+        "twitter": "",
+	 "facebook": "mediaquiberon",
+	 "email": "mediatheque@ville-quiberon.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.120272,
+          47.484204
+        ]
+      }
     }
     
   ]
