@@ -972,13 +972,13 @@
       "type": "Feature",
       "properties": {
         "id": "43",
-        "name": "L'Hôtel à Projets",
+        "name": "L'Hôtel Pasteur",
         "structure": "tierslieu",
 	 "adresse": "2, place Pasteur",
 	 "cp": "35000",
         "ville": "Rennes",
-        "web": "",
-        "twitter": "",
+        "web": "http://www.hotelpasteur.fr",
+        "twitter": "@HotelPasteur",
 	 "facebook": "",
 	 "email": ""
       },
