@@ -46,10 +46,13 @@ Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 - Cluster : en fonction du zoom, regrouper les marqueurs pour plus de lisibilité
 - Sidebar : en plein écran, ajout d'une sidebar avec éléments de légende
 
+## Pour contribuer
+Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations suivantes : nom + type (Cantine numérique / coworking space, FabLab MIT, FabLab, Formation / Recherche, FrenchTech, Hackerspace, Makerspace, Tiers-Lieu, Espace / Organisation facilitant les usages numériques) + adresse (avec CP et Ville) + Site web + Page Facebook + Profil Twitter + Coordonnées GPS (Lat. et Long. précises).
+
 ## Licence & crédits
 Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.
 
-Auteur : Guillaume Rouan | <a href="http://guillaume-rouan.net" target="_blank">http://guillaume-rouan.net</a> | <a href="http://twitter.com/grouan" target="_blank">@grouan</a>
+Auteur : Guillaume Rouan | <a href="http://guillaume-rouan.net/blog" target="_blank">guillaume-rouan.net/blog</a> | <a href="http://twitter.com/grouan" target="_blank">@grouan</a>
 
 Cette carte est également disponible sur les plateformes suivantes :
 
