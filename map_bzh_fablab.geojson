@@ -1724,6 +1724,28 @@
           -3.120272,
           47.484204
         ]
+      },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76",
+        "name": "Esprit FabLab",
+        "structure": "fablab",
+	 "adresse": "13 rue Abbé Gibert",
+	 "cp": "22110",
+        "ville": "Rostrenen",
+        "web": "",
+        "twitter": "",
+	 "facebook": "EspritFablab",
+	 "email": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.318719,
+          48.235841
+        ]
       }
     }
     
