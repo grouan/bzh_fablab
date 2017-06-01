@@ -1748,6 +1748,32 @@
           48.235841
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "77",
+        "name": "Konk Ar Lab",
+        "structure": "fablab",
+	 "adresse": "2 rue des Charmes<br />Kérandon",
+	 "cp": "29900",
+        "ville": "Concarneau",
+        "web": "http://www.konkarlab.bzh",
+        "twitter": "@KonkArLab",
+	 "facebook": "konkarlab",
+	 "email": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.915682,
+	  47.883616
+        ]
+      }
     }
+    
+    
+    
   ]
 }
