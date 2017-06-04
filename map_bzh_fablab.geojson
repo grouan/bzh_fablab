@@ -1771,6 +1771,29 @@
 	  47.883616
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78",
+        "name": "iRoboTechArt",
+        "structure": "usages",
+	 "adresse": "Collège Anita Conti<br />Rue Monistrol",
+	 "cp": "56100",
+        "ville": "Lorient",
+        "web": "http://www.irobotechart.com",
+        "twitter": "",
+	 "facebook": "",
+	 "email": "contact@iRoboTechArt.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.382096,
+	  47.736553
+        ]
+      }
     }
     
     
