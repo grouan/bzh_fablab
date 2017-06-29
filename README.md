@@ -3,9 +3,19 @@
 <img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/fablabzh_map.png" />
 
 
-Ce projet, initié en 2014, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à fédérer des espaces / services / projets qui œuvrent d'une même dynamique. Collaborative, libre et Open Source, il est désormais pleinement ouvert. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
+Ce projet, initié en 2014, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaboratif, libre et Open Source, il est désormais pleinement ouvert. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
 
-Ce projet comprend à la fois le fichier source GeoJSON des lieux géolocalisés + les fichiers de récupération et d'affichage (v.2 PHP). Naturellement ces fichiers peuvent être utilisés indépendamment.
+## Contribuez !
+## Le code
+## Encapsulation
+## Démo
+## Crédits
+## Licence
+## Auteur
+## Versions
+
+
+
 
 ## fablabs_bzh_liste.php
 Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de <b>trier</b> les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
