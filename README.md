@@ -1,5 +1,5 @@
 # Carte des FabLabs de Bretagne
-### Carte collaborative & Open Source des FabLabs et autres lieux de dissémination des usages numériques en Bretagne
+<div style="text-transform:uppercase;font-size:0.8em;color:#999;">Carte collaborative & Open Source des FabLabs et autres lieux de dissémination des usages numériques en Bretagne</div>
 <img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/fablabzh_map.png" />
 
 
