@@ -2,6 +2,7 @@
 #### CARTE COLLABORATIVE & OPEN SOURCE DES FABLABS ET AUTRES LIEUX DE DISSÉMINATION DES USAGES NUMÉRIQUES EN BRETAGNE
 <img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/fablabzh_map.png" />
 
+Contribuez | Le code | Encapsulation | Démo | <a href="#outils-utilis%C3%89s" target="_self">Outils</a> | Licence | Auteur | Versions
 
 Ce projet, initié en 2014, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaboratif, libre et Open Source, cette carte est désormais pleinement ouverte. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
 
@@ -43,7 +44,7 @@ Si vous êtes sur un CMS (Wordpress, Joomla, Drupal...), pensez à bien vous pla
 
 ## LICENCE
 
-Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.
+Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>. Merci de faire mention d'auteur pour toute utilisation.
 
 ## AUTEUR
 
