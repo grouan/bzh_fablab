@@ -43,7 +43,8 @@ Sources : &copy; Contributeurs de <a href="http://openstreetmap.org" target="_bl
 ## // LICENCE
 
 Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.<br />
-Merci de faire mention d'auteur pour toute utilisation.
+Merci de faire mention d'auteur pour toute utilisation.<br />
+Permalien du projet : http://grouan.github.io/bzh_fablab/
 
 ## // AUTEUR
 
