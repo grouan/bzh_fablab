@@ -12,22 +12,6 @@ Cette carte est également disponible sur les plateformes suivantes :
 
 Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations suivantes : nom + type (Cantine numérique / coworking space, FabLab MIT, FabLab, Formation / Recherche, FrenchTech, Hackerspace, Makerspace, Tiers-Lieu, Espace / Organisation facilitant les usages numériques) + adresse (avec CP et Ville) + Site web + Page Facebook + Profil Twitter + Coordonnées GPS (Lat. et Long. précises).
 
-<FORM action="mailto:contact@guillaume-rouan.net?subject=contribution_carte_fablabs_bretagne" method="post">
-<div>
-        <label for="name">Nom</label>
-        <input type="text" id="name" name="nom">
-    </div>
-    <div>
-        <label for="mail">Courriel</label>
-        <input type="email" id="mail" name="courriel">
-    </div>
-    <div>
-        <label for="msg">Message</label>
-        <textarea id="msg" name="message"></textarea>
-    </div>
-<input type="submit" value="Envoyer">
-</FORM>
-
 ## // LE CODE
 
 ### fablabs_bzh_liste.php
