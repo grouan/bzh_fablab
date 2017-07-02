@@ -62,26 +62,34 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
     </fieldset>
-    <div style="text-align:right;font-size:0.8em;color:#666;">Les informations de la rubrique "Qui suis-je" mentionnées dans le présent formulaire servent uniquement à usage de communication. Elle ne seront pas stockées en base de données, ni cédées ou vendues à aucun tiers.</div>
+    <div style="text-align:right;font-size:0.7em;color:#DDD;">Les informations de la rubrique "Qui suis-je" mentionnées dans le présent formulaire servent uniquement à usage de communication. Elle ne seront pas stockées en base de données, ni cédées ou vendues à aucun tiers.</div>
   <input type="submit" value="&rarr; JE CONTRIBUE" style="margin-top:20px;border:0px;font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
 </form>
 <!-- -->
 </div>
 
-## // LE CODE
+## // LE CODE SOURCE
 
-<button onclick="var x = document.getElementById('formulaire');
+<button onclick="var x = document.getElementById('code01');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />### fablabs_bzh_liste.php</button>
-### fablabs_bzh_liste.php
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />fablabs_bzh_liste.php</button>
+<div id="code01" style="display:none;">
 Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de <b>trier</b> les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
+</div>
 
-### map_bzh_fablab.geojson
+<button onclick="var x = document.getElementById('code02');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />map_bzh_fablab.geojson</button>
+<div id="code02" style="display:none;">
 Données <b>GeoJSON</b> des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usages numériques (...) de Bretagne.
 Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peut être utilisé notamment dans le cadre de l'élaboration d'une cartographie OpenStreetMap de ces lieux.
+</div>
 
 ## // ENCAPSULATION (Embed Code)
 
@@ -116,22 +124,59 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
 
 ## // VERSIONS
 
-### v.4 : Optimisations pour les Pages Github.io
+<button onclick="var x = document.getElementById('v05');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.5 : Ajout d'un formulaire de contribution</button>
+<div id="v05" style="display:none;">
+</div>
 
-### v.3 : fablabs_bretagne.php
+<button onclick="var x = document.getElementById('v04');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.4 : Optimisations pour les Pages Github.io</button>
+<div id="v04" style="display:none;">
+</div>
+
+<button onclick="var x = document.getElementById('v03');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.3 : fablabs_bretagne.php</button>
+<div id="v03" style="display:none;">
 + Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
 
 + Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
 
 + Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+</div>
 
-### v.2 : fablabs_bretagne.php
+<button onclick="var x = document.getElementById('v02');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.2 : fablabs_bretagne.php</button>
+<div id="v02" style="display:none;">
 + Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 
 + Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+</div> 
 
-### v.1 : fablabs_bretagne.html
+<button onclick="var x = document.getElementById('v01');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.1 : fablabs_bretagne.html</button>
+<div id="v01" style="display:none;">
 Carte HTML en plein écran, pour intégration au sein de votre CMS en iframe (fonctionnel pour Wordpress). Cette carte comprend les librairies importées, ainsi que les paramétrages de la carte et l'affichage.
 Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 - <code>ACCESS_TOKEN = 'XXX';</code> : remplacer XXX par l'Access Token de votre compte <a href="http://www.mapbox.com/" target="_blank">Mapbox</a>,
 - <code>L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY' }).addTo(map);</code> : remplacer YYY par l'identifiant du fond de carte Mapbox que vous souhaitez utiliser.
+</div>
