@@ -20,7 +20,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
     }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />Je souhaite contribuer</button>
 <div id="formulaire" style="display:none;">
 <!-- -->
-<form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
+<form action="http://guillaume-rouan.net/contact_bzh_fablab.php" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
   <fieldset style="border:5px solid #333">
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">QUI SUIS-JE</legend>
     <label for="CONTACT-name">Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
@@ -157,6 +157,7 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
 - Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
 - Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
 - Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+
 </div>
 
 <button onclick="var x = document.getElementById('v02');
@@ -169,6 +170,7 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
 
 - Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
 - Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+
 </div> 
 
 <button onclick="var x = document.getElementById('v01');
@@ -183,4 +185,5 @@ Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 
 - <code>ACCESS_TOKEN = 'XXX';</code> : remplacer XXX par l'Access Token de votre compte <a href="http://www.mapbox.com/" target="_blank">Mapbox</a>,
 - <code>L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY' }).addTo(map);</code> : remplacer YYY par l'identifiant du fond de carte Mapbox que vous souhaitez utiliser.
+
 </div>
