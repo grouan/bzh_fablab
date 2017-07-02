@@ -12,17 +12,15 @@ Cette carte est également disponible sur les plateformes suivantes :
 
 Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations suivantes : nom + type (Cantine numérique / coworking space, FabLab MIT, FabLab, Formation / Recherche, FrenchTech, Hackerspace, Makerspace, Tiers-Lieu, Espace / Organisation facilitant les usages numériques) + adresse (avec CP et Ville) + Site web + Page Facebook + Profil Twitter + Coordonnées GPS (Lat. et Long. précises).
 
-<!--<button onclick="document.getElementById('formulaire').style.display='block';">Contribuez &rarr;</button>-->
 <button onclick="var x = document.getElementById('formulaire');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }">Contribuez &rarr;</button>
+    }"><span style="font-size:1.5em;border:1px solid #666;padding:2px;margin:0px 5px;border-radius:2px;">+</span> Contribuez &rarr;</button>
 <div id="formulaire" style="display:none;">
-FORMULAIRE À COMPLÉTER
-<!--
-<form action="" method="post" style="">
+<!-- -->
+<form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;">
   <fieldset>
     <legend>VOUS</legend>
     <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
@@ -61,7 +59,7 @@ FORMULAIRE À COMPLÉTER
   <textarea id="ECONTACT-message" name="contact_message" row="3" cols="100%"></textarea>
   <input type="submit" value="Je contribue" />
 </form>
--->
+<!-- -->
 </div>
 
 ## // LE CODE
