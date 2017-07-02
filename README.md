@@ -20,7 +20,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
         x.style.display = 'none';
     }">Contribuez &rarr;</button>
 <div id="formulaire" style="display:none;">
-FORMULAIRE
+FORMULAIRE À COMPLÉTER
 <!--
 <form action="" method="post" style="">
   <fieldset>
