@@ -2,7 +2,7 @@
 #### CARTE COLLABORATIVE & OPEN SOURCE DES FABLABS ET AUTRES LIEUX DE DISSÉMINATION DES USAGES NUMÉRIQUES EN BRETAGNE
 <img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/carte_fablabs_de_bretagne_juillet-2017.png" />
 
-Ce projet, initié en 2015, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaborative, libre et Open Source, cette carte est désormais pleinement accessible. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
+Ce projet, initié en 2015, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaborative, libre et Open Source, cette carte est désormais en crowdsourcing et pleinement accessible. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
 
 Cette carte est également disponible sur les plateformes suivantes :
 
@@ -10,19 +10,19 @@ Cette carte est également disponible sur les plateformes suivantes :
 
 ## // CONTRIBUEZ !
 
-Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations suivantes : nom + type (Cantine numérique / coworking space, FabLab MIT, FabLab, Formation / Recherche, FrenchTech, Hackerspace, Makerspace, Tiers-Lieu, Espace / Organisation facilitant les usages numériques) + adresse (avec CP et Ville) + Site web + Page Facebook + Profil Twitter + Coordonnées GPS (Lat. et Long. précises).
+Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à sa qualité et à sa pérennité. Pour contribuer, rien de plus simple : il vous suffit de cliquer sur le bouton "Je souhaite contribuer" pour afficher le formulaire et indiquer les éléments que vous souhaitez modifier ou ajouter à la carte.
 
 <button onclick="var x = document.getElementById('formulaire');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" /> Contribuez &rarr;</button>
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" /> &rarr; Je souhaite contribuer</button>
 <div id="formulaire" style="display:none;">
 <!-- -->
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
   <fieldset style="border:5px solid #333">
-    <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">VOUS</legend>
+    <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">QUI SUIS-JE</legend>
     <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
     <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
     <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" /><br />
@@ -30,10 +30,11 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
     <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
   </fieldset>
   <fieldset style="border:5px solid #333;margin-top:20px;">
-    <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">AJOUTER À LA CARTE</legend>
-    <fieldset>
-        <legend>Structure / Service / Projet</legend>
+    <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">CE QUE JE PROPOSE D'AJOUTER À LA CARTE</legend>
+    <fieldset style="border-color:#FFF;">
+        <legend>STRUCTURE / SERVICE / PROJET</legend>
         <label for="ETB-name">*Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
+        <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme" /><br />
         <label for="ETB-type">*Type : </label><br /> 
             <input type="radio" name="_type" id="radio1" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png" style="width:25px;height:25px;" /> <label for="radio1">Cantine numérique ou espace de coworking</label><br />
             <input type="radio" name="_type" id="radio3" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png" style="width:25px;height:25px;" /> <label for="radio3">FabLab labellisé MIT</label><br />
@@ -45,7 +46,8 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
             <input type="radio" name="_type" id="radio9" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_tierslieu.png" style="width:25px;height:25px;" /> <label for="radio9">Tiers-Lieu</label><br />
             <input type="radio" name="_type" id="radio10" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_usages.png" style="width:25px;height:25px;" /> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
     </fieldset>
-    <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme" /><br />
+    <fieldset style="border-color:#FFF;">
+        <legend>COORDONNÉES</legend>
     <label for="ETB-adr">Adresse : </label> <input id="ETB-adr" type="text" name="_adresse" /><br /> 
     <label for="ETB-cp">CP : </label> <input id="ETB-cp" type="text" name="_cp" size="6" /> 
     <label for="ETB-ville">Ville : </label> <input id="ETB-ville" type="text" name="_ville" /><br />
@@ -53,13 +55,14 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
     <label for="ETB-fb">Page Facebook : </label> <input id="ETB-fb" type="text" name="_facebook" /><br />
     <label for="ETB-tw">Profil Twitter : </label> <input id="ETB-tw" type="text" name="_twitter" /><br />
     <label for="ETB-mail">E-mail de contact : </label> <input id="ETB-mail" type="text" name="_mail" x-moz-errormessage="Merci d'indiquer une adresse mail valide :)" /><br />
-    <fieldset>
-        <legend>Coordonnées GPS</legend>
+    </fieldset>
+    <fieldset style="border-color:#FFF;">
+        <legend>GÉOLOCALISATION GPS</legend>
         <label for="ETB-GPSlat">Latitude : </label> <input id="ETB-GPSlat" type="text" name="_GPSlat" /><br />
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
     </fieldset>
-  <input type="submit" value="JE CONTRIBUE" style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
+  <input type="submit" value="&rarr; JE CONTRIBUE" style="border:0px;font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
 </form>
 <!-- -->
 </div>
