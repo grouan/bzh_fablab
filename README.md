@@ -17,7 +17,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" /> &rarr; Je souhaite contribuer</button>
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />Je souhaite contribuer</button>
 <div id="formulaire" style="display:none;">
 <!-- -->
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
@@ -32,7 +32,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
   <fieldset style="border:5px solid #333;margin-top:20px;">
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">CE QUE JE PROPOSE D'AJOUTER À LA CARTE</legend>
     <fieldset style="border-color:#FFF;">
-        <legend>STRUCTURE / SERVICE / PROJET</legend>
+        <legend style="font-weight:bold;color:#FFF;padding:2px 10px;">STRUCTURE / SERVICE / PROJET</legend>
         <label for="ETB-name">*Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
         <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme" /><br />
         <label for="ETB-type">*Type : </label><br /> 
@@ -47,7 +47,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
             <input type="radio" name="_type" id="radio10" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_usages.png" style="width:25px;height:25px;" /> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
     </fieldset>
     <fieldset style="border-color:#FFF;">
-        <legend>COORDONNÉES</legend>
+        <legend style="font-weight:bold;color:#FFF;padding:2px 10px;">COORDONNÉES</legend>
     <label for="ETB-adr">Adresse : </label> <input id="ETB-adr" type="text" name="_adresse" /><br /> 
     <label for="ETB-cp">CP : </label> <input id="ETB-cp" type="text" name="_cp" size="6" /> 
     <label for="ETB-ville">Ville : </label> <input id="ETB-ville" type="text" name="_ville" /><br />
@@ -57,7 +57,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
     <label for="ETB-mail">E-mail de contact : </label> <input id="ETB-mail" type="text" name="_mail" x-moz-errormessage="Merci d'indiquer une adresse mail valide :)" /><br />
     </fieldset>
     <fieldset style="border-color:#FFF;">
-        <legend>GÉOLOCALISATION GPS</legend>
+        <legend style="font-weight:bold;color:#FFF;padding:2px 10px;">GÉOLOCALISATION GPS</legend>
         <label for="ETB-GPSlat">Latitude : </label> <input id="ETB-GPSlat" type="text" name="_GPSlat" /><br />
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
