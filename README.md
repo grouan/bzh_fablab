@@ -133,8 +133,9 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.5 : Ajout d'un formulaire de contribution</button>
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.5</button>
 <div id="v05" style="display:none;">
+Ajout d'un formulaire de contribution
 </div>
 
 <button onclick="var x = document.getElementById('v04');
@@ -142,8 +143,9 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.4 : Optimisations pour les Pages Github.io</button>
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.4</button>
 <div id="v04" style="display:none;">
+Optimisations pour les Pages Github.io
 </div>
 
 <button onclick="var x = document.getElementById('v03');
