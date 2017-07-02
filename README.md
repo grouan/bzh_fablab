@@ -108,7 +108,11 @@ Si vous êtes sur un CMS (Wordpress, Joomla, Drupal...), pensez à bien vous pla
 
 ## // OUTILS UTILISÉS
 
-Sources : &copy; Contributeurs de <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> pour les données cartographiques de base + <a href="http://www.mapbox.com" target="_blank">Mapbox</a> pour le fond de carte + <a href="http://leafletjs.com/" target="_blank">Leaflet</a> pour rendre le tout interactif + <a href="http://arsenicpaca.fr/iconotheque-mediation-numerique/" target="_blank">ARSENIC</a> et <a href="http://www.fabfoundation.org" target="_blank">Fab Foundation</a> pour les images des icones.
+- &copy; Contributeurs de <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> pour les données cartographiques de base
+- <a href="http://www.mapbox.com" target="_blank">Mapbox</a> pour le fond de carte
+- <a href="http://leafletjs.com/" target="_blank">Leaflet</a> pour rendre le tout interactif
+- <a href="http://arsenicpaca.fr/iconotheque-mediation-numerique/" target="_blank">ARSENIC</a>
+- <a href="http://www.fabfoundation.org" target="_blank">Fab Foundation</a> pour les images des icones.
 
 ## // LICENCE
 
@@ -149,11 +153,9 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
         x.style.display = 'none';
     }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.3 : fablabs_bretagne.php</button>
 <div id="v03" style="display:none;">
-+ Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
-
-+ Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
-
-+ Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+- Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
+- Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
+- Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
 </div>
 
 <button onclick="var x = document.getElementById('v02');
@@ -163,9 +165,8 @@ Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_bla
         x.style.display = 'none';
     }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.2 : fablabs_bretagne.php</button>
 <div id="v02" style="display:none;">
-+ Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
-
-+ Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
+- Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
+- Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
 </div> 
 
 <button onclick="var x = document.getElementById('v01');
