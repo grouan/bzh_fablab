@@ -22,7 +22,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
 <!-- -->
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
   <fieldset style="border:3px solid #333">
-    <legend style="font-weight:bold;">VOUS</legend>
+    <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">VOUS</legend>
     <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
     <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
     <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" /><br />
@@ -30,7 +30,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
     <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
   </fieldset>
   <fieldset style="border:3px solid #333">
-    <legend style="font-weight:bold;">AJOUTER À LA CARTE</legend>
+    <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">AJOUTER À LA CARTE</legend>
     <fieldset>
         <legend>Structure / Service / Projet</legend>
         <label for="ETB-name">*Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
