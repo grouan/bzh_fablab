@@ -21,7 +21,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
 <div id="formulaire" style="display:none;">
 <!-- -->
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
-  <fieldset style="border:3px solid #333">
+  <fieldset style="border:5px solid #333">
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">VOUS</legend>
     <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
     <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
@@ -29,7 +29,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
     <label for="CONTACT-message">Message : </label><br />
     <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
   </fieldset>
-  <fieldset style="border:3px solid #333">
+  <fieldset style="border:5px solid #333;margin-top:20px;">
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">AJOUTER À LA CARTE</legend>
     <fieldset>
         <legend>Structure / Service / Projet</legend>
@@ -59,7 +59,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
     </fieldset>
-  <input type="submit" value="Je contribue" />
+  <input type="submit" value="JE CONTRIBUE" style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
 </form>
 <!-- -->
 </div>
