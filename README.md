@@ -17,7 +17,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
-    }"><span style="font-size:1.5em;border:1px solid #666;padding:2px;margin:0px 5px;border-radius:2px;">+</span> Contribuez &rarr;</button>
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" /> Contribuez &rarr;</button>
 <div id="formulaire" style="display:none;">
 <!-- -->
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;">
