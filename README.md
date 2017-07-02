@@ -25,7 +25,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">QUI SUIS-JE</legend>
     <label for="CONTACT-name">Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
     <label for="CONTACT-mail">E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
-    <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" /><br />
+    <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact_statut" /><br />
     <label for="CONTACT-message">Message : </label><br />
     <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
   </fieldset>
@@ -36,15 +36,15 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
         <label for="ETB-name">Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
         <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme" /><br />
         <label for="ETB-type">Type : </label><br /> 
-            <input type="radio" name="_type" id="radio1" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png" style="width:25px;height:25px;" /> <label for="radio1">Cantine numérique ou espace de coworking</label><br />
-            <input type="radio" name="_type" id="radio3" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png" style="width:25px;height:25px;" /> <label for="radio3">FabLab labellisé MIT</label><br />
-            <input type="radio" name="_type" id="radio4" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablab.png" style="width:25px;height:25px;" /> <label for="radio4">Atelier de fabrication</label><br />
-            <input type="radio" name="_type" id="radio5" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_formation.png" style="width:25px;height:25px;" /> <label for="radio5">Formation / Recherche</label><br />
-            <input type="radio" name="_type" id="radio6" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_frenchtech.png" style="width:25px;height:25px;" /> <label for="radio6">FrenchTech</label><br />
-            <input type="radio" name="_type" id="radio7" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_hakerspace.png" style="width:25px;height:25px;" /> <label for="radio7">Hackerspace</label><br />
-            <input type="radio" name="_type" id="radio8" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_makerspace.png" style="width:25px;height:25px;" /> <label for="radio8">Makerspace</label><br />
-            <input type="radio" name="_type" id="radio9" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_tierslieu.png" style="width:25px;height:25px;" /> <label for="radio9">Tiers-Lieu</label><br />
-            <input type="radio" name="_type" id="radio10" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_usages.png" style="width:25px;height:25px;" /> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
+            <input type="radio" name="_type" id="radio1" value="Cantine numérique" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png" style="width:25px;height:25px;" /> <label for="radio1">Cantine numérique ou espace de coworking</label><br />
+            <input type="radio" name="_type" id="radio3" value="FabLab MIT" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png" style="width:25px;height:25px;" /> <label for="radio3">FabLab labellisé MIT</label><br />
+            <input type="radio" name="_type" id="radio4" value="FabLab" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablab.png" style="width:25px;height:25px;" /> <label for="radio4">Atelier de fabrication</label><br />
+            <input type="radio" name="_type" id="radio5" value="Formation / Recherche" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_formation.png" style="width:25px;height:25px;" /> <label for="radio5">Formation / Recherche</label><br />
+            <input type="radio" name="_type" id="radio6" value="FrenchTech" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_frenchtech.png" style="width:25px;height:25px;" /> <label for="radio6">FrenchTech</label><br />
+            <input type="radio" name="_type" id="radio7" value="Hackerspace" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_hakerspace.png" style="width:25px;height:25px;" /> <label for="radio7">Hackerspace</label><br />
+            <input type="radio" name="_type" id="radio8" value="Makerspace" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_makerspace.png" style="width:25px;height:25px;" /> <label for="radio8">Makerspace</label><br />
+            <input type="radio" name="_type" id="radio9" value="Tiers-Lieu" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_tierslieu.png" style="width:25px;height:25px;" /> <label for="radio9">Tiers-Lieu</label><br />
+            <input type="radio" name="_type" id="radio10" value="Espace / Organisation facilitant les usages numériques" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_usages.png" style="width:25px;height:25px;" /> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
     </fieldset>
     <fieldset style="border-color:#FFF;">
         <legend style="font-weight:bold;color:#FFF;padding:2px 10px;">COORDONNÉES</legend>
