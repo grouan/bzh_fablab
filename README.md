@@ -12,45 +12,47 @@ Cette carte est également disponible sur les plateformes suivantes :
 
 Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations suivantes : nom + type (Cantine numérique / coworking space, FabLab MIT, FabLab, Formation / Recherche, FrenchTech, Hackerspace, Makerspace, Tiers-Lieu, Espace / Organisation facilitant les usages numériques) + adresse (avec CP et Ville) + Site web + Page Facebook + Profil Twitter + Coordonnées GPS (Lat. et Long. précises).
 
+<!--
 <form action="" method="post" style="">
   <fieldset>
     <legend>VOUS</legend>
-    <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom"><br />
-    <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail"><br />
-    <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut">
+    <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
+    <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
+    <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" />
   </fieldset>
   <fieldset>
     <legend>AJOUTER À LA CARTE</legend>
-    <label for="ETB-name">*Nom de la structure / du service / du projet : </label> <input id="ETB-name" type="text" name="_nom"><br />
+    <label for="ETB-name">*Nom de la structure / du service / du projet : </label> <input id="ETB-name" type="text" name="_nom" /><br />
     <label for="ETB-type">*Type : </label> 
-        <input type="radio" name="_type" id="radio1"> <label for="radio1">Cantine numérique</label> 
-        <input type="radio" name="_type" id="radio2"> <label for="radio2">Coworking Space</label> 
-        <input type="radio" name="_type" id="radio3"> <label for="radio3">FabLab MIT</label> 
-        <input type="radio" name="_type" id="radio4"> <label for="radio4">Atelier de fabrication</label> 
-        <input type="radio" name="_type" id="radio5"> <label for="radio5">Formation / Recherche</label> 
-        <input type="radio" name="_type" id="radio6"> <label for="radio6">FrenchTech</label> 
-        <input type="radio" name="_type" id="radio7"> <label for="radio7">Hackerspace</label> 
-        <input type="radio" name="_type" id="radio8"> <label for="radio8">Makerspace</label> 
-        <input type="radio" name="_type" id="radio9"> <label for="radio9">Tiers-Lieu</label> 
-        <input type="radio" name="_type" id="radio10"> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
-    <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme"><br />
-    <label for="ETB-adr">Adresse : </label> <input id="ETB-adr" type="text" name="_adresse"> 
-    <label for="ETB-cp">CP : </label> <input id="ETB-cp" type="text" name="_cp"> 
-    <label for="ETB-ville">Ville : </label> <input id="ETB-ville" type="text" name="_ville"><br />
-    <label for="ETB-web">Site web : </label> <input id="ETB-web" type="text" name="_web"><br />
-    <label for="ETB-fb">Page Facebook : </label> <input id="ETB-fb" type="text" name="_facebook"><br />
-    <label for="ETB-tw">Profil Twitter : </label> <input id="ETB-tw" type="text" name="_twitter"><br />
-    <label for="ETB-mail">E-mail de contact : </label> <input id="ETB-mail" type="text" name="_mail"><br />
+        <input type="radio" name="_type" id="radio1" /> <label for="radio1">Cantine numérique</label> 
+        <input type="radio" name="_type" id="radio2" /> <label for="radio2">Coworking Space</label> 
+        <input type="radio" name="_type" id="radio3" /> <label for="radio3">FabLab MIT</label> 
+        <input type="radio" name="_type" id="radio4" /> <label for="radio4">Atelier de fabrication</label> 
+        <input type="radio" name="_type" id="radio5" /> <label for="radio5">Formation / Recherche</label> 
+        <input type="radio" name="_type" id="radio6" /> <label for="radio6">FrenchTech</label> 
+        <input type="radio" name="_type" id="radio7" /> <label for="radio7">Hackerspace</label> 
+        <input type="radio" name="_type" id="radio8" /> <label for="radio8">Makerspace</label> 
+        <input type="radio" name="_type" id="radio9" /> <label for="radio9">Tiers-Lieu</label> 
+        <input type="radio" name="_type" id="radio10" /> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
+    <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme" /><br />
+    <label for="ETB-adr">Adresse : </label> <input id="ETB-adr" type="text" name="_adresse" /> 
+    <label for="ETB-cp">CP : </label> <input id="ETB-cp" type="text" name="_cp" /> 
+    <label for="ETB-ville">Ville : </label> <input id="ETB-ville" type="text" name="_ville" /><br />
+    <label for="ETB-web">Site web : </label> <input id="ETB-web" type="text" name="_web" /><br />
+    <label for="ETB-fb">Page Facebook : </label> <input id="ETB-fb" type="text" name="_facebook" /><br />
+    <label for="ETB-tw">Profil Twitter : </label> <input id="ETB-tw" type="text" name="_twitter" /><br />
+    <label for="ETB-mail">E-mail de contact : </label> <input id="ETB-mail" type="text" name="_mail" /><br />
     <fieldset>
         <legend>Coordonnées GPS</legend>
-        <label for="ETB-GPSlat">Latitude : </label> <input id="ETB-GPSlat" type="text" name="_GPSlat"><br />
-        <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon"><br />
+        <label for="ETB-GPSlat">Latitude : </label> <input id="ETB-GPSlat" type="text" name="_GPSlat" /><br />
+        <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
   </fieldset>
   <label for="CONTACT-message">Message : </label><br />
-  <textarea id="ECONTACT-message" name="contact_message" row="3" cols="100%">
-  <input type="submit" value="Je contribue">
+  <textarea id="ECONTACT-message" name="contact_message" row="3" cols="100%"></textarea>
+  <input type="submit" value="Je contribue" />
 </form>
+-->
 
 ## // LE CODE
 
