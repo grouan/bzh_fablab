@@ -1,8 +1,8 @@
 # Carte des FabLabs de Bretagne
 #### CARTE COLLABORATIVE & OPEN SOURCE DES FABLABS ET AUTRES LIEUX DE DISSÉMINATION DES USAGES NUMÉRIQUES EN BRETAGNE
-<img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/02/fablabzh_map.png" />
+<img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/carte_fablabs_de_bretagne_juillet-2017.png" />
 
-Ce projet, initié en 2014, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaboratif, libre et Open Source, cette carte est désormais pleinement ouverte. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
+Ce projet, initié en 2014, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaborative, libre et Open Source, cette carte est désormais pleinement accessible. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
 
 Cette carte est également disponible sur les plateformes suivantes :
 
@@ -21,14 +21,16 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
 <div id="formulaire" style="display:none;">
 <!-- -->
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
-  <fieldset>
-    <legend>VOUS</legend>
+  <fieldset style="border:3px solid #333">
+    <legend style="font-weight:bold;">VOUS</legend>
     <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
     <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
-    <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" />
+    <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" /><br />
+    <label for="CONTACT-message">Message : </label><br />
+    <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
   </fieldset>
-  <fieldset>
-    <legend>AJOUTER À LA CARTE</legend>
+  <fieldset style="border:3px solid #333">
+    <legend style="font-weight:bold;">AJOUTER À LA CARTE</legend>
     <fieldset>
         <legend>Structure / Service / Projet</legend>
         <label for="ETB-name">*Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
@@ -57,9 +59,7 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
         <label for="ETB-GPSlat">Latitude : </label> <input id="ETB-GPSlat" type="text" name="_GPSlat" /><br />
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
-  </fieldset>
-  <label for="CONTACT-message">Message : </label><br />
-  <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
+    </fieldset>
   <input type="submit" value="Je contribue" />
 </form>
 <!-- -->
