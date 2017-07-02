@@ -12,7 +12,7 @@ Cette carte est également disponible sur les plateformes suivantes :
 
 Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations suivantes : nom + type (Cantine numérique / coworking space, FabLab MIT, FabLab, Formation / Recherche, FrenchTech, Hackerspace, Makerspace, Tiers-Lieu, Espace / Organisation facilitant les usages numériques) + adresse (avec CP et Ville) + Site web + Page Facebook + Profil Twitter + Coordonnées GPS (Lat. et Long. précises).
 
-<button onclick="document.getElementById('formulaire').style.display = "block";">Contribuez &rarr;</button>
+<button onclick="document.getElementById('formulaire').style.display='block';">Contribuez &rarr;</button>
 <div id="formulaire" style="display:none;">
 FORMULAIRE
 <!--
