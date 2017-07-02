@@ -23,8 +23,8 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
 <form action="" method="post" style="background-color:#EAEAEA;border-radius:5px;padding:12px;">
   <fieldset style="border:5px solid #333">
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">QUI SUIS-JE</legend>
-    <label for="CONTACT-name">*Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
-    <label for="CONTACT-mail">*E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
+    <label for="CONTACT-name">Nom / Prénom : </label> <input id="CONTACT-name" type="text" name="contact_nom" /><br />
+    <label for="CONTACT-mail">E-mail : </label> <input id="CONTACT-mail" type="text" name="contact_mail" /><br />
     <label for="CONTACT-statut">Statut : </label> <input id="CONTACT-statut" type="text" name="contact-statut" /><br />
     <label for="CONTACT-message">Message : </label><br />
     <textarea id="ECONTACT-message" name="contact_message" row="3" cols=""></textarea>
@@ -33,9 +33,9 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
     <legend style="font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;">CE QUE JE PROPOSE D'AJOUTER À LA CARTE</legend>
     <fieldset style="border-color:#FFF;">
         <legend style="font-weight:bold;color:#FFF;padding:2px 10px;">STRUCTURE / SERVICE / PROJET</legend>
-        <label for="ETB-name">*Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
+        <label for="ETB-name">Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
         <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme" /><br />
-        <label for="ETB-type">*Type : </label><br /> 
+        <label for="ETB-type">Type : </label><br /> 
             <input type="radio" name="_type" id="radio1" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png" style="width:25px;height:25px;" /> <label for="radio1">Cantine numérique ou espace de coworking</label><br />
             <input type="radio" name="_type" id="radio3" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png" style="width:25px;height:25px;" /> <label for="radio3">FabLab labellisé MIT</label><br />
             <input type="radio" name="_type" id="radio4" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablab.png" style="width:25px;height:25px;" /> <label for="radio4">Atelier de fabrication</label><br />
@@ -62,6 +62,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
     </fieldset>
+    <div style="text-align:right;font-size:0.8em;color:#666;">Les informations de la rubrique "Qui suis-je" mentionnées dans le présent formulaire servent uniquement à usage de communication. Elle ne seront pas stockées en base de données, ni cédées ou vendues à aucun tiers.</div>
   <input type="submit" value="&rarr; JE CONTRIBUE" style="margin-top:20px;border:0px;font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
 </form>
 <!-- -->
