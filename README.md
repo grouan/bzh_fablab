@@ -62,7 +62,7 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon" /><br />
     </fieldset>
     </fieldset>
-    <div style="text-align:right;font-size:0.7em;color:#DDD;">Les informations de la rubrique "Qui suis-je" mentionnées dans le présent formulaire servent uniquement à usage de communication. Elle ne seront pas stockées en base de données, ni cédées ou vendues à aucun tiers.</div>
+    <div style="text-align:right;font-size:0.7em;color:#FFF;">Les informations de la rubrique "Qui suis-je" mentionnées dans le présent formulaire servent uniquement à usage de communication. Elle ne seront pas stockées en base de données, ni cédées ou vendues à aucun tiers.</div>
   <input type="submit" value="&rarr; JE CONTRIBUE" style="margin-top:20px;border:0px;font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
 </form>
 <!-- -->
