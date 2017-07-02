@@ -70,6 +70,12 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
 
 ## // LE CODE
 
+<button onclick="var x = document.getElementById('formulaire');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />### fablabs_bzh_liste.php</button>
 ### fablabs_bzh_liste.php
 Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de <b>trier</b> les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
 
