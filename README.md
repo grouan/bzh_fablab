@@ -35,9 +35,8 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
         <legend>Structure / Service / Projet</legend>
         <label for="ETB-name">*Nom : </label> <input id="ETB-name" type="text" name="_nom" /><br />
         <label for="ETB-type">*Type : </label><br /> 
-            <input type="radio" name="_type" id="radio1" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png" style="width:25px;height:25px;" /> <label for="radio1">Cantine numérique</label><br />
-            <input type="radio" name="_type" id="radio2" /> <img src="" style="width:25px;height:25px;" /> <label for="radio2">Coworking Space</label><br />
-            <input type="radio" name="_type" id="radio3" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png" style="width:25px;height:25px;" /> <label for="radio3">FabLab MIT</label><br />
+            <input type="radio" name="_type" id="radio1" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_cantine.png" style="width:25px;height:25px;" /> <label for="radio1">Cantine numérique ou espace de coworking</label><br />
+            <input type="radio" name="_type" id="radio3" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablabMIT.png" style="width:25px;height:25px;" /> <label for="radio3">FabLab labellisé MIT</label><br />
             <input type="radio" name="_type" id="radio4" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_fablab.png" style="width:25px;height:25px;" /> <label for="radio4">Atelier de fabrication</label><br />
             <input type="radio" name="_type" id="radio5" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_formation.png" style="width:25px;height:25px;" /> <label for="radio5">Formation / Recherche</label><br />
             <input type="radio" name="_type" id="radio6" /> <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/osm_marker_frenchtech.png" style="width:25px;height:25px;" /> <label for="radio6">FrenchTech</label><br />
