@@ -32,16 +32,16 @@ Contactez-moi contact[at]guillaume-rouan[dot]net en précisant les informations 
         <input type="radio" name="_type" id="radio7"> <label for="radio7">Hackerspace</label> 
         <input type="radio" name="_type" id="radio8"> <label for="radio8">Makerspace</label> 
         <input type="radio" name="_type" id="radio9"> <label for="radio9">Tiers-Lieu</label> 
-        <input type="radio" name="_type" id="radio10"> <label for="radio10">Espace / Organisation facilitant les usages numériques</label>
+        <input type="radio" name="_type" id="radio10"> <label for="radio10">Espace / Organisation facilitant les usages numériques</label><br />
     <label for="ETB-orga">Organisme : </label> <input id="ETB-orga" type="text" name="_organisme"><br />
-    <label for="ETB-adr">Adresse : </label> <input id="ETB-adr" type="text" name="_adresse"><br />
-    <label for="ETB-cp">CP : </label> <input id="ETB-cp" type="text" name="_cp"><br />
+    <label for="ETB-adr">Adresse : </label> <input id="ETB-adr" type="text" name="_adresse"> 
+    <label for="ETB-cp">CP : </label> <input id="ETB-cp" type="text" name="_cp"> 
     <label for="ETB-ville">Ville : </label> <input id="ETB-ville" type="text" name="_ville"><br />
     <label for="ETB-web">Site web : </label> <input id="ETB-web" type="text" name="_web"><br />
     <label for="ETB-fb">Page Facebook : </label> <input id="ETB-fb" type="text" name="_facebook"><br />
     <label for="ETB-tw">Profil Twitter : </label> <input id="ETB-tw" type="text" name="_twitter"><br />
     <label for="ETB-mail">E-mail de contact : </label> <input id="ETB-mail" type="text" name="_mail"><br />
-    </fieldset>
+    <fieldset>
         <legend>Coordonnées GPS</legend>
         <label for="ETB-GPSlat">Latitude : </label> <input id="ETB-GPSlat" type="text" name="_GPSlat"><br />
         <label for="ETB-GPSlon">Longitude : </label> <input id="ETB-GPSlon" type="text" name="_GPSlon"><br />
