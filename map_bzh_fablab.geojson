@@ -1806,8 +1806,8 @@
 	 "cp": "35340",
         "ville": "Liffré",
         "web": "",
-        "twitter": "https://twitter.com/liffab",
-	 "facebook": "https://www.facebook.com/Liffab",
+        "twitter": "liffab",
+	 "facebook": "Liffab",
 	 "email": "liffab35@gmail.com"
       },
       "geometry": {
@@ -1831,7 +1831,7 @@
         "ville": "Damgan",
         "web": "http://adn56.net",
         "twitter": "",
-	 "facebook": "https://www.facebook.com/UnivPopNumDamgan",
+	 "facebook": "UnivPopNumDamgan",
 	 "email": "contact@adn56.net"
       },
       "geometry": {
