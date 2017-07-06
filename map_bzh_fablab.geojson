@@ -1795,6 +1795,54 @@
         ]
       }
     }
+	
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79",
+        "name": "Liffab",
+        "structure": "FabLab",
+	 "adresse": "Square René Cassin",
+	 "cp": "35340",
+        "ville": "Liffré",
+        "web": "",
+        "twitter": "https://twitter.com/liffab",
+	 "facebook": "https://www.facebook.com/Liffab",
+	 "email": "liffab35@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51048,
+	  48.21485
+        ]
+      }
+    }
+	  
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "80",
+        "name": "Université Populaire du Numérique",
+        "structure": "formation",
+	 "adresse": "",
+	 "cp": "56750",
+        "ville": "Damgan",
+        "web": "http://adn56.net",
+        "twitter": "",
+	 "facebook": "https://www.facebook.com/UnivPopNumDamgan",
+	 "email": "contact@adn56.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.57879,
+	  47.52002
+        ]
+      }
+    }
     
     
     
