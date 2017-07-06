@@ -1644,10 +1644,10 @@
 	 "adresse": "Université Rennes 1<br />Campus Beaulieu — Bat.11C",
 	 "cp": "35000",
         "ville": "Rennes",
-        "web": "https://camposv-labfab-ur1.ietr.fr",
-        "twitter": "",
+        "web": "https://labfab.univ-rennes1.fr",
+        "twitter": "https://twitter.com/LabFab_UR1",
 	 "facebook": "",
-	 "email": ""
+	 "email": "labfab@univ-rennes1.fr"
       },
       "geometry": {
         "type": "Point",
