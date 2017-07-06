@@ -1411,13 +1411,13 @@
         "id": "62",
         "name": "La Fab'rique",
         "structure": "fablab",
-	 "adresse": "1, rue Jacques de Corbière",
+	 "adresse": "Communauté de Communes du Pays de La Roche aux Fées<br />1, rue Jacques de Corbière",
 	 "cp": "35150",
         "ville": "Amanlis",
         "web": "https://lafabriqueccprf.wordpress.com",
         "twitter": "",
 	 "facebook": "lafabriqueccprf",
-	 "email": ""
+	 "email": "fablab@ccprf.fr"
       },
       "geometry": {
         "type": "Point",
