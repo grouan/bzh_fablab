@@ -1801,7 +1801,7 @@
       "properties": {
         "id": "79",
         "name": "Liffab",
-        "structure": "FabLab",
+        "structure": "fablab",
 	 "adresse": "Square René Cassin",
 	 "cp": "35340",
         "ville": "Liffré",
