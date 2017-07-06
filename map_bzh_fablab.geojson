@@ -1819,7 +1819,6 @@
       }
     },  
 
-
     {
       "type": "Feature",
       "properties": {
@@ -1839,6 +1838,29 @@
         "coordinates": [
           -2.57879,
 	  47.52002
+        ]
+      }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "81",
+        "name": "Hitch Hacker's Guide to The Galaxy (Hack2G2)",
+        "structure": "hakerspace",
+	 "adresse": "IUT de Vannes<br />8, rue Montaigne – B209",
+	 "cp": "56017",
+        "ville": "Vannes",
+        "web": "https://hack2g2.fr",
+        "twitter": "@hack2g2",
+	"facebook": "hack2g2",
+	"email": "hack2G2@gmx.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77713,
+	  47.64451
         ]
       }
     }
