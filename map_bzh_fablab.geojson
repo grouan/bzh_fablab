@@ -53,14 +53,14 @@
       "properties": {
         "id": "3",
         "name": "CréaTech",
-        "structure": "tierslieu",
+        "structure": "usages",
 	 "adresse": "Espace associatif d'Arvor<br />Place d'Armorique",
 	 "cp": "56890",
         "ville": "Plescop",
         "web": "http://createchplescop.fr",
         "twitter": "@CreaTech56",
 	 "facebook": "",
-	 "email": ""
+	 "email": "contact@createchplescop.fr"
       },
       "geometry": {
         "type": "Point",
