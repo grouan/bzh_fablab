@@ -1863,6 +1863,29 @@
 	  47.64451
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "82",
+        "name": "Rhizomes",
+        "structure": "usages",
+	 "adresse": "",
+	 "cp": "56470",
+        "ville": "Saint-Philibert",
+        "web": "https://www.rhizomes.org",
+        "twitter": "",
+	"facebook": "",
+	"email": "contact@rhizomes.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00044,
+	  47.58631
+        ]
+      }
     }
     
     
