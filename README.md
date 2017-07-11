@@ -189,3 +189,7 @@ Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
 - <code>L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY' }).addTo(map);</code> : remplacer YYY par l'identifiant du fond de carte Mapbox que vous souhaitez utiliser.
 
 </div>
+
+<div>
+<a href="http://bit.ly/DataGouvFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/datagouv_logo.png" /></a> <a href="http://bit.ly/GeoBretagneFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/geobretagne_logo.png" /></a>
+</div>
