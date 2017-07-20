@@ -14,7 +14,8 @@
         "web": "http://makerspace56.org",
         "twitter": "@makerspace56",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,8 @@
         "web": "",
         "twitter": "@tilt_theix",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +62,8 @@
         "web": "http://createchplescop.fr",
         "twitter": "@CreaTech56",
 	 "facebook": "",
-	 "email": "contact@createchplescop.fr"
+	 "email": "contact@createchplescop.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -83,7 +86,8 @@
         "web": "",
         "twitter": "@fablabvannes",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +110,8 @@
         "web": "http://www.creafab-lorient.com",
         "twitter": "@CREAFABLorient",
 	 "facebook": "pages/Creafab-Lorient/309015802619837",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +134,8 @@
         "web": "http://fabrikerne.fr",
         "twitter": "@FabriKerne",
 	 "facebook": "fabrikerne",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -152,7 +158,8 @@
         "web": "http://www.silicon-kerne.net",
         "twitter": "@SiliconKerne",
 	 "facebook": "siliconkerne",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +182,8 @@
         "web": "http://www.poclagirafe.bzh",
         "twitter": "@collectif_poc",
 	 "facebook": "pages/Collectif-POC/896056633767041",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -191,14 +199,15 @@
       "properties": {
         "id": "9",
         "name": "Les Fabriques du Ponant",
-        "structure": "tierslieu",
+        "structure": "fablabMIT",
 	 "adresse": "40, rue Jules Lesven",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://www.lesfabriquesduponant.net",
         "twitter": "@FabDuPonant",
 	 "facebook": "fabriquesduponant",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -221,7 +230,8 @@
         "web": "http://tyfab.fr",
         "twitter": "@TyFabBrest",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -237,14 +247,15 @@
       "properties": {
         "id": "11",
         "name": "TéléFab Brest",
-        "structure": "fablab",
+        "structure": "fablabMIT",
 	 "adresse": "Télécom Bretagne<br />Technopôle Brest-Iroise",
 	 "cp": "29200",
         "ville": "Brest",
         "web": "http://telefab.fr",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +278,8 @@
         "web": "http://www.coworking-lannion.org",
         "twitter": "CoworkingWigwam",
 	 "facebook": "https://www.facebook.com/groups/wigwam.lannion",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +302,8 @@
         "web": "http://www.fablab-lannion.org",
         "twitter": "@fablablannion",
 	 "facebook": "fablablannion",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +326,8 @@
         "web": "http://lamatrice.org",
         "twitter": "@LaMatrice_SB",
 	 "facebook": "groups/273273166125036",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +350,8 @@
         "web": "http://telefab.fr",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +374,8 @@
         "web": "http://labfab.fr",
         "twitter": "@LabFabfr",
 	 "facebook": "labfabfr",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +398,8 @@
         "web": "http://breizh-entropy.org",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +422,8 @@
         "web": "http://digital-saint-malo.com",
         "twitter": "@LaCamBuzz",
 	 "facebook": "DigitalStMalo",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +446,8 @@
         "web": "http://www.asso-bug.org",
         "twitter": "@assobug",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -451,7 +470,8 @@
         "web": "http://lafrenchtech-rennes.fr",
         "twitter": "@LaFTRennes",
 	 "facebook": "La.french.tech.rennes.stmalo",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -474,7 +494,8 @@
         "web": "http://www.legreniernumerique.fr",
         "twitter": "@grenier_numeriq",
 	 "facebook": "legreniernumerique",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -497,7 +518,8 @@
         "web": "",
         "twitter": "@NnumCarentoir",
 	 "facebook": "La-Nurserie-Numérique-de-Carentoir-897660853656516",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -520,7 +542,8 @@
         "web": "http://www.lanurserienumerique.com",
         "twitter": "@NNumerique",
 	 "facebook": "lanurserienumerique",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -543,7 +566,8 @@
         "web": "http://www.camptic.fr",
         "twitter": "@CampTIC",
 	 "facebook": "Association-CampTIC-408882922510637",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +590,8 @@
         "web": "http://www.lacantine-brest.net",
         "twitter": "@AnDaolVras",
 	 "facebook": "AnDaolVras",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +614,8 @@
         "web": "http://lebiomefablab.wix.com/lebiome",
         "twitter": "@Le_biome",
 	 "facebook": "biomefrance",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -612,7 +638,8 @@
         "web": "http://www.museomix.org",
         "twitter": "@MuseomixOuest",
 	 "facebook": "MuseomixOuest",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +662,8 @@
         "web": "http://biblioremix.wordpress.com",
         "twitter": "@BiblioRemix",
 	 "facebook": "biblioremix",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -658,7 +686,8 @@
         "web": "http://labbropondi.fr",
         "twitter": "@LabBroPondi",
 	 "facebook": "LabBroPondi",
-	 "email": "labbropondi@gmail.com"
+	 "email": "labbropondi@gmail.com",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +710,8 @@
         "web": "http://www.saint-brieuc-factory.fr",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -704,7 +734,8 @@
         "web": "http://www.kreizenn-dafar.org",
         "twitter": "@KreizennDafar",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -727,7 +758,8 @@
         "web": "http://atelierdelaflibuste.fr",
         "twitter": "@fablabsaintmalo",
 	 "facebook": "Atelier-de-la-Flibuste-1542719262685041",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -750,7 +782,8 @@
         "web": "",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +806,8 @@
         "web": "http://www.atelier-multimedia-brest.fr",
         "twitter": "@bibliobrest",
 	 "facebook": "ecm.brest",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -796,7 +830,8 @@
         "web": "http://baud.c3rb.org",
         "twitter": "@MediadeBaud",
 	 "facebook": "mediathequedebaud",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +854,8 @@
         "web": "http://www.espace-kenere.fr",
         "twitter": "@espacekenere",
 	 "facebook": "pages/Espace-Kenere/1612731772337700",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -842,7 +878,8 @@
         "web": "http://www.allaire.fr/?page=lmediatheque",
         "twitter": "",
 	 "facebook": "mediallaire",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -865,7 +902,8 @@
         "web": "http://mediatheque.mairie-locmine.fr",
         "twitter": "@bibliolocmine",
 	 "facebook": "mediatheque.de.locmine",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -888,7 +926,8 @@
         "web": "http://www.bouillants.fr",
         "twitter": "@bouillants",
 	 "facebook": "BouillantsArtNumeriqueMultimediaCitoyennete",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -911,7 +950,8 @@
         "web": "http://lesrdv4c.tumblr.com",
         "twitter": "@LesChampsLibres",
 	 "facebook": "LesChampsLibres",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -934,7 +974,8 @@
         "web": "http://www.cybercentre-guerande.fr",
         "twitter": "@cyberguerande",
 	 "facebook": "pages/Cybercentre-municipal-Ville-de-Guérande-officiel/476719612364046",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +998,8 @@
         "web": "http://www.lafabriqueduloch.org",
         "twitter": "@fabriqueduloch",
 	 "facebook": "lafabriqueduloch",
-	 "email": ""
+	 "email": "lafabriqueduloch@gmail.com",
+	 "tel": "02 97 58 47 04"
       },
       "geometry": {
         "type": "Point",
@@ -980,7 +1022,8 @@
         "web": "http://www.hotelpasteur.fr",
         "twitter": "@HotelPasteur",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1003,7 +1046,8 @@
         "web": "http://bit.ly/20kkepK",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1070,8 @@
         "web": "http://cantine.atlantic2.org",
         "twitter": "@atlantic2",
 	 "facebook": "lacantineparatlantic2",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1049,7 +1094,8 @@
         "web": "http://www.pingbase.net",
         "twitter": "@AssoPiNG",
 	 "facebook": "AssociationPiNG",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1072,7 +1118,8 @@
         "web": "http://www.plateforme-c.org",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1142,8 @@
         "web": "http://www.nantestech.com",
         "twitter": "@NantesTech",
 	 "facebook": "nantestech",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1118,7 +1166,8 @@
         "web": "http://www.fabmake.fr",
         "twitter": "@FabMake",
 	 "facebook": "FabMake-1430440200565943",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1141,7 +1190,8 @@
         "web": "http://www.defis.info",
         "twitter": "@AssoDefis",
 	 "facebook": "Association-Défis-164695790210111",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +1214,8 @@
         "web": "http://www.collporterre.org",
         "twitter": "@Collporterre",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1187,7 +1238,8 @@
         "web": "http://www.marsouin.org",
         "twitter": "@gis_marsouin",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1202,21 +1254,22 @@
       "type": "Feature",
       "properties": {
         "id": "53",
-        "name": "My Human Kit",
-        "structure": "fablab",
-	 "adresse": "84, boulevard de Verdun",
+        "name": "Human Lab",
+        "structure": "fablabMIT",
+	 "adresse": "2, Avenue du Bois Labbé",
 	 "cp": "35000",
         "ville": "Rennes",
         "web": "http://myhumankit.org",
         "twitter": "@myhumankit",
 	 "facebook": "MyHumanKit",
-	 "email": ""
+	 "email": "contact@myhumankit.org",
+	 "tel": "07 28 32 83 21"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.688253,
-	   48.118954
+          -1.70099,
+	   48.12562
         ]
       }
     },
@@ -1233,7 +1286,8 @@
         "web": "http://www.fablabredon.org",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1256,7 +1310,8 @@
         "web": "http://passerelle-numerique.org",
         "twitter": "",
 	 "facebook": "Fablab-La-passerelle-numérique-924247814286763",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1334,8 @@
         "web": "http://labodunautilus.org",
         "twitter": "",
 	 "facebook": "labodunautilus",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1302,7 +1358,8 @@
         "web": "bit.ly/1Xrt9kd",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1325,7 +1382,8 @@
         "web": "bit.ly/212wJDn",
         "twitter": "@bibliobrest",
 	 "facebook": "bibliobrest",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1348,7 +1406,8 @@
         "web": "http://www.plmcb.infini.fr/spip.php?rubrique197",
         "twitter": "@PLMCavale",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1430,8 @@
         "web": "http://www.mjc-harteloire.fr",
         "twitter": "@mjcharteloire",
 	 "facebook": "mjcharteloire",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1394,7 +1454,8 @@
         "web": "http://www.plguerin.fr",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1410,14 +1471,15 @@
       "properties": {
         "id": "62",
         "name": "La Fab'rique",
-        "structure": "fablab",
+        "structure": "fablabMIT",
 	 "adresse": "Communauté de Communes du Pays de La Roche aux Fées<br />1, rue Jacques de Corbière",
 	 "cp": "35150",
         "ville": "Amanlis",
         "web": "https://lafabriqueccprf.wordpress.com",
         "twitter": "",
 	 "facebook": "lafabriqueccprf",
-	 "email": "fablab@ccprf.fr"
+	 "email": "fablab@ccprf.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1440,7 +1502,8 @@
         "web": "http://chaplab.info",
         "twitter": "chaplab22",
 	 "facebook": "chaplab",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1526,8 @@
         "web": "http://assopland.wix.com/siteofficiel",
         "twitter": "",
 	 "facebook": "association.lepland",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1486,7 +1550,8 @@
         "web": "http://www.saint-ave.fr/presentation_espace_multimedia.html",
         "twitter": "",
 	 "facebook": "/pages/Médiathèque-Germaine-Tillion-à-Saint-Avé/225881757552744",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1574,8 @@
         "web": "https://www.univ-rennes2.fr/service-communication/album/pole-numerique-rennes-villejean-sera-livre-printemps",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1532,7 +1598,8 @@
         "web": "http://www.labfab.fr",
         "twitter": "@labfabfr",
 	 "facebook": "labfabfr",
-	 "email": "contact@labfab.fr"
+	 "email": "contact@labfab.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1555,7 +1622,8 @@
         "web": "http://letrillet.fr/cat/etrilab/",
         "twitter": "",
 	 "facebook": "",
-	 "email": "contact@letrillet.fr"
+	 "email": "contact@letrillet.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1578,7 +1646,8 @@
         "web": "",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1601,7 +1670,8 @@
         "web": "http://www.epitech.eu",
         "twitter": "",
 	 "facebook": "",
-	 "email": "rennes@epitech.eu"
+	 "email": "rennes@epitech.eu",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1624,7 +1694,8 @@
         "web": "https://www.univ-rennes1.fr/actualites/08012016/utice-une-universite-pour-renover-la-pedagogie",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1718,8 @@
         "web": "https://labfab.univ-rennes1.fr",
         "twitter": "https://twitter.com/LabFab_UR1",
 	 "facebook": "",
-	 "email": "labfab@univ-rennes1.fr"
+	 "email": "labfab@univ-rennes1.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1670,7 +1742,8 @@
         "web": "https://www.fun-mooc.fr/news/la-fabrication-numerique-de-lidee-au-prototype-en-/",
         "twitter": "",
 	 "facebook": "",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1693,7 +1766,8 @@
         "web": "https://www.la-colloc.com",
         "twitter": "@la_colloc",
 	 "facebook": "LeCollectifLaColloc",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1790,8 @@
         "web": "http://ville-quiberon.fr/vie-locale/culture/mediatheque",
         "twitter": "@MediaQuib",
 	 "facebook": "mediaquiberon",
-	 "email": "mediatheque@ville-quiberon.fr"
+	 "email": "mediatheque@ville-quiberon.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1739,7 +1814,8 @@
         "web": "",
         "twitter": "",
 	 "facebook": "EspritFablab",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1762,7 +1838,8 @@
         "web": "http://www.konkarlab.bzh",
         "twitter": "@KonkArLab",
 	 "facebook": "konkarlab",
-	 "email": ""
+	 "email": "",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1785,7 +1862,8 @@
         "web": "http://www.irobotechart.com",
         "twitter": "",
 	 "facebook": "",
-	 "email": "contact@iRoboTechArt.com"
+	 "email": "contact@iRoboTechArt.com",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1808,7 +1886,8 @@
         "web": "",
         "twitter": "liffab",
 	 "facebook": "Liffab",
-	 "email": "liffab35@gmail.com"
+	 "email": "liffab35@gmail.com",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1831,7 +1910,8 @@
         "web": "http://adn56.net",
         "twitter": "",
 	 "facebook": "UnivPopNumDamgan",
-	 "email": "contact@adn56.net"
+	 "email": "contact@adn56.net",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1854,7 +1934,8 @@
         "web": "https://hack2g2.fr",
         "twitter": "@hack2g2",
 	"facebook": "hack2g2",
-	"email": "hack2G2@gmx.fr"
+	"email": "hack2G2@gmx.fr",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
@@ -1877,7 +1958,8 @@
         "web": "https://www.rhizomes.org",
         "twitter": "",
 	"facebook": "",
-	"email": "contact@rhizomes.org"
+	"email": "contact@rhizomes.org",
+	 "tel": ""
       },
       "geometry": {
         "type": "Point",
