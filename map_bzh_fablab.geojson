@@ -1968,6 +1968,30 @@
 	  47.58631
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "83",
+        "name": "Médiacentre / Le Petit Écho de la Mode",
+        "structure": "usages",
+	 "adresse": "2, rue du Maillet",
+	 "cp": "22170",
+        "ville": "Châtelaudren",
+        "web": "http://petit-echo-mode.fr/mediacentre/presentation/",
+        "twitter": "@Mediacentreleff",
+	"facebook": "mediacentreleff",
+	"email": "mediacentre@leffarmor.fr",
+	 "tel": "02 96 79 74 64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96976,
+	  48.54137
+        ]
+      }
     }
     
     
