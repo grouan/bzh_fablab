@@ -7,21 +7,22 @@
       "properties": {
         	"id": "1",
         	"name": "MakerSpace56",
-        	"structure": "makerspace",
+        	"structure": "fablabMIT",
 	"adresse": "VIPE",
 	"cp": "56000",
         	"ville": "Vannes",
         	"web": "http://makerspace56.org",
         	"twitter": "@makerspace56",
 	"facebook": "",
-	"email": "",
-	"tel": ""
+	"email": "contact@makerspace56.org",
+	"tel": "",
+	"rss": "http://makerspace56.org/feed/"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7541303,
-          47.6424637
+        	"type": "Point",
+        	"coordinates": [
+          	-2.7541303,
+          	47.6424637
         ]
       }
     }
