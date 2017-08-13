@@ -2100,6 +2100,31 @@
 	  	48.12285
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "85",
+        	"name": "G-Lab",
+        	"structure": "fablab",
+	"adresse": "3, place de la Gare",
+	"cp": "35120",
+        	"ville": "Dol-de-Bretagne",
+        	"web": "http://www.dol-fablab.com",
+        	"twitter": "",
+	"facebook": "",
+	"email": "dol.fablab@gmail.com",
+	"tel": "02 99 58 16 66",
+	"rss": "http://www.dol-fablab.com/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.75054,
+	  	48.54474
+        ]
+      }
     }
     
     
