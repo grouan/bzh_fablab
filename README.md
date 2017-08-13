@@ -10,9 +10,7 @@ Ce projet, initié en 2015, est né d'une initiative ouverte visant à formalise
 
 Utilisez le hashtag **#MapLabBZH** pour en parler 💬
 
-<img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/cc-by.png" />
-
-<a href="http://bit.ly/DataGouvFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/datagouv_logo.png" alt="DataGouv : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> <a href="http://bit.ly/GeoBretagneFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/geobretagne_logo.png" alt="GéoBretagne : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> <a href="http://bit.ly/MapLabsBZH_RFF" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/reseauff_logo.png" alt="Réseau Français des FabLabs : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> 
+<img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/cc-by.png" /> <a href="http://bit.ly/DataGouvFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/datagouv_logo.png" alt="DataGouv : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> <a href="http://bit.ly/GeoBretagneFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/geobretagne_logo.png" alt="GéoBretagne : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> <a href="http://bit.ly/MapLabsBZH_RFF" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/reseauff_logo.png" alt="Réseau Français des FabLabs : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> 
 
 <hr />
 
