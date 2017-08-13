@@ -1,12 +1,22 @@
-# Carte des FabLabs de Bretagne
-#### CARTE COLLABORATIVE & OPEN SOURCE DES FABLABS ET AUTRES LIEUX DE DISSÉMINATION DES USAGES NUMÉRIQUES EN BRETAGNE
-<img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/carte_fablabs_de_bretagne_juillet-2017.png" />
+# Bienvenue sur #MapLabBZH
+# la Carte des FabLabs & Tiers-Lieux de Bretagne
+<img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/maplabbzh_logo_250x226.png" alt="Carte des FabLabs & Tiers-Lieux de Bretagne — Guillaume Rouan — #MapLabBZH" />
 
-Ce projet, initié en 2015, est à l'origine une initiative personnelle visant à formaliser une documentation inexistante jusqu'à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d'une même dynamique sur le territoire breton. Collaborative, libre et Open Source, cette carte est désormais en crowdsourcing et pleinement accessible. Ainsi, vous pouvez librement y contribuer, l'utiliser, l'intégrer à vos sites web, la modifier, l'adapter, la remixer&hellip;
+Ce projet, initié en 2015, est né d'une initiative ouverte visant à formaliser une documentation inexistante jusqu’à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d’une même dynamique sur le territoire breton. **Elle recense les FabLabs, Tiers-Lieux & autres lieux de dissémination des usages numériques en Bretagne.** Collaborative, libre et Open Source, cette carte est aujourd'hui en perpétuelle amélioration et pleinement accessible, sur la base  du crowdsourcing. Ainsi, vous pouvez librement y contribuer, l’utiliser, l’intégrer à vos sites web, la modifier, l’adapter, la remixer…
 
-Cette carte est également disponible sur les plateformes suivantes :
+Pour tout savoir sur ce projet, [consultez le wiki](/grouan/bzh_fablab/wiki) :rocket:
 
-<a href="http://bit.ly/DataGouvFabLabs" target="_blank"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/03/datagouv_logo.png" alt="Dépot Open Data sur le site DataGouv" title="Accédez au dépôt sur le site DataGouv" style="border-radius:5px;margin-right:20px;border:1px solid #DDD;" /></a> <a href="http://bit.ly/GeoBretagneFabLabs" target="_blank"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2016/03/geobretagne_logo.png" alt="Carte sur le site GéoBretagne de la Région Bretagne" title="Accédez à la carte sur GéoBretagne" style="border-radius:5px;" /></a>
+<hr />
+
+Utilisez le hashtag **#MapLabBZH** pour en parler :speech_balloon:
+
+<img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/cc-by.png" />
+
+<a href="http://bit.ly/DataGouvFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/datagouv_logo.png" alt="DataGouv : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a><br />
+<a href="http://bit.ly/GeoBretagneFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/geobretagne_logo.png" alt="GéoBretagne : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a><br />
+<a href="http://bit.ly/MapLabsBZH_RFF" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/reseauff_logo.png" alt="Réseau Français des FabLabs : Carte des FabLabs & Tiers-Lieux de Bretagne" /></a> 
+
+<hr />
 
 ## // CONTRIBUEZ !
 
@@ -66,130 +76,4 @@ Votre contribution est essentielle à la mise-à-jour de cette carte ainsi qu'à
   <input type="submit" value="&rarr; JE CONTRIBUE" style="margin-top:20px;border:0px;font-weight:bold;color:#FFF;background-color:#333;padding:2px 10px;" />
 </form>
 <!-- -->
-</div>
-
-## // LE CODE SOURCE
-
-<button onclick="var x = document.getElementById('code01');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />fablabs_bzh_liste.php</button>
-<div id="code01" style="display:none;">
-Vous pouvez accéder à l'ensemble de ces références sous forme de liste. L'affichage vous permet ainsi de <b>trier</b> les différents éléments (par noms, par ville, par type...). Les sources sont les mêmes que pour la carte, ce qui garanti une mise à jour en temps réel !
-</div>
-
-<button onclick="var x = document.getElementById('code02');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />map_bzh_fablab.geojson</button>
-<div id="code02" style="display:none;">
-Données <b>GeoJSON</b> des FabLab, MakerSpace, HackerSpace, TiersLieu, Asso Usages numériques (...) de Bretagne.
-Les EPN (Espaces Publics Numériques) ne sont pas pris en compte. Ce fichier peut être utilisé notamment dans le cadre de l'élaboration d'une cartographie OpenStreetMap de ces lieux.
-</div>
-
-## // ENCAPSULATION (Embed Code)
-
-Pour intégrer cette carte à votre site web, copiez-collez ce code directement dans votre page : 
-```html
-<iframe width="800" height="600" src="http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php" name="Carte des FabLabs & Tiers-Lieux de Bretagne" style="border:0px;"></iframe>
-```
-
-Si vous êtes sur un CMS (Wordpress, Joomla, Drupal...), pensez à bien vous placer en mode HTML lors de l'ajout de ce code au sein de votre article, et non en mode visuel (ou aperçu). L'affichage optimal est de 800 x 600 pixels, ce qui vous permet de voir l'ensemble de la zone. Vous pouvez néanmoins paramétrer à votre goût : <code>width="100%"</code> pour un affichage en pleine largeur, complétez l'argument <code>style=""</code> pour modifier le rendu visuel (CSS)&hellip;
-
-## // DÉMO
-
-- Map plein écran : <a href="http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php" target="_blank">http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bretagne.php</a>
-- Intégration Wordpress : <a href="http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/" target="_blank">http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/</a>
-- Liste des Fab Labs : <a href="http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bzh_liste.php" target="_blank">http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bzh_liste.php</a>
-
-## // OUTILS UTILISÉS
-
-- &copy; Contributeurs de <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> pour les données cartographiques de base
-- <a href="http://www.mapbox.com" target="_blank">Mapbox</a> pour le fond de carte
-- <a href="http://leafletjs.com/" target="_blank">Leaflet</a> pour rendre le tout interactif
-- <a href="http://arsenicpaca.fr/iconotheque-mediation-numerique/" target="_blank">ARSENIC</a>
-- <a href="http://www.fabfoundation.org" target="_blank">Fab Foundation</a> pour les images des icones.
-
-## // LICENCE
-
-Ces fichiers sont accessibles en <b>Open Data</b> sous Licence <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY</a>.<br />
-Merci de faire mention d'auteur pour toute utilisation.<br />
-Permalien du projet : <a href="http://grouan.github.io/bzh_fablab/" target="_blank">http://grouan.github.io/bzh_fablab/</a>
-
-## // AUTEUR
-
-**Guillaume ROUAN**<br />
-<a href="http://guillaume-rouan.net/blog/" target="_blank">guillaume-rouan.net/blog/</a><br />
-<a href="http://twitter.com/grouan" target="_blank">@grouan</a>
-
-## // VERSIONS
-
-<button onclick="var x = document.getElementById('v05');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.5</button>
-<div id="v05" style="display:none;">
-Ajout d'un formulaire de contribution
-</div>
-
-<button onclick="var x = document.getElementById('v04');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.4</button>
-<div id="v04" style="display:none;">
-Optimisations pour les Pages Github.io
-</div>
-
-<button onclick="var x = document.getElementById('v03');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.3 : fablabs_bretagne.php</button>
-<div id="v03" style="display:none;">
-
-- Lien direct : le fichier <code>fablabs_bretagne.php</code> récupère automatiquement les sources et les images depuis le dépôt Github
-- Package <code>img</code> comprenant les images PNG des différents marqueurs et icones des réseaux sociaux.
-- Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
-
-</div>
-
-<button onclick="var x = document.getElementById('v02');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.2 : fablabs_bretagne.php</button>
-<div id="v02" style="display:none;">
-
-- Carte dynamique plein écran, qui récupère les sources du fichier <code>map_bzh_fablab.geojson</code> et affiche automatiquement les marqueurs sur la map.
-- Mêmes paramétrages que pour la v.1, et toujours fonctionnel sous CMS.
-
-</div> 
-
-<button onclick="var x = document.getElementById('v01');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }"><img src="http://guillaume-rouan.net/blog/wp-content/uploads/2017/07/square-add-icon.png" style="width:12px;height:12px;margin-right:12px;" />v.1 : fablabs_bretagne.html</button>
-<div id="v01" style="display:none;">
-Carte HTML en plein écran, pour intégration au sein de votre CMS en iframe (fonctionnel pour Wordpress). Cette carte comprend les librairies importées, ainsi que les paramétrages de la carte et l'affichage.
-Mes paramètres de compte perso Mapbox sont à modifier avant intégration :
-
-- <code>ACCESS_TOKEN = 'XXX';</code> : remplacer XXX par l'Access Token de votre compte <a href="http://www.mapbox.com/" target="_blank">Mapbox</a>,
-- <code>L.tileLayer(MB_URL, {attribution: MB_ATTR, id: 'YYY' }).addTo(map);</code> : remplacer YYY par l'identifiant du fond de carte Mapbox que vous souhaitez utiliser.
-
-</div>
-
-<div>
-<a href="http://bit.ly/DataGouvFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/datagouv_logo.png" /></a> <a href="http://bit.ly/GeoBretagneFabLabs" target="_blank"><img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/geobretagne_logo.png" /></a>
 </div>
