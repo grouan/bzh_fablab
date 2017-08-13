@@ -1,5 +1,4 @@
-# Bienvenue sur #MapLabBZH
-# la Carte des FabLabs & Tiers-Lieux de Bretagne
+# Bienvenue sur #MapLabBZH<br />la Carte des FabLabs & Tiers-Lieux de Bretagne
 <img src="https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/wiki/maplabbzh_logo_250x226.png" alt="Carte des FabLabs & Tiers-Lieux de Bretagne — Guillaume Rouan — #MapLabBZH" />
 
 Ce projet, initié en 2015, est né d'une initiative ouverte visant à formaliser une documentation inexistante jusqu’à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d’une même dynamique sur le territoire breton. **Elle recense les FabLabs, Tiers-Lieux & autres lieux de dissémination des usages numériques en Bretagne.** Collaborative, libre et Open Source, cette carte est aujourd'hui en perpétuelle amélioration et pleinement accessible, sur la base  du crowdsourcing. Ainsi, vous pouvez librement y contribuer, l’utiliser, l’intégrer à vos sites web, la modifier, l’adapter, la remixer…
