@@ -139,7 +139,7 @@
         	"web": "http://fabrikerne.fr",
         	"twitter": "@FabriKerne",
 	"facebook": "fabrikerne",
-	"email": "",
+	"email": "fablabquimper@mjckerfeunteun.org",
 	"tel": "",
 	"rss": ""
       },
@@ -364,7 +364,7 @@
         	"web": "http://telefab.fr",
         	"twitter": "",
 	"facebook": "",
-	"email": "",
+	"email": "contact@telefab.fr",
 	"tel": "",
 	"rss": ""
       },
@@ -1214,9 +1214,9 @@
         	"web": "http://www.fabmake.fr",
         	"twitter": "@FabMake",
 	"facebook": "FabMake-1430440200565943",
-	"email": "",
-	"tel": "",
-	"rss": ""
+	"email": "contact@fabmake.fr",
+	"tel": "02 40 44 35 58",
+	"rss": "http://www.fabmake.fr/feed/rss.html"
       },
       "geometry": {
         	"type": "Point",
@@ -1339,9 +1339,9 @@
         	"web": "http://www.fablabredon.org",
         	"twitter": "",
 	"facebook": "",
-	"email": "",
+	"email": "lavb35@gmail.com",
 	"tel": "",
-	"rss": ""
+	"rss": "http://www.fablabredon.org/wordpress/feed/"
       },
       "geometry": {
         	"type": "Point",
@@ -1364,9 +1364,9 @@
         	"web": "http://passerelle-numerique.org",
         	"twitter": "",
 	"facebook": "Fablab-La-passerelle-numérique-924247814286763",
-	"email": "",
-	"tel": "",
-	"rss": ""
+	"email": "contact@passerelle-numerique.org",
+	"tel": "02.40.07.68.86",
+	"rss": "http://passerelle-numerique.org/feed"
       },
       "geometry": {
         	"type": "Point",
@@ -1564,7 +1564,7 @@
         	"web": "http://chaplab.info",
         	"twitter": "@chaplab22",
 	"facebook": "chaplab",
-	"email": "",
+	"email": "contact@chaplab.info",
 	"tel": "",
 	"rss": ""
       },
@@ -1691,7 +1691,7 @@
 	"facebook": "",
 	"email": "contact@letrillet.fr",
 	"tel": "",
-	"rss": ""
+	"rss": "http://letrillet.fr/cat/etrilab/feed/"
       },
       "geometry": {
         	"type": "Point",
@@ -1914,9 +1914,9 @@
         	"web": "http://www.konkarlab.bzh",
         	"twitter": "@KonkArLab",
 	"facebook": "konkarlab",
-	"email": "",
+	"email": "contact@konkarlab.bzh",
 	"tel": "",
-	"rss": ""
+	"rss": "https://www.konkarlab.bzh/feed/"
       },
       "geometry": {
         	"type": "Point",
