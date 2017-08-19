@@ -2150,6 +2150,31 @@
 	  	47.67293
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "87",
+        	"name": "Polidesk",
+        	"structure": "cantine",
+	"adresse": "Parc d'Activité de Doaren Molac II",
+	"cp": "56610",
+        	"ville": "Arradon",
+        	"web": "http://polidesk.com",
+        	"twitter": "",
+	"facebook": "polidesk",
+	"email": "",
+	"tel": "02 97 61 25 91",
+	"rss": "http://polidesk.com/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.80596,
+	  	47.64318
+        ]
+      }
     }
     
     
