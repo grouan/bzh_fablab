@@ -2175,6 +2175,31 @@
 	  	47.64318
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "88",
+        	"name": "The Swenson House",
+        	"structure": "cantine",
+	"adresse": "1, rue Lamartine",
+	"cp": "29770",
+        	"ville": "Audierne",
+        	"web": "http://theswensonhouse.com",
+        	"twitter": "swenson_global",
+	"facebook": "swensonglobal",
+	"email": "contact@swenson-house.com",
+	"tel": "09 86 75 00 16",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.53582,
+	  	48.02520
+        ]
+      }
     }
     
     
