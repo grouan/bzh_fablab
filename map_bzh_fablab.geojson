@@ -2125,6 +2125,31 @@
 	  	48.54474
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "86",
+        	"name": "L'Argonaute",
+        	"structure": "cantine",
+	"adresse": "12, rue Adjudant-Redien",
+	"cp": "56400",
+        	"ville": "Auray",
+        	"web": "",
+        	"twitter": "",
+	"facebook": "largonauteco56",
+	"email": "auray.collectif@gmail.com",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.99085,
+	  	47.67293
+        ]
+      }
     }
     
     
