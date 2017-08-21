@@ -589,9 +589,9 @@
         	"web": "http://www.camptic.fr",
         	"twitter": "@CampTIC",
 	"facebook": "Association-CampTIC-408882922510637",
-	"email": "",
+	"email": "contact@camptic.fr",
 	"tel": "",
-	"rss": ""
+	"rss": "http://www.camptic.fr/feed"
       },
       "geometry": {
         	"type": "Point",
