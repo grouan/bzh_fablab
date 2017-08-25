@@ -288,7 +288,7 @@
         	"ville": "Lannion",
         	"web": "http://www.coworking-lannion.org",
         	"twitter": "CoworkingWigwam",
-	"facebook": "https://www.facebook.com/groups/wigwam.lannion",
+	"facebook": "/groups/wigwam.lannion",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1291,7 +1291,7 @@
 	"facebook": "",
 	"email": "",
 	"tel": "",
-	"rss": ""
+	"rss": "https://www.marsouin.org/spip.php?page=backend"
       },
       "geometry": {
         	"type": "Point",
