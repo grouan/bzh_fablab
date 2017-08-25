@@ -491,7 +491,7 @@
 	"facebook": "La.french.tech.rennes.stmalo",
 	"email": "",
 	"tel": "",
-	"rss": ""
+	"rss": "http://lafrenchtech-rennes.fr/feed/"
       },
       "geometry": {
         	"type": "Point",
@@ -1191,7 +1191,7 @@
 	"facebook": "nantestech",
 	"email": "",
 	"tel": "",
-	"rss": ""
+	"rss": "http://www.nantestech.com/feed/"
       },
       "geometry": {
         	"type": "Point",
