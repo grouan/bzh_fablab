@@ -3,9 +3,12 @@
 
 Ce projet, initié en 2015, est né d'une initiative ouverte visant à formaliser une documentation inexistante jusqu’à lors et à améliorer la visibilité des espaces / services / projets qui œuvrent d’une même dynamique sur le territoire breton. **Elle recense les FabLabs, Tiers-Lieux & autres lieux de dissémination des usages numériques en Bretagne.** Collaborative, libre et Open Source, cette carte est aujourd'hui en perpétuelle amélioration et pleinement accessible, sur la base  du crowdsourcing. Ainsi, vous pouvez librement y contribuer, l’utiliser, l’intégrer à vos sites web, la modifier, l’adapter, la remixer…
 
-> [Consultez la carte](http://guillaume-rouan.net/maplabbzh/) :zap:<br />
-> Pour tout savoir sur ce projet, consultez [le wiki](https://github.com/grouan/bzh_fablab/wiki) 🚀<br /> 
-> Pour visualiser ou télécharger les sources, consultez [le dépôt bzh_fablab](https://github.com/grouan/bzh_fablab) 📥<br />
+> [Consultez la carte](http://guillaume-rouan.net/maplabbzh/) :zap:
+
+> Pour tout savoir sur ce projet, consultez [le wiki](https://github.com/grouan/bzh_fablab/wiki) 🚀
+
+> Pour visualiser ou télécharger les sources, consultez [le dépôt bzh_fablab](https://github.com/grouan/bzh_fablab) 📥
+
 > Parce que votre participation est indispensable : [contribuez](http://guillaume-rouan.net/maplabbzh/maplabbzh_contribuer.php) :+1: !
 
 <hr />
