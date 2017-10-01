@@ -2225,6 +2225,31 @@
 	  	47.259629
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "90",
+        	"name": "Usi-LAB (Icam)",
+        	"structure": "fablab",
+	"adresse": "9, rue du Commandant Charcot",
+	"cp": "56000",
+        	"ville": "Vannes",
+        	"web": "",
+        	"twitter": "",
+	"facebook": "UsiLABbretagne",
+	"email": "",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.782514,
+	  	47.650658
+        ]
+      }
     }
     
     
