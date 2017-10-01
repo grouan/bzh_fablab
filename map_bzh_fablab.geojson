@@ -2200,6 +2200,31 @@
 	  	48.02520
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "89",
+        	"name": "La Ruche Saint-Nazaire",
+        	"structure": "cantine",
+	"adresse": "25, rue de l'étoile du matin",
+	"cp": "44600",
+        	"ville": "Saint-Nazaire",
+        	"web": "http://la-ruche.net/ruche/saint-nazaire/",
+        	"twitter": "@RucheStNazaire",
+	"facebook": "LaRucheSaintNazaire",
+	"email": "saintnazaire@la-ruche.net",
+	"tel": "06 58 96 96 84",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.272005,
+	  	47.259629
+        ]
+      }
     }
     
     
