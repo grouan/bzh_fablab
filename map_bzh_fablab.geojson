@@ -2300,6 +2300,31 @@
 	  	47.277403
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "93",
+        	"name": "La Shpère",
+        	"structure": "cantine",
+	"adresse": "32, rue Georges Clémenceau",
+	"cp": "29400",
+        "ville": "Landivisiau",
+        "web": "http://www.pays-de-landivisiau.com/accueil-des-entreprises/la-sphere",
+        "twitter": "",
+	"facebook": "coworkinglandivisiau",
+	"email": "economie@pays-de-landivisiau.com",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.06848,
+	  	48.50678
+        ]
+      }
     }
     
     
