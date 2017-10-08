@@ -2282,7 +2282,7 @@
       "properties": {
         	"id": "92",
         	"name": "SNALIS",
-        	"structure": "usage",
+        	"structure": "usages",
 	"adresse": "La Maison du Libre<br />61, rue d'Anjou",
 	"cp": "44600",
         "ville": "Saint-Nazaire",
