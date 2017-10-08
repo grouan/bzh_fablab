@@ -2275,6 +2275,31 @@
 	  	48.247833
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "92",
+        	"name": "SNALIS",
+        	"structure": "usage",
+	"adresse": "La Maison du Libre<br />61, rue d'Anjou",
+	"cp": "44600",
+        "ville": "Saint-Nazaire",
+        "web": "http://snalis.org",
+        "twitter": "",
+	"facebook": "",
+	"email": "contact@snalis.org",
+	"tel": "09 50 72 82 51",
+	"rss": "http://snalis.org/spip.php?page=backend"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.210235,
+	  	47.277403
+        ]
+      }
     }
     
     
