@@ -831,23 +831,23 @@
       "type": "Feature",
       "properties": {
         	"id": "34",
-        	"name": "Bibliothèque de Brest",
+        	"name": "Médiathèque François Mitterrand",
         	"structure": "usages",
-	"adresse": "Espace Multimédia<br />16, bis rue traverse",
+	"adresse": "Les Capucins<br />25, rue de Pontaniou",
 	"cp": "29200",
-        	"ville": "Brest",
-        	"web": "http://www.atelier-multimedia-brest.fr",
-        	"twitter": "@bibliobrest",
-	"facebook": "ecm.brest",
-	"email": "",
-	"tel": "",
-	"rss": ""
+        "ville": "Brest",
+        "web": "http://www.atelier-multimedia-brest.fr",
+        "twitter": "@bibliobrest",
+	"facebook": "bibliobrest",
+	"email": "mediatheque.capucins@mairie-brest.fr",
+	"tel": "02 98 00 88 31",
+	"rss": "http://www.atelier-multimedia-brest.fr/feed/"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.4888529,
-	   	48.3846115
+          	-4.497456,
+	   	48.388940
         ]
       }
     },
