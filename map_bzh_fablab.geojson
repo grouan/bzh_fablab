@@ -608,15 +608,15 @@
         	"id": "25",
         	"name": "La Cantine Numérique brestoise – An Daol Vras",
         	"structure": "cantine",
-	"adresse": "20, rue Duquesne",
+	"adresse": "Les Capucins<br />25, rue de Pontaniou",
 	"cp": "29200",
         	"ville": "Brest",
         	"web": "http://www.lacantine-brest.net",
         	"twitter": "@AnDaolVras",
 	"facebook": "AnDaolVras",
-	"email": "",
-	"tel": "",
-	"rss": ""
+	"email": "coucou@lacantine-brest.net",
+	"tel": "06 18 76 28 15",
+	"rss": "http://www.lacantine-brest.net/feed/"
       },
       "geometry": {
         	"type": "Point",
@@ -2348,6 +2348,32 @@
         	"coordinates": [
           	-4.47033,
 	  	48.39075
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "95",
+        	"name": "The Mess",
+        	"structure": "cantine",
+	"adresse": "19, rue Jean Macé<br />RDC Télégramme",
+	"cp": "29200",
+        	"ville": "Brest",
+        	"web": "http://www.lacantine-brest.net",
+        	"twitter": "@AnDaolVras",
+	"facebook": "AnDaolVras",
+	"email": "coucou@lacantine-brest.net",
+	"tel": "06 18 76 28 15",
+	"rss": "http://www.lacantine-brest.net/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.48755,
+	   	48.38660
         ]
       }
     }
