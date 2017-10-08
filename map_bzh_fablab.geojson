@@ -2235,9 +2235,9 @@
         	"structure": "fablab",
 	"adresse": "9, rue du Commandant Charcot",
 	"cp": "56000",
-        	"ville": "Vannes",
-        	"web": "",
-        	"twitter": "",
+        "ville": "Vannes",
+        "web": "",
+        "twitter": "",
 	"facebook": "UsiLABbretagne",
 	"email": "",
 	"tel": "",
@@ -2248,6 +2248,31 @@
         	"coordinates": [
           	-2.782514,
 	  	47.650658
+        ]
+      }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "91",
+        	"name": "La Flottille",
+        	"structure": "cantine",
+	"adresse": "Boulevard Pralognan La Vanoise",
+	"cp": "29160",
+        "ville": "Crozon",
+        "web": "http://www.comcom-crozon.com/crozon-entreprendre/espace-de-travail-partage",
+        "twitter": "@CoworkingCrozon",
+	"facebook": "laflottillecoworkingcrozon",
+	"email": "coworking@comcom-crozon.bzh",
+	"tel": "02 98 93 48 38",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.492956999999933,
+	  	48.247833
         ]
       }
     }
