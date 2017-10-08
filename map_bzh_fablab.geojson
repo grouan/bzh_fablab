@@ -2325,6 +2325,31 @@
 	  	48.50678
         ]
       }
+    },  
+
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "94",
+        	"name": "La Grande M4ison",
+        	"structure": "cantine",
+	"adresse": "149, rue Pierre Semard",
+	"cp": "29200",
+        "ville": "Brest",
+        "web": "http://lagrandemaison.thecorner.fr",
+        "twitter": "@thecornerfr",
+	"facebook": "TheCornerBrest",
+	"email": "hello@thecorner.fr",
+	"tel": "06 60 28 02 54",
+	"rss": "http://medium.com/feed/the-corner-mindset"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.47033,
+	  	48.39075
+        ]
+      }
     }
     
     
