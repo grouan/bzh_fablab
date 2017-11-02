@@ -7,7 +7,6 @@
       "properties": {
         	"id": "1",
         	"name": "MakerSpace56",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "VIPE",
 	"cp": "56000",
@@ -15,96 +14,10 @@
         	"web": "http://makerspace56.org",
         	"twitter": "@makerspace56",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@makerspace56.org",
 	"tel": "",
 	"rss": "http://makerspace56.org/feed/"
       },
-      "machines": [
-      	{
-        	"type": "laser_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "660x500mm",
-	    "puissance": "40w",
-	    "epaisseur": "5mm",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Makerbot",
-	    "modele": "Replicator 2X",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "2",
-	    "dimensions": "150x200mm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "RepRap",
-	    "modele": "Microdelta Rework",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "Stereo",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "FormLabs",
-	    "modele": "Form 2",
-	    "description": ""
-	},{
-        	"type": "fraiseuse",
-        	"properties": {
-	    "type": "DIY",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "OpenMaker",
-	    "modele": "Machine PLUS",
-	    "description": "fraiseuse + découpeuse vinyl"
-	},{
-        	"type": "vinyl_decoupeuse",
-        	"properties": {
-	    "type": "DIY",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "OpenMaker",
-	    "modele": "Machine PLUS",
-	    "description": "découpeuse vinyl + fraiseuse"
-	},{
-        	"type": "3d_scanner",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -119,7 +32,6 @@
       "properties": {
         	"id": "2",
         	"name": "Tilt",
-        	"organisation": "",
         	"structure": "tierslieu",
 	"adresse": "",
 	"cp": "56450",
@@ -127,12 +39,6 @@
         	"web": "",
         	"twitter": "@tilt_theix",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -151,7 +57,6 @@
       "properties": {
         	"id": "3",
         	"name": "CréaTech",
-        	"organisation": "Association",
         	"structure": "usages",
 	"adresse": "Espace associatif d'Arvor<br />Place d'Armorique",
 	"cp": "56890",
@@ -159,12 +64,6 @@
         	"web": "http://createchplescop.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@createchplescop.fr",
 	"tel": "",
 	"rss": ""
@@ -183,7 +82,6 @@
       "properties": {
         	"id": "4",
         	"name": "FabLabVannes",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "VIPE",
 	"cp": "56000",
@@ -191,96 +89,10 @@
         	"web": "http://www.vipe-vannes.com/votre-projet/lic-laboratoire-d-idee-collaboratif.html",
         	"twitter": "@fablabvannes",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
       },
-      "machines": [
-      	{
-        	"type": "laser_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "FoldaRap",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Makerbot",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Hewlett Packard",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "Stereo",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "FormLabs",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "fraiseuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_scanner",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -295,7 +107,6 @@
       "properties": {
         	"id": "5",
         	"name": "CréaFab",
-        	"organisation": "",
         	"structure": "makerspace",
 	"adresse": "Espace Créa — Parc Technologique de Soye<br />15, rue Galilée",
 	"cp": "56270",
@@ -303,12 +114,6 @@
         	"web": "http://www.creafab-lorient.com",
         	"twitter": "@CREAFABLorient",
 	"facebook": "pages/Creafab-Lorient/309015802619837",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -327,7 +132,6 @@
       "properties": {
         	"id": "6",
         	"name": "FabriKerné",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "MJC de Kerfeunteun<br />4, rue Teilhard de Chardin",
 	"cp": "29000",
@@ -335,96 +139,10 @@
         	"web": "http://fabrikerne.fr",
         	"twitter": "@FabriKerne",
 	"facebook": "fabrikerne",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "fablabquimper@mjckerfeunteun.org",
 	"tel": "",
 	"rss": ""
       },
-      "machines": [
-      	{
-        	"type": "laser_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "620x300mm",
-	    "puissance": "30w",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": "CO2"
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Asimov",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Makerbot",
-	    "modele": "Replicator 5G",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Ultimaker",
-	    "modele": "2",
-	    "description": ""
-	},{
-        	"type": "vinyl_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Silhouette",
-	    "modele": "Cameo 2",
-	    "description": ""
-	},{
-        	"type": "3d_scanner",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Makerbot",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "video",
-        	"properties": {
-	    "type": "caméra",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Asus",
-	    "modele": "Xtion Pro Live",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -439,7 +157,6 @@
       "properties": {
         	"id": "7",
         	"name": "SiliconKerné",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "2, rue François Briant de Laubrière",
 	"cp": "29000",
@@ -447,12 +164,6 @@
         	"web": "http://www.silicon-kerne.net",
         	"twitter": "@SiliconKerne",
 	"facebook": "siliconkerne",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -471,7 +182,6 @@
       "properties": {
         	"id": "8",
         	"name": "POC Girafe",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "214, rue Jean Jaurès",
 	"cp": "29200",
@@ -479,12 +189,6 @@
         	"web": "http://www.poclagirafe.bzh",
         	"twitter": "@collectif_poc",
 	"facebook": "pages/Collectif-POC/896056633767041",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -503,7 +207,6 @@
       "properties": {
         	"id": "9",
         	"name": "Les Fabriques du Ponant",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "40, rue Jules Lesven",
 	"cp": "29200",
@@ -511,12 +214,6 @@
         	"web": "http://www.lesfabriquesduponant.net",
         	"twitter": "@FabDuPonant",
 	"facebook": "fabriquesduponant",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@lesfabriquesduponant.net",
 	"tel": "02 98 41 43 10",
 	"rss": "http://www.lesfabriquesduponant.net/feed"
@@ -535,7 +232,6 @@
       "properties": {
         	"id": "10",
         	"name": "TyFab",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "214, rue Jean Jaurès",
 	"cp": "29200",
@@ -543,12 +239,6 @@
         	"web": "http://tyfab.fr",
         	"twitter": "@TyFabBrest",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "maison-du-libre@mdl29.net",
 	"tel": "",
 	"rss": ""
@@ -567,7 +257,6 @@
       "properties": {
         	"id": "11",
         	"name": "TéléFab Brest",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "Télécom Bretagne<br />Technopôle Brest-Iroise",
 	"cp": "29200",
@@ -575,12 +264,6 @@
         	"web": "http://telefab.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@telefab.fr",
 	"tel": "",
 	"rss": "http://telefab.fr/category/blog/feed/"
@@ -599,7 +282,6 @@
       "properties": {
         	"id": "12",
         	"name": "Coworking Wigwam",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "FabLab — Lycée Félix Le Dantec<br />Rue des Cordiers",
 	"cp": "22300",
@@ -607,12 +289,6 @@
         	"web": "http://www.coworking-lannion.org",
         	"twitter": "CoworkingWigwam",
 	"facebook": "/groups/wigwam.lannion",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -631,7 +307,6 @@
       "properties": {
         	"id": "13",
         	"name": "La Matrice",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "36, rue Saint-Guillaume",
 	"cp": "22000",
@@ -639,12 +314,6 @@
         	"web": "http://lamatrice.org",
         	"twitter": "@LaMatrice_SB",
 	"facebook": "groups/273273166125036",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "02 96 42 84 40",
 	"rss": "http://www.la-matrice.org/feed/"
@@ -663,7 +332,6 @@
       "properties": {
         	"id": "14",
         	"name": "FabLab Lannion KerNEL",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "14, rue de Beauchamp",
 	"cp": "22300",
@@ -671,12 +339,6 @@
         	"web": "http://www.fablab-lannion.org",
         	"twitter": "@fablablannion",
 	"facebook": "fablablannion",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@fablab-lannion.org",
 	"tel": "",
 	"rss": "http://www.fablab-lannion.org/feed.xml"
@@ -695,7 +357,6 @@
       "properties": {
         	"id": "15",
         	"name": "TéléFab Rennes",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Télécom Bretagne<br />2, rue de la Châtaigneraie",
 	"cp": "35510",
@@ -703,12 +364,6 @@
         	"web": "http://telefab.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@telefab.fr",
 	"tel": "",
 	"rss": ""
@@ -727,7 +382,6 @@
       "properties": {
         	"id": "16",
         	"name": "LabFab EESAB",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "34, rue Hoche",
 	"cp": "35000",
@@ -735,12 +389,6 @@
         	"web": "http://labfab.fr",
         	"twitter": "@LabFabfr",
 	"facebook": "labfabfr",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "eesab@labfab.fr",
 	"tel": "",
 	"rss": "http://www.labfab.fr/blog/feed/"
@@ -759,7 +407,6 @@
       "properties": {
         	"id": "17",
         	"name": "Breizh-Entropy",
-        	"organisation": "",
         	"structure": "hakerspace",
 	"adresse": "48, bd Villebois Mareuil",
 	"cp": "35000",
@@ -767,12 +414,6 @@
         	"web": "http://breizh-entropy.org",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": "http://breizh-entropy.org/feed.php?rss"
@@ -791,7 +432,6 @@
       "properties": {
         	"id": "18",
         	"name": "La CamBuzz",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "Pôle La Grande Passerelle<br />Rue Théodore Monod",
 	"cp": "35288",
@@ -799,12 +439,6 @@
         	"web": "http://digital-saint-malo.com",
         	"twitter": "@LaCamBuzz",
 	"facebook": "DigitalStMalo",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -823,7 +457,6 @@
       "properties": {
         	"id": "19",
         	"name": "Bug",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Maison des Associations<br />6, cours des Alliés",
 	"cp": "35000",
@@ -831,12 +464,6 @@
         	"web": "http://www.asso-bug.org",
         	"twitter": "@assobug",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -855,7 +482,6 @@
       "properties": {
         	"id": "20",
         	"name": "La French Tech Rennes Saint-Malo",
-        	"organisation": "",
         	"structure": "frenchtech",
 	"adresse": "2, rue de la Mabilais",
 	"cp": "35000",
@@ -863,12 +489,6 @@
         	"web": "http://lafrenchtech-rennes.fr",
         	"twitter": "@LaFTRSM",
 	"facebook": "La.french.tech.rennes.stmalo",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": "http://lafrenchtech-rennes.fr/feed/"
@@ -887,7 +507,6 @@
       "properties": {
         	"id": "21",
         	"name": "Le Grenier numérique",
-        	"organisation": "",
         	"structure": "frenchtech",
 	"adresse": "Place de la Ferronnerie",
 	"cp": "56200",
@@ -895,12 +514,6 @@
         	"web": "http://www.legreniernumerique.fr",
         	"twitter": "@grenier_numeriq",
 	"facebook": "legreniernumerique",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -919,7 +532,6 @@
       "properties": {
         	"id": "22",
         	"name": "Nurserie numérique",
-        	"organisation": "",
         	"structure": "frenchtech",
 	"adresse": "Place de l'étoile",
 	"cp": "56910",
@@ -927,12 +539,6 @@
         	"web": "",
         	"twitter": "@NnumCarentoir",
 	"facebook": "La-Nurserie-Numérique-de-Carentoir-897660853656516",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -951,7 +557,6 @@
       "properties": {
         	"id": "23",
         	"name": "Nurserie numérique",
-        	"organisation": "",
         	"structure": "frenchtech",
 	"adresse": "Place du Docteur Jean Queinnec",
 	"cp": "56140",
@@ -959,12 +564,6 @@
         	"web": "http://www.lanurserienumerique.com",
         	"twitter": "@NNumerique",
 	"facebook": "lanurserienumerique",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -983,7 +582,6 @@
       "properties": {
         	"id": "24",
         	"name": "Camp'TIC",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "31, rue Duguay-Trouin",
 	"cp": "56100",
@@ -991,12 +589,6 @@
         	"web": "http://www.camptic.fr",
         	"twitter": "@CampTIC",
 	"facebook": "AssociationCampTIC",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@camptic.fr",
 	"tel": "",
 	"rss": "http://www.camptic.fr/feed"
@@ -1015,7 +607,6 @@
       "properties": {
         	"id": "25",
         	"name": "La Cantine Numérique brestoise – An Daol Vras",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "Les Capucins<br />25, rue de Pontaniou",
 	"cp": "29200",
@@ -1023,12 +614,6 @@
         	"web": "http://www.lacantine-brest.net",
         	"twitter": "@AnDaolVras",
 	"facebook": "AnDaolVras",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "coucou@lacantine-brest.net",
 	"tel": "06 18 76 28 15",
 	"rss": "http://www.lacantine-brest.net/feed/"
@@ -1047,7 +632,6 @@
       "properties": {
         	"id": "26",
         	"name": "Le Biome",
-        	"organisation": "",
         	"structure": "hakerspace",
 	"adresse": "",
 	"cp": "35000",
@@ -1055,12 +639,6 @@
         	"web": "http://lebiomefablab.wix.com/lebiome",
         	"twitter": "@Le_biome",
 	"facebook": "biomefrance",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1079,7 +657,6 @@
       "properties": {
         	"id": "27",
         	"name": "Muséomix Ouest",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Musée de la Bretagne<br />10, cours des Alliés",
 	"cp": "35000",
@@ -1087,12 +664,6 @@
         	"web": "http://www.museomix.org",
         	"twitter": "@MuseomixOuest",
 	"facebook": "MuseomixOuest",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1111,7 +682,6 @@
       "properties": {
         	"id": "28",
         	"name": "Biblio Remix",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Les Champs Libres<br />10, cours des Alliés",
 	"cp": "35000",
@@ -1119,12 +689,6 @@
         	"web": "http://biblioremix.wordpress.com",
         	"twitter": "@BiblioRemix",
 	"facebook": "biblioremix",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1143,7 +707,6 @@
       "properties": {
         	"id": "29",
         	"name": "Lab Bro Pondi",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "Espace Kenere<br />Médiathèque municipale",
 	"cp": "56300",
@@ -1151,63 +714,10 @@
         	"web": "http://labbropondi.fr",
         	"twitter": "@LabBroPondi",
 	"facebook": "LabBroPondi",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "labbropondi@gmail.com",
 	"tel": "",
 	"rss": "http://labbropondi.fr/feed/"
       },
-      "machines": [
-      	{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "2",
-	    "dimensions": "180x180x180mm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "RepRap",
-	    "modele": "Prusa i3",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "RepRap",
-	    "modele": "Delta",
-	    "description": ""
-	},{
-        	"type": "vinyl_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "filchaud_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -1222,7 +732,6 @@
       "properties": {
         	"id": "30",
         	"name": "Saint-Brieuc Factory",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Carré Rosengart Quai Armez",
 	"cp": "22000",
@@ -1230,12 +739,6 @@
         	"web": "http://www.saint-brieuc-factory.fr",
         	"twitter": "3615factory",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "02 96 42 54 10",
 	"rss": "http://www.saint-brieuc-factory.fr/feed.xml"
@@ -1254,7 +757,6 @@
       "properties": {
         	"id": "31",
         	"name": "Kreizenn Dafar",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "La Matrice",
 	"cp": "22000",
@@ -1262,12 +764,6 @@
         	"web": "http://www.kreizenn-dafar.bzh",
         	"twitter": "@KreizennDafar",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1286,7 +782,6 @@
       "properties": {
         	"id": "32",
         	"name": "Atelier de la Flibuste",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "",
 	"cp": "35280",
@@ -1294,12 +789,6 @@
         	"web": "http://atelierdelaflibuste.fr",
         	"twitter": "@fablabsaintmalo",
 	"facebook": "Atelier-de-la-Flibuste-1542719262685041",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@atelierdelaflibuste.fr",
 	"tel": "",
 	"rss": "http://atelierdelaflibuste.fr/feed/"
@@ -1318,7 +807,6 @@
       "properties": {
         	"id": "33",
         	"name": "Open Factory",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Université Bretagne Ouest<br />3, rue des Archives",
 	"cp": "29200",
@@ -1326,12 +814,6 @@
         	"web": "",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1350,20 +832,13 @@
       "properties": {
         	"id": "34",
         	"name": "Médiathèque François Mitterrand",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Les Capucins<br />25, rue de Pontaniou",
 	"cp": "29200",
-          "ville": "Brest",
-          "web": "http://www.atelier-multimedia-brest.fr",
-          "twitter": "@bibliobrest",
+        "ville": "Brest",
+        "web": "http://www.atelier-multimedia-brest.fr",
+        "twitter": "@bibliobrest",
 	"facebook": "bibliobrest",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "mediatheque.capucins@mairie-brest.fr",
 	"tel": "02 98 00 88 31",
 	"rss": "http://www.atelier-multimedia-brest.fr/feed/"
@@ -1382,7 +857,6 @@
       "properties": {
         	"id": "35",
         	"name": "Médiathèque de Baud",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "3, avenue Jean Moulin",
 	"cp": "56150",
@@ -1390,12 +864,6 @@
         	"web": "http://baud.c3rb.org",
         	"twitter": "@MediadeBaud",
 	"facebook": "mediathequedebaud",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1414,7 +882,6 @@
       "properties": {
         	"id": "36",
         	"name": "Médiathèque de Pontivy",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "34, bis rue du Général de Gaulle",
 	"cp": "56300",
@@ -1422,12 +889,6 @@
         	"web": "http://www.espace-kenere.fr",
         	"twitter": "@espacekenere",
 	"facebook": "pages/Espace-Kenere/1612731772337700",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1446,7 +907,6 @@
       "properties": {
         	"id": "37",
         	"name": "Médiathèque d'Allaire",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "10, place de l'Église",
 	"cp": "56350",
@@ -1454,12 +914,6 @@
         	"web": "http://www.allaire.fr/?page=lmediatheque",
         	"twitter": "",
 	"facebook": "mediallaire",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1478,7 +932,6 @@
       "properties": {
         	"id": "38",
         	"name": "Médiathèque de Locminé",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Place Anne de Bretagne",
 	"cp": "56500",
@@ -1486,12 +939,6 @@
         	"web": "http://mediatheque.mairie-locmine.fr",
         	"twitter": "@bibliolocmine",
 	"facebook": "mediatheque.de.locmine",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1510,7 +957,6 @@
       "properties": {
         	"id": "39",
         	"name": "Bouillants",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Lieu-dit Les Bouillants",
 	"cp": "35770",
@@ -1518,12 +964,6 @@
         	"web": "http://www.bouillants.fr",
         	"twitter": "@bouillants",
 	"facebook": "BouillantsArtNumeriqueMultimediaCitoyennete",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1542,7 +982,6 @@
       "properties": {
         	"id": "40",
         	"name": "Rendez-vous 4C",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Les Champs Libres<br />10, cours des Alliés",
 	"cp": "35000",
@@ -1550,12 +989,6 @@
         	"web": "http://lesrdv4c.tumblr.com",
         	"twitter": "@LesChampsLibres",
 	"facebook": "LesChampsLibres",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1574,7 +1007,6 @@
       "properties": {
         	"id": "41",
         	"name": "Cybercentre Guérande",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "22, faubourg Saint-Michel",
 	"cp": "44350",
@@ -1582,12 +1014,6 @@
         	"web": "http://www.cybercentre-guerande.fr",
         	"twitter": "@cyberguerande",
 	"facebook": "pages/Cybercentre-municipal-Ville-de-Guérande-officiel/476719612364046",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1606,7 +1032,6 @@
       "properties": {
         	"id": "42",
         	"name": "La FABrique du Loch",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "8 rue Georges Clémenceau",
 	"cp": "56400",
@@ -1614,74 +1039,10 @@
         	"web": "http://www.lafabriqueduloch.org",
         	"twitter": "@fabriqueduloch",
 	"facebook": "lafabriqueduloch",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "lafabriqueduloch@gmail.com",
 	"tel": "02 97 58 47 04",
 	"rss": "https://www.lafabriqueduloch.org/feed/"
       },
-      "machines": [
-      	{
-        	"type": "laser_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "1600x1000mm",
-	    "puissance": "90w",
-	    "epaisseur": "16mm",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "3",
-	    "dimensions": "180x180x180mm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "RepRap",
-	    "modele": "Prusa i3",
-	    "description": ""
-	},{
-        	"type": "fraiseuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "200x150mm",
-	    "puissance": "",
-	    "epaisseur": "6mm",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "vinyl_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "600mm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "brodeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "260x180mm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -1696,7 +1057,6 @@
       "properties": {
         	"id": "43",
         	"name": "L'Hôtel Pasteur",
-        	"organisation": "",
         	"structure": "tierslieu",
 	"adresse": "2, place Pasteur",
 	"cp": "35000",
@@ -1704,12 +1064,6 @@
         	"web": "http://www.hotelpasteur.fr",
         	"twitter": "@HotelPasteur",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1728,7 +1082,6 @@
       "properties": {
         	"id": "44",
         	"name": "Diplôme d'Université Impression 3D",
-        	"organisation": "",
         	"structure": "formation",
 	"adresse": "UBS<br />2, rue Le Coat Saint-Haouen",
 	"cp": "56100",
@@ -1736,12 +1089,6 @@
         	"web": "http://www.univ-ubs.fr/fr/formation-initiale-continue/formations-2017-2018/diplome-d-universite-du-DU/sciences-technologies-sante-STS/diplome-d-universite-impression-3d-program-us3d00-215-us3d01.html",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1760,7 +1107,6 @@
       "properties": {
         	"id": "45",
         	"name": "Atlantic 2.0",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "11, impasse Juton",
 	"cp": "44000",
@@ -1768,12 +1114,6 @@
         	"web": "http://cantine.atlantic2.org",
         	"twitter": "@atlantic2",
 	"facebook": "lacantineparatlantic2",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1792,7 +1132,6 @@
       "properties": {
         	"id": "46",
         	"name": "PiNG",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "Pôle associatif du 38 Breil<br />38, rue du Breil",
 	"cp": "44000",
@@ -1800,12 +1139,6 @@
         	"web": "http://www.pingbase.net",
         	"twitter": "@AssoPiNG",
 	"facebook": "AssociationPiNG",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "info@pingbase.net",
 	"tel": "02 40 16 86 78",
 	"rss": "http://www.pingbase.net/feed"
@@ -1824,7 +1157,6 @@
       "properties": {
         	"id": "47",
         	"name": "Plateforme C",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Hangar 30<br />Quai des Antilles",
 	"cp": "44000",
@@ -1832,12 +1164,6 @@
         	"web": "http://www.plateforme-c.org",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1856,7 +1182,6 @@
       "properties": {
         	"id": "48",
         	"name": "NantesTech",
-        	"organisation": "",
         	"structure": "frenchtech",
 	"adresse": "Quartier de la Création<br />Les Halles",
 	"cp": "44000",
@@ -1864,12 +1189,6 @@
         	"web": "http://www.nantestech.com",
         	"twitter": "@NantesTech",
 	"facebook": "nantestech",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": "http://www.nantestech.com/feed/"
@@ -1888,7 +1207,6 @@
       "properties": {
         	"id": "49",
         	"name": "FabMake",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Chemin du Chaffault",
 	"cp": "44340",
@@ -1896,12 +1214,6 @@
         	"web": "http://www.fabmake.fr",
         	"twitter": "@FabMake",
 	"facebook": "FabMake-1430440200565943",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@fabmake.fr",
 	"tel": "02 40 44 35 58",
 	"rss": "http://www.fabmake.fr/feed/rss.html"
@@ -1920,7 +1232,6 @@
       "properties": {
         	"id": "50",
         	"name": "Défis",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "8 rue du Général Leclerc",
 	"cp": "56600",
@@ -1928,12 +1239,6 @@
         	"web": "http://www.defis.info",
         	"twitter": "@AssoDefis",
 	"facebook": "Association-Défis-164695790210111",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1952,7 +1257,6 @@
       "properties": {
         	"id": "51",
         	"name": "Collporterre",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "135 chemin du Hildy",
 	"cp": "29200",
@@ -1960,12 +1264,6 @@
         	"web": "http://www.collporterre.org",
         	"twitter": "@Collporterre",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -1984,7 +1282,6 @@
       "properties": {
         	"id": "52",
         	"name": "GIS Marsouin",
-        	"organisation": "",
         	"structure": "formation",
 	"adresse": "Technopôle Brest Iroise",
 	"cp": "29200",
@@ -1992,12 +1289,6 @@
         	"web": "http://www.marsouin.org",
         	"twitter": "@gis_marsouin",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": "https://www.marsouin.org/spip.php?page=backend"
@@ -2016,7 +1307,6 @@
       "properties": {
         	"id": "53",
         	"name": "Human Lab",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "2, Avenue du Bois Labbé",
 	"cp": "35000",
@@ -2024,12 +1314,6 @@
         	"web": "http://myhumankit.org",
         	"twitter": "@myhumankit",
 	"facebook": "MyHumanKit",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@myhumankit.org",
 	"tel": "07 28 32 83 21",
 	"rss": "http://myhumankit.org/feed/"
@@ -2048,7 +1332,6 @@
       "properties": {
         	"id": "54",
         	"name": "La Vilaine Bidouille",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Château de Caslou",
 	"cp": "35600",
@@ -2056,41 +1339,10 @@
         	"web": "http://www.fablabredon.org",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "lavb35@gmail.com",
 	"tel": "",
 	"rss": "http://www.fablabredon.org/wordpress/feed/"
       },
-      "machines": [
-      	{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Mondrian",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "fraiseuse",
-        	"properties": {
-	    "type": "DIY",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "OpenMaker",
-	    "modele": "Machine PRO XL",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -2105,7 +1357,6 @@
       "properties": {
         	"id": "55",
         	"name": "La Passerelle Numérique",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "12, route des Fougerays",
 	"cp": "44110",
@@ -2113,12 +1364,6 @@
         	"web": "http://passerelle-numerique.org",
         	"twitter": "",
 	"facebook": "Fablab-La-passerelle-numérique-924247814286763",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@passerelle-numerique.org",
 	"tel": "02.40.07.68.86",
 	"rss": "http://passerelle-numerique.org/feed"
@@ -2137,7 +1382,6 @@
       "properties": {
         	"id": "56",
         	"name": "Le Labo du Nautilus",
-        	"organisation": "",
         	"structure": "tierslieu",
 	"adresse": "Quiniac - Route d'Elven",
 	"cp": "56250",
@@ -2145,12 +1389,6 @@
         	"web": "http://labodunautilus.org",
         	"twitter": "",
 	"facebook": "labodunautilus",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2169,7 +1407,6 @@
       "properties": {
         	"id": "57",
         	"name": "PAPIfab – Médiathèque des Capucins",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "[Projet en cours]<br />Rue de Pontaniou",
 	"cp": "29200",
@@ -2177,12 +1414,6 @@
         	"web": "bit.ly/1Xrt9kd",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2201,7 +1432,6 @@
       "properties": {
         	"id": "58",
         	"name": "PAPIfab – Médiathèque de Lambézellec",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "8, rue Pierre Corre",
 	"cp": "29200",
@@ -2209,12 +1439,6 @@
         	"web": "bit.ly/212wJDn",
         	"twitter": "@bibliobrest",
 	"facebook": "bibliobrest",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2233,7 +1457,6 @@
       "properties": {
         	"id": "59",
         	"name": "PAPIfab – Patronage Laïque de la cavale blanche",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "10, rue Hegel",
 	"cp": "29200",
@@ -2241,12 +1464,6 @@
         	"web": "http://www.plmcb.infini.fr/spip.php?rubrique197",
         	"twitter": "@PLMCavale",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2265,7 +1482,6 @@
       "properties": {
         	"id": "60",
         	"name": "PAPIfab – MJC de l'Harteloire",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "39, avenue Clémenceau",
 	"cp": "29200",
@@ -2273,12 +1489,6 @@
         	"web": "http://www.mjc-harteloire.fr",
         	"twitter": "@mjcharteloire",
 	"facebook": "mjcharteloire",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2297,7 +1507,6 @@
       "properties": {
         	"id": "61",
         	"name": "PAPIfab – Patronage Laïque Guérin",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "1, rue Alexandre Ribot",
 	"cp": "29200",
@@ -2305,12 +1514,6 @@
         	"web": "http://www.plguerin.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2329,7 +1532,6 @@
       "properties": {
         	"id": "62",
         	"name": "La Fab'rique",
-        	"organisation": "",
         	"structure": "fablabMIT",
 	"adresse": "Communauté de Communes du Pays de La Roche aux Fées<br />1, rue Jacques de Corbière",
 	"cp": "35150",
@@ -2337,12 +1539,6 @@
         	"web": "https://lafabriqueccprf.wordpress.com",
         	"twitter": "@lafabriqueccprf",
 	"facebook": "lafabriqueccprf",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "fablab@ccprf.fr",
 	"tel": "",
 	"rss": "https://lafabriqueccprf.wordpress.com/feed/"
@@ -2361,7 +1557,6 @@
       "properties": {
         	"id": "63",
         	"name": "Chaplab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Lycée Chaptal<br />6, allée Chaptal",
 	"cp": "22000",
@@ -2369,12 +1564,6 @@
         	"web": "http://chaplab.info",
         	"twitter": "@chaplab22",
 	"facebook": "chaplab",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@chaplab.info",
 	"tel": "",
 	"rss": ""
@@ -2393,7 +1582,6 @@
       "properties": {
         	"id": "64",
         	"name": "Le Plan D",
-        	"organisation": "",
         	"structure": "tierslieu",
 	"adresse": "14, rue Jean Coquelin",
 	"cp": "22000",
@@ -2401,12 +1589,6 @@
         	"web": "http://assopland.wix.com/siteofficiel",
         	"twitter": "",
 	"facebook": "association.lepland",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2425,7 +1607,6 @@
       "properties": {
         	"id": "65",
         	"name": "Médiathèque Germaine Tillion",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Espace multimédia<br />1, rue des Droits de l'Homme",
 	"cp": "56890",
@@ -2433,12 +1614,6 @@
         	"web": "http://www.saint-ave.fr/presentation_espace_multimedia.html",
         	"twitter": "",
 	"facebook": "/pages/Médiathèque-Germaine-Tillion-à-Saint-Avé/225881757552744",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2457,7 +1632,6 @@
       "properties": {
         	"id": "66",
         	"name": "LabFab ÉduLab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Université Rennes 2<br />Place du recteur Henri Le Moal / Bat.T",
 	"cp": "35000",
@@ -2465,12 +1639,6 @@
         	"web": "http://www.labfab.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "edulab@labfab.fr",
 	"tel": "",
 	"rss": "http://www.labfab.fr/feed/"
@@ -2489,7 +1657,6 @@
       "properties": {
         	"id": "67",
         	"name": "LabFab MDA",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Maison des Associations<br />6, cours des Alliés",
 	"cp": "35000",
@@ -2497,12 +1664,6 @@
         	"web": "http://www.labfab.fr",
         	"twitter": "@labfabfr",
 	"facebook": "labfabfr",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "mda@labfab.fr",
 	"tel": "",
 	"rss": "http://www.labfab.fr/feed/"
@@ -2521,7 +1682,6 @@
       "properties": {
         	"id": "68",
         	"name": "ÉtriLab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Lieu-Dit L'Étrillet",
 	"cp": "35170",
@@ -2529,12 +1689,6 @@
         	"web": "http://letrillet.fr/cat/etrilab/",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@letrillet.fr",
 	"tel": "",
 	"rss": "http://letrillet.fr/cat/etrilab/feed/"
@@ -2553,7 +1707,6 @@
       "properties": {
         	"id": "69",
         	"name": "LabFab O Cesson",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Lycée Frédéric Ozanam<br />99 Rue de la Chalotais",
 	"cp": "35510",
@@ -2561,12 +1714,6 @@
         	"web": "http://www.labocesson.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@labocesson.fr",
 	"tel": "07 80 02 16 23",
 	"rss": "http://www.labocesson.fr/feed/"
@@ -2585,7 +1732,6 @@
       "properties": {
         	"id": "70",
         	"name": "LabFab Hub Epitech",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "19-22 Boulevard Saint-Conwoïon<br />1er étage",
 	"cp": "35000",
@@ -2593,12 +1739,6 @@
         	"web": "http://www.labfab.fr",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "hubepitech@labfab.fr",
 	"tel": "",
 	"rss": "http://www.labfab.fr/feed/"
@@ -2617,7 +1757,6 @@
       "properties": {
         	"id": "71",
         	"name": "LabFab SPI",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Université Bretagne Loire — Campus Beaulieu (PNRB, Bat.9B)<br />263, avenue du Général Leclerc",
 	"cp": "35000",
@@ -2625,12 +1764,6 @@
         	"web": "https://utice.u-bretagneloire.fr/teaching-lab",
         	"twitter": "@Num_UBL",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact-utice@u-bretagneloire.fr",
 	"tel": "",
 	"rss": ""
@@ -2649,7 +1782,6 @@
       "properties": {
         	"id": "72",
         	"name": "LabFab UR1",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Université Rennes 1<br />Campus Beaulieu — Bat.11C",
 	"cp": "35000",
@@ -2657,12 +1789,6 @@
         	"web": "https://labfab.univ-rennes1.fr",
         	"twitter": "https://twitter.com/LabFab_UR1",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "labfab@univ-rennes1.fr",
 	"tel": "",
 	"rss": ""
@@ -2681,7 +1807,6 @@
       "properties": {
         	"id": "73",
         	"name": "MOOC Fabrication numérique",
-        	"organisation": "",
         	"structure": "formation",
 	"adresse": "[online]",
 	"cp": "35000",
@@ -2689,12 +1814,6 @@
         	"web": "https://www.fun-mooc.fr/news/la-fabrication-numerique-de-lidee-au-prototype-en-/",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2713,7 +1832,6 @@
       "properties": {
         	"id": "74",
         	"name": "La Colloc",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "42, avenue de la Perrière",
 	"cp": "56100",
@@ -2721,12 +1839,6 @@
         	"web": "https://www.la-colloc.com",
         	"twitter": "@la_colloc",
 	"facebook": "LeCollectifLaColloc",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2745,7 +1857,6 @@
       "properties": {
         	"id": "75",
         	"name": "Médiathèque de Quiberon",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "16 rue Michelet",
 	"cp": "56170",
@@ -2753,12 +1864,6 @@
         	"web": "http://ville-quiberon.fr/vie-locale/culture/mediatheque",
         	"twitter": "@MediaQuib",
 	"facebook": "mediaquiberon",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "mediatheque@ville-quiberon.fr",
 	"tel": "",
 	"rss": ""
@@ -2777,7 +1882,6 @@
       "properties": {
         	"id": "76",
         	"name": "Esprit FabLab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "13 rue Abbé Gibert",
 	"cp": "22110",
@@ -2785,12 +1889,6 @@
         	"web": "",
         	"twitter": "",
 	"facebook": "EspritFablab",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
@@ -2809,7 +1907,6 @@
       "properties": {
         	"id": "77",
         	"name": "Konk Ar Lab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "2 rue des Charmes<br />Kérandon",
 	"cp": "29900",
@@ -2817,52 +1914,10 @@
         	"web": "http://www.konkarlab.bzh",
         	"twitter": "@KonkArLab",
 	"facebook": "konkarlab",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@konkarlab.bzh",
 	"tel": "",
 	"rss": "https://www.konkarlab.bzh/feed/"
       },
-      "machines": [
-      	{
-        	"type": "laser_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "1600x1000mm",
-	    "puissance": "90w",
-	    "epaisseur": "16mm",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "5",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "fraiseuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "1050x870mm",
-	    "puissance": "",
-	    "epaisseur": "40mm",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -2877,7 +1932,6 @@
       "properties": {
         	"id": "78",
         	"name": "iRoboTechArt",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "Collège Anita Conti<br />Rue Monistrol",
 	"cp": "56100",
@@ -2885,12 +1939,6 @@
         	"web": "http://www.irobotechart.com",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@iRoboTechArt.com",
 	"tel": "",
 	"rss": ""
@@ -2909,7 +1957,6 @@
       "properties": {
         	"id": "79",
         	"name": "Liffab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Square René Cassin",
 	"cp": "35340",
@@ -2917,12 +1964,6 @@
         	"web": "",
         	"twitter": "liffab",
 	"facebook": "Liffab",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "liffab35@gmail.com",
 	"tel": "",
 	"rss": ""
@@ -2941,7 +1982,6 @@
       "properties": {
         	"id": "80",
         	"name": "Université Populaire du Numérique",
-        	"organisation": "",
         	"structure": "formation",
 	"adresse": "",
 	"cp": "56750",
@@ -2949,12 +1989,6 @@
         	"web": "http://adn56.net",
         	"twitter": "",
 	"facebook": "UnivPopNumDamgan",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@adn56.net",
 	"tel": "",
 	"rss": ""
@@ -2973,7 +2007,6 @@
       "properties": {
         	"id": "81",
         	"name": "Hitch Hacker's Guide to The Galaxy (Hack2G2)",
-        	"organisation": "",
         	"structure": "hakerspace",
 	"adresse": "IUT de Vannes<br />8, rue Montaigne – B209",
 	"cp": "56017",
@@ -2981,12 +2014,6 @@
         	"web": "https://hack2g2.fr",
         	"twitter": "@hack2g2",
 	"facebook": "hack2g2",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "hack2G2@gmx.fr",
 	"tel": "",
 	"rss": ""
@@ -3005,7 +2032,6 @@
       "properties": {
         	"id": "82",
         	"name": "Rhizomes",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "",
 	"cp": "56470",
@@ -3013,12 +2039,6 @@
         	"web": "https://www.rhizomes.org",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@rhizomes.org",
 	"tel": "",
 	"rss": ""
@@ -3037,7 +2057,6 @@
       "properties": {
         	"id": "83",
         	"name": "Médiacentre / Le Petit Écho de la Mode",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "2, rue du Maillet",
 	"cp": "22170",
@@ -3045,12 +2064,6 @@
         	"web": "http://petit-echo-mode.fr/mediacentre/presentation/",
         	"twitter": "@Mediacentreleff",
 	"facebook": "mediacentreleff",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "mediacentre@leffarmor.fr",
 	"tel": "02 96 79 74 64",
 	"rss": ""
@@ -3069,7 +2082,6 @@
       "properties": {
         	"id": "84",
         	"name": "Le F.I.V.E.",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "Office du Tourisme du Pays de Vitré<br />Place Général De Gaulle",
 	"cp": "35500",
@@ -3077,12 +2089,6 @@
         	"web": "http://www.lefive.bzh",
         	"twitter": "@lefivebzh",
 	"facebook": "LeFive-202874746825195",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "fabmanager@lefive.bzh",
 	"tel": "02 23 55 46 06",
 	"rss": "http://www.lefive.bzh/?feed=rss2"
@@ -3101,7 +2107,6 @@
       "properties": {
         	"id": "85",
         	"name": "G-Lab",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "3, place de la Gare",
 	"cp": "35120",
@@ -3109,12 +2114,6 @@
         	"web": "http://www.dol-fablab.com",
         	"twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "dol.fablab@gmail.com",
 	"tel": "02 99 58 16 66",
 	"rss": "http://www.dol-fablab.com/feed/"
@@ -3133,7 +2132,6 @@
       "properties": {
         	"id": "86",
         	"name": "L'Argonaute",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "12, rue Adjudant-Redien",
 	"cp": "56400",
@@ -3141,12 +2139,6 @@
         	"web": "",
         	"twitter": "",
 	"facebook": "largonauteco56",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "auray.collectif@gmail.com",
 	"tel": "",
 	"rss": ""
@@ -3165,7 +2157,6 @@
       "properties": {
         	"id": "87",
         	"name": "Polidesk",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "Parc d'Activité de Doaren Molac II",
 	"cp": "56610",
@@ -3173,12 +2164,6 @@
         	"web": "http://polidesk.com",
         	"twitter": "",
 	"facebook": "polidesk",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "02 97 61 25 91",
 	"rss": "http://polidesk.com/feed/"
@@ -3197,7 +2182,6 @@
       "properties": {
         	"id": "88",
         	"name": "The Swenson House",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "1, rue Lamartine",
 	"cp": "29770",
@@ -3205,12 +2189,6 @@
         	"web": "http://theswensonhouse.com",
         	"twitter": "swenson_global",
 	"facebook": "swensonglobal",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@swenson-house.com",
 	"tel": "09 86 75 00 16",
 	"rss": ""
@@ -3229,7 +2207,6 @@
       "properties": {
         	"id": "89",
         	"name": "La Ruche Saint-Nazaire",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "25, rue de l'étoile du matin",
 	"cp": "44600",
@@ -3237,12 +2214,6 @@
         	"web": "http://la-ruche.net/ruche/saint-nazaire/",
         	"twitter": "@RucheStNazaire",
 	"facebook": "LaRucheSaintNazaire",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "saintnazaire@la-ruche.net",
 	"tel": "06 58 96 96 84",
 	"rss": ""
@@ -3261,115 +2232,17 @@
       "properties": {
         	"id": "90",
         	"name": "Usi-LAB (Icam)",
-        	"organisation": "",
         	"structure": "fablab",
 	"adresse": "9, rue du Commandant Charcot",
 	"cp": "56000",
-          "ville": "Vannes",
-          "web": "",
-          "twitter": "",
+        "ville": "Vannes",
+        "web": "",
+        "twitter": "",
 	"facebook": "UsiLABbretagne",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "",
 	"tel": "",
 	"rss": ""
       },
-      "machines": [
-      	{
-        	"type": "laser_decoupeuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "1600x900mm",
-	    "puissance": "80w",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "3",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "RepRap",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "2",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Zortrax",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "1005x1005x1005mm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "BigRep",
-	    "modele": "One",
-	    "description": ""
-	},{
-        	"type": "3d_imprimante",
-        	"properties": {
-	    "type": "FDM",
-	    "quantite": "1",
-	    "dimensions": "2000mmm",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Builder",
-	    "modele": "Extreme",
-	    "description": ""
-	},{
-        	"type": "fraiseuse",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "3d_scanner",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "",
-	    "modele": "",
-	    "description": ""
-	},{
-        	"type": "rv_casque",
-        	"properties": {
-	    "type": "",
-	    "quantite": "1",
-	    "dimensions": "",
-	    "puissance": "",
-	    "epaisseur": "",
-	    "marque": "Oculus",
-	    "modele": "",
-	    "description": ""
-	}
-      ]},
       "geometry": {
         	"type": "Point",
         	"coordinates": [
@@ -3384,20 +2257,13 @@
       "properties": {
         	"id": "91",
         	"name": "La Flottille",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "Boulevard Pralognan La Vanoise",
 	"cp": "29160",
-          "ville": "Crozon",
-          "web": "http://www.comcom-crozon.com/crozon-entreprendre/espace-de-travail-partage",
-          "twitter": "@CoworkingCrozon",
+        "ville": "Crozon",
+        "web": "http://www.comcom-crozon.com/crozon-entreprendre/espace-de-travail-partage",
+        "twitter": "@CoworkingCrozon",
 	"facebook": "laflottillecoworkingcrozon",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "coworking@comcom-crozon.bzh",
 	"tel": "02 98 93 48 38",
 	"rss": ""
@@ -3416,20 +2282,13 @@
       "properties": {
         	"id": "92",
         	"name": "SNALIS",
-        	"organisation": "",
         	"structure": "usages",
 	"adresse": "La Maison du Libre<br />61, rue d'Anjou",
 	"cp": "44600",
-          "ville": "Saint-Nazaire",
-          "web": "http://snalis.org",
-          "twitter": "",
+        "ville": "Saint-Nazaire",
+        "web": "http://snalis.org",
+        "twitter": "",
 	"facebook": "",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "contact@snalis.org",
 	"tel": "09 50 72 82 51",
 	"rss": "http://snalis.org/spip.php?page=backend"
@@ -3448,20 +2307,13 @@
       "properties": {
         	"id": "93",
         	"name": "La Sphère",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "32, rue Georges Clémenceau",
 	"cp": "29400",
-          "ville": "Landivisiau",
-          "web": "http://www.pays-de-landivisiau.com/accueil-des-entreprises/la-sphere",
-          "twitter": "",
+        "ville": "Landivisiau",
+        "web": "http://www.pays-de-landivisiau.com/accueil-des-entreprises/la-sphere",
+        "twitter": "",
 	"facebook": "coworkinglandivisiau",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "economie@pays-de-landivisiau.com",
 	"tel": "",
 	"rss": ""
@@ -3480,20 +2332,13 @@
       "properties": {
         	"id": "94",
         	"name": "La Grande M4ison",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "149, rue Pierre Semard",
 	"cp": "29200",
-          "ville": "Brest",
-          "web": "http://lagrandemaison.thecorner.fr",
-          "twitter": "@thecornerfr",
+        "ville": "Brest",
+        "web": "http://lagrandemaison.thecorner.fr",
+        "twitter": "@thecornerfr",
 	"facebook": "TheCornerBrest",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "hello@thecorner.fr",
 	"tel": "06 60 28 02 54",
 	"rss": "http://medium.com/feed/the-corner-mindset"
@@ -3513,7 +2358,6 @@
       "properties": {
         	"id": "95",
         	"name": "The Mess",
-        	"organisation": "",
         	"structure": "cantine",
 	"adresse": "19, rue Jean Macé<br />RDC Télégramme",
 	"cp": "29200",
@@ -3521,12 +2365,6 @@
         	"web": "http://www.lacantine-brest.net",
         	"twitter": "@AnDaolVras",
 	"facebook": "AnDaolVras",
-	"instagram": "",
-	"mastodon": "",
-	"youtube": "",
-	"dailymotion": "",
-	"vimeo": "",
-	"IRC": "",
 	"email": "coucou@lacantine-brest.net",
 	"tel": "06 18 76 28 15",
 	"rss": "http://www.lacantine-brest.net/feed/"
