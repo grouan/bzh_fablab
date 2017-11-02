@@ -241,7 +241,7 @@
       "properties": {
         	"id": "10",
         	"name": "TyFab",
-        	"organisation": "",
+        	"organisation": "Association Maison du Libre",
         	"structure": "fablabMIT",
 	"adresse": "214, rue Jean Jaurès",
 	"cp": "29200",
@@ -249,7 +249,7 @@
         	"web": "http://tyfab.fr",
         	"twitter": "@TyFabBrest",
 	"facebook": "",
-	"email": "maison-du-libre@mdl29.net",
+	"email": "tyfab@mdl29.net",
 	"tel": "",
 	"rss": ""
       },
