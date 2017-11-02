@@ -267,17 +267,17 @@
       "properties": {
         	"id": "11",
         	"name": "TéléFab Brest",
-        	"organisation": "",
+        	"organisation": "Institut Mines-Télécom Atlantique",
         	"structure": "fablabMIT",
-	"adresse": "Télécom Bretagne<br />Technopôle Brest-Iroise",
+	"adresse": "IMT Atlantique<br />Technopôle Brest-Iroise",
 	"cp": "29200",
         	"ville": "Brest",
         	"web": "http://telefab.fr",
-        	"twitter": "",
-	"facebook": "",
+        	"twitter": "@TelefabBrest",
+	"facebook": "BrestTelefab",
 	"email": "contact@telefab.fr",
 	"tel": "",
-	"rss": "http://telefab.fr/category/blog/feed/"
+	"rss": "http://telefab.fr/feed/"
       },
       "geometry": {
         	"type": "Point",
