@@ -2471,6 +2471,33 @@
 	   	48.38660
         ]
       }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "96",
+        	"name": "Espace multimédia du Polygone",
+        	"organisation": "Patronage Laïque de Lorient",
+        	"structure": "usages",
+	"adresse": "Centre social du Polygone<br />80, avenue Charles de Gaulle",
+	"cp": "56100",
+        	"ville": "Lorient",
+        	"web": "http://www.pllorient.org/web/centre-social-du-polygone/espace-multimedia",
+        	"twitter": "",
+	"facebook": "epn.pll",
+	"email": "multimedia.polygone@gmail.com",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-3.37406,
+	   	47.74083
+        ]
+      }
     }
     
     
