@@ -2525,33 +2525,6 @@
 	   			48.70746
         ]
       }
-    },
-    
-	  
-    {
-      "type": "Feature",
-      "properties": {
-        	"id": "98",
-        	"name": "Fam'Lab [itinérant]",
-        	"organisation": "Familles Rurales 35",
-        	"structure": "fablab",
-			"adresse": "11, avenue de Brocéliande",
-			"cp": "35131",
-        	"ville": "Chartres-de-Bretagne",
-        	"web": "",
-        	"twitter": "",
-			"facebook": "",
-			"email": "info.fd35@famillesrurales.org",
-			"tel": "02 99 77 12 12",
-			"rss": ""
-      },
-      "geometry": {
-        	"type": "Point",
-        	"coordinates": [
-          		-1,7013424,
-	   			48,0371591
-        ]
-      }
     }
     
     
