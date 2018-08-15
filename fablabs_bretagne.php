@@ -2,11 +2,11 @@
 	/*	La carte des FabLabs & autres lieux de dissémination des usages numériques en Bretagne
 		======================================================================================
 		Auteur : Guillaume Rouan | @grouan
-		Blog : http://guillaume-rouan.net
+		Blog   : https://guillaume-rouan.net/blog/
 		--------------------------------------------------------------------------------------
-		=> La carte des FabLabs de Bretagne : http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/
-		=> La liste des FabLabs de Bretagne : http://guillaume-rouan.net/blog/fablabzh_map/fablabs_bzh_liste.php
-		=> Sources : https://github.com/grouan/bzh_fablab
+		=> La carte des FabLabs de Bretagne : guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/
+		=> La liste des FabLabs de Bretagne : guillaume-rouan.net/blog/fablabzh_map/fablabs_bzh_liste.php
+		=> Sources                          : github.com/grouan/bzh_fablab
 		--------------------------------------------------------------------------------------
 	*/
 
@@ -26,12 +26,12 @@
 	<!-- 
        
        =============================================================================
-       	CARTE DES FABLABS DE BRETAGNE
+       	CARTE DES FABLABS & TIERS-LIEUX DE BRETAGNE
        =============================================================================
-       	Auteur : Guillaume ROUAN | http://guillaume-rouan.net | @grouan
+       	Auteur : Guillaume ROUAN | https://guillaume-rouan.net/blog/ | @grouan
        -----------------------------------------------------------------------------
        	Licence : CC BY
-              Création : Octobre 2015 | v.3
+              Création : Octobre 2015 | v.4
               Technos : OpenStreetMap + Mapbox + Leaflet
               Thématiques : FabLab, MakerSpace, HackerSpace, FrenchTech,
               		Cantine numérique, Tiers Lieux, Usages numériques,
@@ -39,11 +39,11 @@
        -----------------------------------------------------------------------------
        
        -->
-	<title>Carte des Fablabs de Bretagne</title>
+	<title>Carte des Fablabs & Tiers-Lieux de Bretagne</title>
        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
        
        <!-- Feuille de style Leaflet + zone de carte -->
-	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+	   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" />
        <style type="text/css">
 		#map { 
 			margin:0px;
@@ -52,28 +52,28 @@
 	</style>
        
        <!-- Bibliothèques Javascript Leaflet + OpenLayers -->
-       <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
-       <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+       <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"></script>
+       <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.1.3/build/ol.js"></script>
        
        <!-- Paramétrages de la couche Mapbox + légende de la carte -->
        <script>
-		ACCESS_TOKEN = 'XXX'; /* Voir http://www.mapbox.com pour en créer un */
+		ACCESS_TOKEN = 'XXX'; /* Voir https://www.mapbox.com pour en créer un */
 		
-		CM_ATTR = 'Donn&eacute;es carte &copy; contributeurs <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
-			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="http://cloudmade.com">CloudMade</a>';
+		CM_ATTR = 'Donn&eacute;es carte &copy; contributeurs <a href="https://openstreetmap.org">OpenStreetMap</a>, ' +
+			'<a href="https://creativecommons.org/licenses/by-sa/2.0/fr/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="https://cloudmade.com">CloudMade</a>';
 		
-		CM_URL = 'http://{s}.tile.cloudmade.com/d4fc77ea4a63471cab2423e66626cbb6/{styleId}/256/{z}/{x}/{y}.png';
+		CM_URL = 'https://{s}.tile.cloudmade.com/d4fc77ea4a63471cab2423e66626cbb6/{styleId}/256/{z}/{x}/{y}.png';
 		
-		MB_ATTR = '<a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> + ' +
-			'<a href="http://mapbox.com" target="_blank">Mapbox</a> | ' +
-			'<a href="http://guillaume-rouan.net" target="_blank">Guillaume Rouan</a> <a href="http://creativecommons.fr/licences/" target="_blank">CC BY</a>';
+		MB_ATTR = '<a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a> + ' +
+			'<a href="https://mapbox.com" target="_blank">Mapbox</a> | ' +
+			'<a href="https://guillaume-rouan.net/blog/" target="_blank">Guillaume Rouan</a> <a href="https://creativecommons.fr/licences/" target="_blank">CC BY</a>';
 		
 		MB_URL = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + ACCESS_TOKEN;
 		
-		OSM_URL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+		OSM_URL = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 		
-		OSM_ATTRIB = '&copy; contributeurs <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> ';
+		OSM_ATTRIB = '&copy; contributeurs <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> ';
 	</script>
        
 </head>
@@ -114,8 +114,8 @@
 		$longitude = $data['geometry']['coordinates'][0];
 		$latitude = $data['geometry']['coordinates'][1];
 		if ($data['properties']['web'] != "") { $web = '<a href=\''.$data['properties']['web'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_WEB.png\' title=\'Visitez '.$data['properties']['web'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $web = ''; }
-		if ($data['properties']['facebook'] != "") { $facebook = '<a href=\'http://facebook.com/'.$data['properties']['facebook'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_FB.png\' title=\'Suivez '.$data['properties']['facebook'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $facebook = ''; }
-		if ($data['properties']['twitter'] != "") { $twitter = '<a href=\'http://twitter.com/'.$data['properties']['twitter'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_TW.png\' title=\'Suivez '.$data['properties']['twitter'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $twitter = ''; }
+		if ($data['properties']['facebook'] != "") { $facebook = '<a href=\'https://facebook.com/'.$data['properties']['facebook'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_FB.png\' title=\'Suivez '.$data['properties']['facebook'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $facebook = ''; }
+		if ($data['properties']['twitter'] != "") { $twitter = '<a href=\'https://twitter.com/'.$data['properties']['twitter'].'\' target=\'_blank\'><img src=\'https://raw.githubusercontent.com/grouan/bzh_fablab/master/img/ico_30x30px_TW.png\' title=\'Suivez '.$data['properties']['twitter'].'\' style=\'border-radius:3px;margin:3px;\' /></a>'; } else { $twitter = ''; }
 		
 		// Création des marqueurs
 		echo 'L.marker(['.$latitude.','.$longitude.'], {icon: '.$data['properties']['structure'].'_Icon}).bindPopup("<b style=\'font-size:1.2em;text-transform:uppercase;\'>'.$data['properties']['name'].'</b><br />'.$data['properties']['adresse'].'<br />'.$data['properties']['cp'].' '.$data['properties']['ville'].'<br />'.$web.' '.$facebook.' '.$twitter.'").addTo(map);';
