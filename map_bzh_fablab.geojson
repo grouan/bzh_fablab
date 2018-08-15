@@ -188,24 +188,24 @@
       "type": "Feature",
       "properties": {
         	"id": "8",
-        	"name": "POC Girafe",
-        	"organisation": "",
+        	"name": "Ouvr'@ges",
+        	"organisation": "Papifab de Kerourien",
         	"structure": "fablab",
-	"adresse": "214, rue Jean Jaurès",
+	"adresse": "Rue Père Ricard",
 	"cp": "29200",
         	"ville": "Brest",
-        	"web": "http://www.poclagirafe.bzh",
-        	"twitter": "@collectif_poc",
-	"facebook": "pages/Collectif-POC/896056633767041",
-	"email": "",
-	"tel": "",
+        	"web": "https://ouvragesfablab.wordpress.com",
+        	"twitter": "",
+	"facebook": "ouvragesfablab",
+	"email": "rroue@laligue-fol29.org",
+	"tel": "02 98 34 16 40",
 	"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.4721566,
-          	48.3993805
+          	-4.5324,
+          	48.38452
         ]
       }
     },
@@ -979,7 +979,7 @@
 	"facebook": "mediatheque.de.locmine",
 	"email": "",
 	"tel": "",
-	"rss": ""
+	"rss": "http://mediatheque.mairie-locmine.fr/search.php?filter[]=noticeType:(generale%20OR%20periodique%20OR%20serie)&filter[]=newitem:T&view=rss&imagesonly=T&count=10&hl=off&random=T&nojsonupdate=T&sort=sort_inventoryDate+desc"
       },
       "geometry": {
         	"type": "Point",
@@ -2349,21 +2349,21 @@
         	"name": "La Flottille",
         	"organisation": "",
         	"structure": "cantine",
-	"adresse": "Boulevard Pralognan La Vanoise",
-	"cp": "29160",
-        "ville": "Crozon",
-        "web": "http://www.comcom-crozon.com/crozon-entreprendre/espace-de-travail-partage",
-        "twitter": "@CoworkingCrozon",
-	"facebook": "laflottillecoworkingcrozon",
-	"email": "coworking@comcom-crozon.bzh",
-	"tel": "02 98 93 48 38",
-	"rss": ""
+			"adresse": "Boulevard Pralognan La Vanoise",
+			"cp": "29160",
+        	"ville": "Crozon",
+	        "web": "http://www.comcom-crozon.com/crozon-entreprendre/espace-de-travail-partage",
+		    "twitter": "@CoworkingCrozon",
+			"facebook": "laflottillecoworkingcrozon",
+			"email": "coworking@comcom-crozon.bzh",
+			"tel": "02 98 93 48 38",
+			"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.492956999999933,
-	  	48.247833
+	          	-4.492956999999933,
+			  	48.247833
         ]
       }
     },  
@@ -2375,21 +2375,21 @@
         	"name": "SNALIS",
         	"organisation": "",
         	"structure": "usages",
-	"adresse": "La Maison du Libre<br />61, rue d'Anjou",
-	"cp": "44600",
-        "ville": "Saint-Nazaire",
-        "web": "http://snalis.org",
-        "twitter": "",
-	"facebook": "",
-	"email": "contact@snalis.org",
-	"tel": "09 50 72 82 51",
-	"rss": "http://snalis.org/spip.php?page=backend"
+			"adresse": "La Maison du Libre<br />61, rue d'Anjou",
+			"cp": "44600",
+	        "ville": "Saint-Nazaire",
+	        "web": "http://snalis.org",
+	        "twitter": "",
+			"facebook": "",
+			"email": "contact@snalis.org",
+			"tel": "09 50 72 82 51",
+			"rss": "http://snalis.org/spip.php?page=backend"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-2.210235,
-	  	47.277403
+	          	-2.210235,
+			  	47.277403
         ]
       }
     },  
@@ -2401,21 +2401,21 @@
         	"name": "La Sphère",
         	"organisation": "",
         	"structure": "cantine",
-	"adresse": "32, rue Georges Clémenceau",
-	"cp": "29400",
-        "ville": "Landivisiau",
-        "web": "http://www.pays-de-landivisiau.com/accueil-des-entreprises/la-sphere",
-        "twitter": "",
-	"facebook": "coworkinglandivisiau",
-	"email": "economie@pays-de-landivisiau.com",
-	"tel": "",
-	"rss": ""
+			"adresse": "32, rue Georges Clémenceau",
+			"cp": "29400",
+        	"ville": "Landivisiau",
+        	"web": "http://www.pays-de-landivisiau.com/accueil-des-entreprises/la-sphere",
+        	"twitter": "",
+			"facebook": "coworkinglandivisiau",
+			"email": "economie@pays-de-landivisiau.com",
+			"tel": "",
+			"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.06848,
-	  	48.50678
+          		-4.06848,
+	  			48.50678
         ]
       }
     },  
@@ -2427,21 +2427,21 @@
         	"name": "La Grande M4ison",
         	"organisation": "",
         	"structure": "cantine",
-	"adresse": "149, rue Pierre Semard",
-	"cp": "29200",
-        "ville": "Brest",
-        "web": "http://lagrandemaison.thecorner.fr",
-        "twitter": "@thecornerfr",
-	"facebook": "TheCornerBrest",
-	"email": "hello@thecorner.fr",
-	"tel": "06 60 28 02 54",
-	"rss": "http://medium.com/feed/the-corner-mindset"
+		"adresse": "149, rue Pierre Semard",
+		"cp": "29200",
+        	"ville": "Brest",
+        	"web": "http://lagrandemaison.thecorner.fr",
+        	"twitter": "@thecornerfr",
+		"facebook": "TheCornerBrest",
+		"email": "hello@thecorner.fr",
+		"tel": "06 60 28 02 54",
+		"rss": "http://medium.com/feed/the-corner-mindset"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.47033,
-	  	48.39075
+          		-4.47033,
+	  		48.39075
         ]
       }
     },
@@ -2454,21 +2454,21 @@
         	"name": "The Mess",
         	"organisation": "",
         	"structure": "cantine",
-	"adresse": "19, rue Jean Macé<br />RDC Télégramme",
-	"cp": "29200",
+		"adresse": "19, rue Jean Macé<br />RDC Télégramme",
+		"cp": "29200",
         	"ville": "Brest",
         	"web": "http://www.lacantine-brest.net",
         	"twitter": "@AnDaolVras",
-	"facebook": "AnDaolVras",
-	"email": "coucou@lacantine-brest.net",
-	"tel": "06 18 76 28 15",
-	"rss": "http://www.lacantine-brest.net/feed/"
+		"facebook": "AnDaolVras",
+		"email": "coucou@lacantine-brest.net",
+		"tel": "06 18 76 28 15",
+		"rss": "http://www.lacantine-brest.net/feed/"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.48755,
-	   	48.38660
+          		-4.48755,
+	   		48.38660
         ]
       }
     },
@@ -2481,21 +2481,156 @@
         	"name": "Espace multimédia du Polygone",
         	"organisation": "Patronage Laïque de Lorient",
         	"structure": "usages",
-	"adresse": "Centre social du Polygone<br />80, avenue Charles de Gaulle",
-	"cp": "56100",
+		"adresse": "Centre social du Polygone<br />80, avenue Charles de Gaulle",
+		"cp": "56100",
         	"ville": "Lorient",
         	"web": "http://www.pllorient.org/web/centre-social-du-polygone/espace-multimedia",
         	"twitter": "",
-	"facebook": "epn.pll",
-	"email": "multimedia.polygone@gmail.com",
-	"tel": "",
-	"rss": ""
+		"facebook": "epn.pll",
+		"email": "multimedia.polygone@gmail.com",
+		"tel": "",
+		"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-3.37406,
-	   	47.74083
+          		-3.37406,
+	   		47.74083
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "97",
+        	"name": "L'Embarcadère",
+        	"organisation": "",
+        	"structure": "cantine",
+		"adresse": "19, rue des grands viviers",
+		"cp": "29630",
+        	"ville": "Plougasnou",
+        	"web": "http://lembarcadere-plougasnou.com/",
+        	"twitter": "",
+		"facebook": "embarcadere.entreprendreenborddemer",
+		"email": "",
+		"tel": "",
+		"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-3.82727,
+	   		48.70746
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "98",
+        	"name": "Fam'Lab [itinérant]",
+        	"organisation": "Familles Rurales 35",
+        	"structure": "fablab",
+		"adresse": "11, avenue de Brocéliande",
+		"cp": "35131",
+        	"ville": "Chartres-de-Bretagne",
+        	"web": "",
+        	"twitter": "",
+		"facebook": "",
+		"email": "info.fd35@famillesrurales.org",
+		"tel": "02 99 77 12 12",
+		"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-1,7013424,
+	   		48,0371591
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "99",
+        	"name": "Rehab-Lab",
+        	"organisation": "Centre Mutualiste de Rééducation & de réadaptation fonctionnelles de Kerpape",
+        	"structure": "fablab",
+		"adresse": "CMRRF de Kerpape",
+		"cp": "56270",
+        	"ville": "Ploemeur",
+        	"web": "http://k-lab.fr/wordpress/rehab-lab/",
+        	"twitter": "",
+		"facebook": "",
+		"email": "info@k-lab.fr",
+		"tel": "",
+		"rss": "http://k-lab.fr/wordpress/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-3.42017,
+	   		47.70191
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "100",
+        	"name": "FabLab Iroise",
+        	"organisation": "",
+        	"structure": "fablab",
+		"adresse": "Espace culturel — Place Dr Guyader",
+		"cp": "29290",
+        	"ville": "Saint-Renan",
+        	"web": "http://fablab-iroise.fr",
+        	"twitter": "@fablabiroise",
+		"facebook": "fablabiroise",
+		"email": "contact@fablab-iroise.fr",
+		"tel": "",
+		"rss": "http://fablab-iroise.fr/?feed=rss2"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-4.61972,
+	   		48.43402
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "101",
+        	"name": "Médiathèque d'Auray",
+        	"organisation": "",
+        	"structure": "usages",
+		"adresse": "Espace Athéna — Place du Gohlérez",
+		"cp": "56400",
+        	"ville": "Auray",
+        	"web": "http://mediatheque.auray.fr",
+        	"twitter": "media_auray",
+		"facebook": "mediathequeauray",
+		"email": "mediatheque@ville-auray.fr",
+		"tel": "02 97 56 18 01 ",
+		"rss": "http://mediatheque.auray.fr/search.php?filter[]=newitem:T&view=rss&count=10&title=Nouveaut%C3%A9s"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-2.98957,
+	   		47.66568
         ]
       }
     }
