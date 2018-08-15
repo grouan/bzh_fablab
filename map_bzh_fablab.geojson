@@ -2525,6 +2525,87 @@
 	   			48.70746
         ]
       }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "98",
+        	"name": "Fam'Lab [itinérant]",
+        	"organisation": "Familles Rurales 35",
+        	"structure": "fablab",
+			"adresse": "11, avenue de Brocéliande",
+			"cp": "35131",
+        	"ville": "Chartres-de-Bretagne",
+        	"web": "",
+        	"twitter": "",
+			"facebook": "",
+			"email": "info.fd35@famillesrurales.org",
+			"tel": "02 99 77 12 12",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-1,7013424,
+	   			48,0371591
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "99",
+        	"name": "Rehab-Lab",
+        	"organisation": "Centre Mutualiste de Rééducation & de réadaptation fonctionnelles de Kerpape",
+        	"structure": "fablab",
+			"adresse": "CMRRF de Kerpape",
+			"cp": "56270",
+        	"ville": "Ploemeur",
+        	"web": "http://k-lab.fr/wordpress/rehab-lab/",
+        	"twitter": "",
+			"facebook": "",
+			"email": "info@k-lab.fr",
+			"tel": "",
+			"rss": "http://k-lab.fr/wordpress/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-3.42017,
+	   			47.70191
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "100",
+        	"name": "FabLab Iroise",
+        	"organisation": "",
+        	"structure": "fablab",
+			"adresse": "Espace culturel — Place Dr Guyader",
+			"cp": "29290",
+        	"ville": "Saint-Renan",
+        	"web": "http://fablab-iroise.fr",
+        	"twitter": "@fablabiroise",
+			"facebook": "fablabiroise",
+			"email": "contact@fablab-iroise.fr",
+			"tel": "",
+			"rss": "http://fablab-iroise.fr/?feed=rss2"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-4.61972,
+	   			48.43402
+        ]
+      }
     }
     
     
