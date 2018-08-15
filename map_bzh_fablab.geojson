@@ -2552,33 +2552,6 @@
 	   			48,0371591
         ]
       }
-    },
-    
-	  
-    {
-      "type": "Feature",
-      "properties": {
-        	"id": "99",
-        	"name": "Rehab-Lab",
-        	"organisation": "Centre Mutualiste de Rééducation & de réadaptation fonctionnelles de Kerpape",
-        	"structure": "fablab",
-			"adresse": "CMRRF de Kerpape",
-			"cp": "56270",
-        	"ville": "Ploemeur",
-        	"web": "http://k-lab.fr/wordpress/rehab-lab/",
-        	"twitter": "",
-			"facebook": "",
-			"email": "info@k-lab.fr",
-			"tel": "",
-			"rss": "http://k-lab.fr/wordpress/feed/"
-      },
-      "geometry": {
-        	"type": "Point",
-        	"coordinates": [
-          		-3.42017,
-	   			47.70191
-        ]
-      }
     }
     
     
