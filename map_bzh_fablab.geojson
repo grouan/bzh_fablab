@@ -2579,33 +2579,6 @@
 	   			47.70191
         ]
       }
-    },
-    
-	  
-    {
-      "type": "Feature",
-      "properties": {
-        	"id": "100",
-        	"name": "FabLab Iroise",
-        	"organisation": "",
-        	"structure": "fablab",
-			"adresse": "Espace culturel — Place Dr Guyader",
-			"cp": "29290",
-        	"ville": "Saint-Renan",
-        	"web": "http://fablab-iroise.fr",
-        	"twitter": "@fablabiroise",
-			"facebook": "fablabiroise",
-			"email": "contact@fablab-iroise.fr",
-			"tel": "",
-			"rss": "http://fablab-iroise.fr/?feed=rss2"
-      },
-      "geometry": {
-        	"type": "Point",
-        	"coordinates": [
-          		-4.61972,
-	   			48.43402
-        ]
-      }
     }
     
     
