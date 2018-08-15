@@ -28,6 +28,32 @@
       }
     },
     
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "8",
+        	"name": "Ouvr'@ges",
+        	"organisation": "Papifab de Kerourien",
+        	"structure": "fablab",
+	"adresse": "Rue Père Ricard",
+	"cp": "29200",
+        	"ville": "Brest",
+        	"web": "https://ouvragesfablab.wordpress.com",
+        	"twitter": "",
+	"facebook": "ouvragesfablab",
+	"email": "rroue@laligue-fol29.org",
+	"tel": "02 98 34 16 40",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.5324,
+          	48.38452
+        ]
+      }
+    },
+    
 	  
     {
       "type": "Feature",
