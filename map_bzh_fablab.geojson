@@ -2533,23 +2533,104 @@
       "properties": {
         	"id": "98",
         	"name": "Fam'Lab (itinérant)",
-        	"organisation": "",
+        	"organisation": "Familles Rurales 35",
         	"structure": "fablab",
-			"adresse": "",
-			"cp": "",
-        	"ville": "",
+			"adresse": "11, avenue de Brocéliande",
+			"cp": "35131",
+        	"ville": "Chartres-de-Bretagne",
         	"web": "",
         	"twitter": "",
 			"facebook": "",
-			"email": "",
-			"tel": "",
+			"email": "info.fd35@famillesrurales.org",
+			"tel": "02 99 77 12 12",
 			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-1.7013424,
+	   			48.0371591
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "99",
+        	"name": "Rehab-Lab",
+        	"organisation": "Centre Mutualiste de Rééducation & de réadaptation fonctionnelles de Kerpape",
+        	"structure": "fablab",
+			"adresse": "CMRRF de Kerpape",
+			"cp": "56270",
+        	"ville": "Ploemeur",
+        	"web": "http://k-lab.fr/wordpress/rehab-lab/",
+        	"twitter": "",
+			"facebook": "",
+			"email": "info@k-lab.fr",
+			"tel": "",
+			"rss": "http://k-lab.fr/wordpress/feed/"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
           		-3.42017,
 	   			47.70191
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "100",
+        	"name": "FabLab Iroise",
+        	"organisation": "",
+        	"structure": "fablab",
+			"adresse": "Espace culturel — Place Dr Guyader",
+			"cp": "29290",
+        	"ville": "Saint-Renan",
+        	"web": "http://fablab-iroise.fr",
+        	"twitter": "@fablabiroise",
+			"facebook": "fablabiroise",
+			"email": "contact@fablab-iroise.fr",
+			"tel": "",
+			"rss": "http://fablab-iroise.fr/?feed=rss2"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-4.61972,
+	   			48.43402
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "101",
+        	"name": "Médiathèque d'Auray",
+        	"organisation": "",
+        	"structure": "usages",
+			"adresse": "Espace Athéna — Place du Gohlérez",
+			"cp": "56400",
+        	"ville": "Auray",
+        	"web": "http://mediatheque.auray.fr",
+        	"twitter": "media_auray",
+			"facebook": "mediathequeauray",
+			"email": "mediatheque@ville-auray.fr",
+			"tel": "02 97 56 18 01 ",
+			"rss": "http://mediatheque.auray.fr/search.php?filter[]=newitem:T&view=rss&count=10&title=Nouveaut%C3%A9s"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-2.98957,
+	   			47.66568
         ]
       }
     }
