@@ -215,9 +215,9 @@
       "properties": {
         	"id": "9",
         	"name": "Les Fabriques du Ponant",
-        	"organisation": "",
+        	"organisation": "Association les Petits Débrouillards Grand Ouest",
         	"structure": "fablabMIT",
-	"adresse": "40, rue Jules Lesven",
+	"adresse": "2, rue Paul Dukas",
 	"cp": "29200",
         	"ville": "Brest",
         	"web": "http://www.lesfabriquesduponant.net",
@@ -789,8 +789,8 @@
         	"name": "L'Effet Papillon",
         	"organisation": "Association Dans l'Ensemble",
         	"structure": "tierslieu",
-	"adresse": "19, route de Locminé",
-	"cp": "56150",
+			"adresse": "19, route de Locminé",
+			"cp": "56150",
         	"ville": "Baud",
         	"web": "",
         	"twitter": "",
@@ -1957,16 +1957,16 @@
       "properties": {
         	"id": "76",
         	"name": "Esprit FabLab",
-        	"organisation": "",
+        	"organisation": "Association les Petits Débrouillards Grand Ouest",
         	"structure": "fablab",
-	"adresse": "13 rue Abbé Gibert",
+	"adresse": "13, rue Abbé Gibert",
 	"cp": "22110",
         	"ville": "Rostrenen",
-        	"web": "",
+        	"web": "https://esprit-fablab.org",
         	"twitter": "",
 	"facebook": "EspritFablab",
-	"email": "",
-	"tel": "",
+	"email": "contact@esprit-fablab.org",
+	"tel": "09.84.00.59.19",
 	"rss": ""
       },
       "geometry": {
@@ -2193,21 +2193,21 @@
         	"name": "G-Lab",
         	"organisation": "",
         	"structure": "fablab",
-	"adresse": "3, place de la Gare",
-	"cp": "35120",
+			"adresse": "4, place de la Cathédrale",
+			"cp": "35120",
         	"ville": "Dol-de-Bretagne",
         	"web": "http://www.dol-fablab.com",
         	"twitter": "",
-	"facebook": "",
-	"email": "dol.fablab@gmail.com",
-	"tel": "02 99 58 16 66",
-	"rss": "http://www.dol-fablab.com/feed/"
+			"facebook": "",
+			"email": "info@dol-fablab.com",
+			"tel": "02 99 58 16 66",
+			"rss": "http://www.dol-fablab.com/feed/"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-1.75054,
-	  	48.54474
+          	-1.75589,
+	  		48.55028
         ]
       }
     },  
@@ -2589,7 +2589,7 @@
         	"name": "FabLab Iroise",
         	"organisation": "",
         	"structure": "fablab",
-			"adresse": "Espace culturel — Place Dr Guyader",
+			"adresse": "4, place du Vieux Marché<br />2e étage Office de Tourisme",
 			"cp": "29290",
         	"ville": "Saint-Renan",
         	"web": "http://fablab-iroise.fr",
@@ -2602,8 +2602,8 @@
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          		-4.61972,
-	   			48.43402
+          		-4.6234,
+	   			48.43282
         ]
       }
     },
@@ -2623,7 +2623,7 @@
         	"twitter": "media_auray",
 			"facebook": "mediathequeauray",
 			"email": "mediatheque@ville-auray.fr",
-			"tel": "02 97 56 18 01 ",
+			"tel": "02 97 56 18 01",
 			"rss": "http://mediatheque.auray.fr/search.php?filter[]=newitem:T&view=rss&count=10&title=Nouveaut%C3%A9s"
       },
       "geometry": {
@@ -2631,6 +2631,87 @@
         	"coordinates": [
           		-2.98957,
 	   			47.66568
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "102",
+        	"name": "La Cordée Rennes-Lice",
+        	"organisation": "La Cordée",
+        	"structure": "cantine",
+			"adresse": "1, carrefour Jouaust",
+			"cp": "35000",
+        	"ville": "Rennes",
+        	"web": "https://www.la-cordee.net/cordee/rennes/rennes-lices/",
+        	"twitter": "LaCordeeRennes",
+			"facebook": "",
+			"email": "",
+			"tel": "",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-1.68608,
+	   			48.11266
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "103",
+        	"name": "Rehab-Lab",
+        	"organisation": "Centre de Perharidy / Fondation Ildys",
+        	"structure": "fablab",
+			"adresse": "Presqu’île de Perharidy",
+			"cp": "29684",
+        	"ville": "Roscoff",
+        	"web": "",
+        	"twitter": "",
+			"facebook": "communauterehablab",
+			"email": "rehablab@ildys.org",
+			"tel": "02 98 29 39 39",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-4.005975,
+	   			48.723455
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "104",
+        	"name": "FougèresLab",
+        	"organisation": "Pays de Fougères",
+        	"structure": "fablabMIT",
+			"adresse": "Médiathèque La Clairière<br />2, Esplanade Chaussonnières",
+			"cp": "35300",
+        	"ville": "Fougères",
+        	"web": "http://fougereslab.fr",
+        	"twitter": "FougeresLab",
+			"facebook": "FougeresLab",
+			"email": "fablab@pays-fougeres.org",
+			"tel": "02 98 29 39 39",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-1.19444,
+	   			48.35002
         ]
       }
     }
