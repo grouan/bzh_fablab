@@ -2714,6 +2714,60 @@
 	   			48.35002
         ]
       }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "105",
+        	"name": "FabLab-Diwy",
+        	"organisation": "",
+        	"structure": "fablab",
+			"adresse": "Place d'Alsace",
+			"cp": "22100",
+        	"ville": "Lanvallay",
+        	"web": "http://www.diwy.fr",
+        	"twitter": "FDiwy",
+			"facebook": "fablabdiwy",
+			"email": "contact@diwy.fr",
+			"tel": "",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-2.02874,
+	   			48.45573
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "106",
+        	"name": "FabLab Pays d'Ancenis",
+        	"organisation": "",
+        	"structure": "fablab",
+			"adresse": "Lycée Jean-Baptiste Eriau<br />5, place Armand de Béthune",
+			"cp": "44150",
+        	"ville": "Ancenis",
+        	"web": "https://fablabancenis.wordpress.com",
+        	"twitter": "fablabancenis",
+			"facebook": "fablabancenis",
+			"email": "fablabancenis@gmail.com",
+			"tel": "",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-1.19132,
+	   			47.36405
+        ]
+      }
     }
     
     
