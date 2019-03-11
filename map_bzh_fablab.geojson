@@ -449,17 +449,17 @@
       "properties": {
         	"id": "18",
         	"name": "La CamBuzz",
-        	"organisation": "",
+        	"organisation": "Le Poool",
         	"structure": "cantine",
-	"adresse": "Pôle La Grande Passerelle<br />Rue Théodore Monod",
-	"cp": "35288",
+			"adresse": "Pôle La Grande Passerelle<br />Rue Théodore Monod",
+			"cp": "35288",
         	"ville": "Saint-Malo",
-        	"web": "http://digital-saint-malo.com",
-        	"twitter": "@LaCamBuzz",
-	"facebook": "DigitalStMalo",
-	"email": "",
-	"tel": "",
-	"rss": ""
+        	"web": "",
+        	"twitter": "@LaFTRSM",
+			"facebook": "",
+			"email": "",
+			"tel": "02 30 30 07 02",
+			"rss": ""
       },
       "geometry": {
         	"type": "Point",
