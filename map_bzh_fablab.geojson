@@ -974,12 +974,12 @@
 	"adresse": "Place Anne de Bretagne",
 	"cp": "56500",
         	"ville": "Locminé",
-        	"web": "http://mediatheque.mairie-locmine.fr",
+        	"web": "http://www.lemaillon.bzh",
         	"twitter": "@bibliolocmine",
 	"facebook": "mediatheque.de.locmine",
 	"email": "",
 	"tel": "",
-	"rss": "http://mediatheque.mairie-locmine.fr/search.php?filter[]=noticeType:(generale%20OR%20periodique%20OR%20serie)&filter[]=newitem:T&view=rss&imagesonly=T&count=10&hl=off&random=T&nojsonupdate=T&sort=sort_inventoryDate+desc"
+	"rss": ""
       },
       "geometry": {
         	"type": "Point",
