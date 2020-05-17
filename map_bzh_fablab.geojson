@@ -845,7 +845,7 @@
 	"cp": "29200",
         	"ville": "Brest",
         	"web": "",
-        	"twitter": "",
+        	"twitter": "@univpopnumdam",
 	"facebook": "",
 	"email": "",
 	"tel": "",
@@ -2887,7 +2887,7 @@
         	"ville": "Plouvien",
         	"web": "",
         	"twitter": "",
-	"facebook": "",
+	"facebook": "au192",
 	"email": "au192rda@gmail.com",
 	"tel": "",
 	"rss": ""
@@ -2897,6 +2897,136 @@
         	"coordinates": [
           	-4.45778,
 	   	48.5303
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "112",
+        	"name": "L'Atelier Corail",
+        	"organisation": "",
+        	"structure": "cantine",
+	"adresse": "13, route de Brest",
+	"cp": "29000",
+        	"ville": "Quimper",
+        	"web": "https://www.lateliercorail.com",
+        	"twitter": "",
+	"facebook": "lateliercorail",
+	"email": "coucou@lateliercorail.com",
+	"tel": "",
+	"rss": "https://www.lateliercorail.com/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.0936623,
+	   	 47.9987122
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "113",
+        	"name": "Gullivigne",
+        	"organisation": "Association",
+        	"structure": "fablab",
+	"adresse": "Aquatrium - Esplanade de Klettgau",
+	"cp": "44190",
+        	"ville": "Clisson",
+        	"web": "https://gullivigne.org",
+        	"twitter": "",
+	"facebook": "",
+	"email": "contact@gullivigne.org",
+	"tel": "",
+	"rss": "https://gullivigne.org/index.php/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.28869,
+	   	 47.0945
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "114",
+        	"name": "Maison Glaz",
+        	"organisation": "Association Centre d’Activités pour la Revitalisation Ecologique et Sociale des Saisies",
+        	"structure": "cantine",
+	"adresse": "Les Saisies<br />Route du Fort",
+	"cp": "56680",
+        	"ville": "Gâvres",
+        	"web": "https://maison-glaz.bzh",
+        	"twitter": "",
+	"facebook": "MaisonGlaz",
+	"email": "bonjour@maison-glaz.fr",
+	"tel": "07 61 55 80 16",
+	"rss": "https://maison-glaz.bzh/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-3.3586,
+	   	47.6886
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "115",
+        	"name": "L'Eclozr",
+        	"organisation": "L'Eclozr S.A.S SEHM",
+        	"structure": "cantine",
+	"adresse": "1, rue du Général Maurice Guillaudot",
+	"cp": "35000",
+        	"ville": "Rennes",
+        	"web": "https://www.leclozr.fr",
+        	"twitter": "leclozr",
+	"facebook": "",
+	"email": "hello@leclozr.fr",
+	"tel": "09 72 17 11 85",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.67505,
+	   	48.11376
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "116",
+        	"name": "La Volumerie",
+        	"organisation": "Elan Créateur",
+        	"structure": "fablab",
+	"adresse": "6, la Mare Péchard",
+	"cp": "22250",
+        	"ville": "Broons",
+        	"web": "https://www.lavolumerie.fr/la-fabrique",
+        	"twitter": "@LaVolumerie",
+	"facebook": "LabVolumerie",
+	"email": "contact@lavolumerie.fr",
+	"tel": "06 89 76 67 82",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.27071,
+	   	48.30365
         ]
       }
     }
