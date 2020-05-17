@@ -230,8 +230,8 @@
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-4.4805,
-	   	48.4085982
+          	-4.4980018,
+	   	48.408477
         ]
       }
     },
@@ -737,7 +737,7 @@
         	"name": "Lab Bro Pondi",
         	"organisation": "",
         	"structure": "fablabMIT",
-	"adresse": "Espace Kenere<br />Médiathèque municipale",
+	"adresse": "IUT de Pontivy",
 	"cp": "56300",
         	"ville": "Pontivy",
         	"web": "http://labbropondi.fr",
@@ -1335,7 +1335,7 @@
         	"name": "GIS Marsouin",
         	"organisation": "",
         	"structure": "formation",
-	"adresse": "Technopôle Brest Iroise",
+	"adresse": "IMT Atlantique<br />265, avenue du Technopole (Plouzané)",
 	"cp": "29200",
         	"ville": "Brest",
         	"web": "http://www.marsouin.org",
@@ -1593,9 +1593,9 @@
       "properties": {
         	"id": "62",
         	"name": "La Fab'rique",
-        	"organisation": "",
+        	"organisation": "Communauté de Communes du Pays de La Roche aux Fées",
         	"structure": "fablabMIT",
-	"adresse": "Communauté de Communes du Pays de La Roche aux Fées<br />1, rue Jacques de Corbière",
+	"adresse": "1, rue Jacques de Corbière",
 	"cp": "35150",
         	"ville": "Amanlis",
         	"web": "https://lafabriqueccprf.wordpress.com",
@@ -1967,7 +1967,7 @@
 	"facebook": "EspritFablab",
 	"email": "contact@esprit-fablab.org",
 	"tel": "09.84.00.59.19",
-	"rss": ""
+	"rss": "https://esprit-fablab.org/index.php?feed/atom"
       },
       "geometry": {
         	"type": "Point",
@@ -2754,18 +2754,149 @@
 			"adresse": "Lycée Jean-Baptiste Eriau<br />5, place Armand de Béthune",
 			"cp": "44150",
         	"ville": "Ancenis",
-        	"web": "https://fablabancenis.wordpress.com",
+        	"web": "https://fablabancenis.fr",
         	"twitter": "fablabancenis",
 			"facebook": "fablabancenis",
-			"email": "fablabancenis@gmail.com",
+			"email": "contact@fablabancenis.fr",
 			"tel": "",
-			"rss": ""
+			"rss": "https://www.fablabancenis.fr/feed/"
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
           		-1.19132,
 	   			47.36405
+        ]
+      }
+    },
+    
+	  
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "107",
+        	"name": "Cyberespace de Plourin",
+        	"organisation": "Commune de Plourin",
+        	"structure": "usages",
+			"adresse": "Rue de Kerguillerm",
+			"cp": "29830",
+        	"ville": "Plourin",
+        	"web": "https://www.plourin.fr/cyberespace/",
+        	"twitter": "",
+			"facebook": "",
+			"email": "cyber@plourin.fr",
+			"tel": "",
+			"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          		-4.687129,
+	   		48.508109
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "108",
+        	"name": "L'Atelier partagé de l'Île Molène",
+        	"organisation": "Association / Fondation Orange",
+        	"structure": "makerspace",
+	"adresse": "Le Bourg",
+	"cp": "29259",
+        	"ville": "Île Molène",
+        	"web": "https://apim.armorik.net",
+        	"twitter": "@ateliermolene",
+	"facebook": "ateliermolene",
+	"email": "atelier.partage.ile.molene@gmail.com",
+	"tel": "",
+	"rss": "https://apim.armorik.net/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.956386,
+	   	48.395592
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "109",
+        	"name": "La Canopée",
+        	"organisation": "Communauté de communes de La Roche aux Fées",
+        	"structure": "cantine",
+	"adresse": "2, rue Louis Amoureux",
+	"cp": "35150",
+        	"ville": "Janzé",
+        	"web": "https://www.lacanopee.bzh",
+        	"twitter": "",
+	"facebook": "",
+	"email": "lacanopee@ccprf.fr",
+	"tel": "",
+	"rss": "https://www.lacanopee.bzh/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.498011,
+	   	47.958059
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "110",
+        	"name": "Espace Kdoret",
+        	"organisation": "Société Coopérative d’Intérêt Collectif Gens de la fontaine",
+        	"structure": "tierslieu",
+	"adresse": "12, rue de Verdun",
+	"cp": "22110",
+        	"ville": "Rostrenen",
+        	"web": "https://asso.espace-kdoret.org",
+        	"twitter": "",
+	"facebook": "",
+	"email": "contact@espace-kdoret.org",
+	"tel": "",
+	"rss": "https://asso.espace-kdoret.org/feed/atom"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-3,3176454,
+          	48,2371617
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "111",
+        	"name": "Au 192",
+        	"organisation": "",
+        	"structure": "cantine",
+	"adresse": "192, rue des Abers",
+	"cp": "29860",
+        	"ville": "Plouvien",
+        	"web": "",
+        	"twitter": "",
+	"facebook": "",
+	"email": "au192rda@gmail.com",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.45778,
+	   	48.5303
         ]
       }
     }
