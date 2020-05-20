@@ -162,17 +162,17 @@
       "type": "Feature",
       "properties": {
         	"id": "7",
-        	"name": "SiliconKerné",
-        	"organisation": "",
+        	"name": "La Cantine Quimper",
+        	"organisation": "Technopole Quimper-Cornouaille",
         	"structure": "cantine",
 	"adresse": "2, rue François Briant de Laubrière",
 	"cp": "29000",
         	"ville": "Quimper",
-        	"web": "http://www.silicon-kerne.net",
-        	"twitter": "@SiliconKerne",
-	"facebook": "siliconkerne",
+        	"web": "http://www.cantine-numerique-cornouaille.bzh",
+        	"twitter": "@CantineQuimper",
+	"facebook": "",
 	"email": "",
-	"tel": "",
+	"tel": "02 98 10 16 84 ",
 	"rss": ""
       },
       "geometry": {
@@ -685,10 +685,10 @@
         	"name": "Muséomix Ouest",
         	"organisation": "",
         	"structure": "usages",
-	"adresse": "Musée de la Bretagne<br />10, cours des Alliés",
+	"adresse": "61, boulevard de Sévigné",
 	"cp": "35000",
         	"ville": "Rennes",
-        	"web": "http://www.museomix.org",
+        	"web": "http://www.museomixouest.org",
         	"twitter": "@MuseomixOuest",
 	"facebook": "MuseomixOuest",
 	"email": "",
@@ -698,8 +698,8 @@
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-1.674259006977081,
-          	48.10509387047545
+          	-1.674259,
+          	48.105093
         ]
       }
     },
@@ -1098,24 +1098,24 @@
       "type": "Feature",
       "properties": {
         	"id": "43",
-        	"name": "L'Hôtel Pasteur",
-        	"organisation": "",
-        	"structure": "tierslieu",
+        	"name": "L'Hôtel à projets",
+        	"organisation": "Association collégiale 'L'Hôtel Pasteur'",
+        	"structure": "usages",
 	"adresse": "2, place Pasteur",
 	"cp": "35000",
         	"ville": "Rennes",
         	"web": "http://www.hotelpasteur.fr",
         	"twitter": "@HotelPasteur",
 	"facebook": "",
-	"email": "",
-	"tel": "",
+	"email": "contact@hotelpasteur.fr",
+	"tel": "02 99 63 83 76",
 	"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-1.6738266,
-	   	48.1104494
+          	-1.67377,
+	   	48.11034
         ]
       }
     },
@@ -1592,24 +1592,24 @@
       "type": "Feature",
       "properties": {
         	"id": "62",
-        	"name": "La Fab'rique",
-        	"organisation": "Communauté de Communes du Pays de La Roche aux Fées",
+        	"name": "La Fabrique Amanlis",
+        	"organisation": "Réseau des FabLabs intercommunaux de Roche aux Fées Communauté",
         	"structure": "fablabMIT",
 	"adresse": "1, rue Jacques de Corbière",
 	"cp": "35150",
         	"ville": "Amanlis",
-        	"web": "https://lafabriqueccprf.wordpress.com",
-        	"twitter": "@lafabriqueccprf",
-	"facebook": "lafabriqueccprf",
+        	"web": "https://www.lafabrique-rocheauxfees.fr",
+        	"twitter": "@LaFabriqueRafCo",
+	"facebook": "LaFabriqueRafCo",
 	"email": "fablab@ccprf.fr",
 	"tel": "",
-	"rss": "https://lafabriqueccprf.wordpress.com/feed/"
+	"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-1.4750927,
-          	48.003654
+          	-1.47502,
+          	48.00363
         ]
       }
     },
@@ -2843,8 +2843,8 @@
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-1.498011,
-	   	47.958059
+	   	-1.49808,
+		47.95809
         ]
       }
     },
@@ -3027,6 +3027,110 @@
         	"coordinates": [
           	-2.27071,
 	   	48.30365
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "117",
+        	"name": "Dedale",
+        	"organisation": "Lycée Vauban / Coopérative pédagogique numérique",
+        	"structure": "formation",
+	"adresse": "Rue de Kerichen",
+	"cp": "29200",
+        	"ville": "Brest",
+        	"web": "https://fablab-dedale.fr",
+        	"twitter": "DedaleFablab",
+	"facebook": "DedaleFablab",
+	"email": "contact@fablab-dedale.fr",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-4.4805289,
+          	48.4085967
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "118",
+        	"name": "Espace Entreprises Bretagne Romantique",
+        	"organisation": "Communauté de communes Bretagne Romantique",
+        	"structure": "cantine",
+	"adresse": "1, allée de Lohon<br />Parc d'activité de Moulin Madame",
+	"cp": "35270",
+        	"ville": "Combourg",
+        	"web": "https://eebr.fr",
+        	"twitter": "espacentreprise",
+	"facebook": "EspaceEntreprisesBretagneRomantique",
+	"email": "eebr@bretagneromantique.fr",
+	"tel": "02 23 16 46 46",
+	"rss": "https://eebr.fr/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.75389,
+          	48.41863
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "119",
+        	"name": "ÉduLab Pasteur",
+        	"organisation": "Ville de Rennes",
+        	"structure": "tierslieu",
+	"adresse": "2, place Pasteur",
+	"cp": "35000",
+        	"ville": "Rennes",
+        	"web": "https://cutt.ly/edulabpasteurwip",
+        	"twitter": "",
+	"facebook": "",
+	"email": "g.pacotte@ville-rennes.fr",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.6734,
+	   	48.11044
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "120",
+        	"name": "La Fabrique Janzé",
+        	"organisation": "Réseau des FabLabs intercommunaux de Roche aux Fées Communauté",
+        	"structure": "fablabMIT",
+	"adresse": "2, rue Louis Amoureux",
+	"cp": "35150",
+        	"ville": "Janzé",
+        	"web": "https://www.lafabrique-rocheauxfees.fr",
+        	"twitter": "@LaFabriqueRafCo",
+	"facebook": "LaFabriqueRafCo",
+	"email": "fablab@ccprf.fr",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-1.49808,
+		47.95809
         ]
       }
     }
