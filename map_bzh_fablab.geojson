@@ -3133,6 +3133,58 @@
 		47.95809
         ]
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "121",
+        	"name": "Muséomix Ouest Saint-Brieuc",
+        	"organisation": "Muséomix Ouest",
+        	"structure": "usages",
+	"adresse": "Musée d'Art & d'Histoire<br />2 Rue des Lycéens Martyrs",
+	"cp": "22000",
+        	"ville": "Saint-Brieuc",
+        	"web": "http://www.museomixouest.org",
+        	"twitter": "@MuseomixOuest",
+	"facebook": "MuseomixOuest",
+	"email": "",
+	"tel": "",
+	"rss": ""
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.76198,
+          	48.51236
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        	"id": "122",
+        	"name": "Villa Rochannec'h",
+        	"organisation": "Département des Côtes d'Armor",
+        	"structure": "tierslieu",
+	"adresse": "9, rue de Rohannec'h",
+	"cp": "22000",
+        	"ville": "Saint-Brieuc",
+        	"web": "http://rohannech.ddab.org",
+        	"twitter": "@rohannech",
+	"facebook": "Villa-Rohannech-478628575647468",
+	"email": "villa.rohannec@cotesdarmor.fr",
+	"tel": "02 96 77 32 96",
+	"rss": "http://rohannech.ddab.org/feed/"
+      },
+      "geometry": {
+        	"type": "Point",
+        	"coordinates": [
+          	-2.76198,
+          	48.51236
+        ]
+      }
     }
     
     
