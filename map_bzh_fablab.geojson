@@ -1741,27 +1741,27 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "63",
-        	"name": "Chaplab",
-        	"organisation": "",
-        	"structure": "fablab",
-          "adresse": "Lycée Chaptal<br />6, allée Chaptal",
-          "cp": "22000",
-        	"ville": "Saint-Brieuc",
-        	"web": "http://chaplab.info",
-        	"twitter": "@chaplab22",
-          "mastodon":"",
-          "instagram":"",
-          "facebook": "chaplab",
-          "email": "contact@chaplab.info",
-          "tel": "",
-          "rss": ""
+		"id": "63",
+		"name": "Muséomix Ouest Saint-Brieuc",
+		"organisation": "Muséomix Ouest",
+		"structure": "usages",
+		"adresse": "Musée d'Art & d'Histoire<br />2 Rue des Lycéens Martyrs",
+		"cp": "22000",
+		"ville": "Saint-Brieuc",
+		"web": "http://www.museomixouest.org",
+		"twitter": "@MuseomixOuest",
+		"mastodon":"",
+		"instagram":"",
+		"facebook": "MuseomixOuest",
+		"email": "",
+		"tel": "",
+		"rss": ""
       },
       "geometry": {
         	"type": "Point",
         	"coordinates": [
-          	-2.736596,
-          	48.512256
+          	-2.76198,
+          	48.51236
         ]
       }
     },
@@ -3378,35 +3378,7 @@
     {
       "type": "Feature",
       "properties": {
-        	"id": "121",
-        	"name": "Muséomix Ouest Saint-Brieuc",
-        	"organisation": "Muséomix Ouest",
-        	"structure": "usages",
-          "adresse": "Musée d'Art & d'Histoire<br />2 Rue des Lycéens Martyrs",
-          "cp": "22000",
-        	"ville": "Saint-Brieuc",
-        	"web": "http://www.museomixouest.org",
-        	"twitter": "@MuseomixOuest",
-          "mastodon":"",
-          "instagram":"",
-          "facebook": "MuseomixOuest",
-          "email": "",
-          "tel": "",
-          "rss": ""
-      },
-      "geometry": {
-        	"type": "Point",
-        	"coordinates": [
-          	-2.76198,
-          	48.51236
-        ]
-      }
-    },
-    
-    {
-      "type": "Feature",
-      "properties": {
-          "id": "122",
+          "id": "121",
           "name": "Villa Rochannec'h",
           "organisation": "Département des Côtes d'Armor",
           "structure": "tierslieu",
